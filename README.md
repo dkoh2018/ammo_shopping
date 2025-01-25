@@ -6,7 +6,7 @@ Your one-stop destination for smart ammunition shopping! Compare prices, track d
 
 ## 🚀 Features
 
-- **Real-time Price Tracking**: Stay updated with current market prices across multiple retailers
+- **Price Tracking**: Stay updated with current market prices across multiple retailers
 - **Smart Filtering**: Filter by brand, description, price range, and price per round
 - **Visual Analytics**: 
   - 📊 Interactive box plots showing price distribution by caliber
