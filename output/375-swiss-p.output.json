@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "58711001",
             "Retailer": "SGAmmo",
             "Description": "180 Round Canister - 375 Swiss P Ball 350 Grain FMJ Ammo By Ruag- Free Shipping",
             "Brand": "Norma",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/230508053737"
         },
         {
+            "id": "12929063",
             "Retailer": "SGAmmo",
             "Description": "10 Round Box - 375 Swiss P Ball 350 Grain FMJ Ammo By Ruag-Free shipping on $200+",
             "Brand": "Norma",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/230507412052"
         },
         {
+            "id": "22366032",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Ruag Ammotec USA 375 SWISS P 350GR FMJ 2409720",
             "Brand": "Ammotec",

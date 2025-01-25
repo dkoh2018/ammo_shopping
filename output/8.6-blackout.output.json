@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "13301712",
             "Retailer": "Mead Industries",
             "Description": "MADE IN USA!! Mead 8.6 BLACKOUT 250gr FMJ! Subsonic! 20 rounds! New Brass! Free Ammo Box!",
             "Brand": "Mead",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/260553749428"
         },
         {
+            "id": "25345949",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Match 250 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 20 8.6250BL-VELO-20-1",
             "Brand": "Ammunition",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/297615118567"
         },
         {
+            "id": "20840120",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Match 250 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 40 8.6250BL-VELO-40-1",
             "Brand": "Ammunition",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/297615118567"
         },
         {
+            "id": "18612176",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Match 250 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 100 8.6250BL-VELO-100-1",
             "Brand": "Ammunition",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/297615118567"
         },
         {
+            "id": "22327918",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Sierra Matchking 300 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 20 8.6300BL-VELO-20",
             "Brand": "Ammunition",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/292016941705"
         },
         {
+            "id": "28275696",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Sierra Matchking 300 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 40 8.6300BL-VELO-40",
             "Brand": "Ammunition",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/292016941705"
         },
         {
+            "id": "19331984",
             "Retailer": "Republic Ammunition",
             "Description": "8.6 Blackout Sierra Matchking 300 grain BTHP Subsonic New (Made in USA By Veteran Owned Business) - 100 8.6300BL-VELO-100",
             "Brand": "Ammunition",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/292016941705"
         },
         {
+            "id": "22176535",
             "Retailer": "Aitken Arms",
             "Description": "8.6 Blackout 300 grains Solid Copper 16\" Barrel Subsonic New Brass 20rds - Veteran Owned & Operated - Made in Texas - FREE SHIPPING on ORDERS $200 or MORE!",
             "Brand": "Arms",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/268165244005"
         },
         {
+            "id": "23416599",
             "Retailer": "Midwest Gun Works",
             "Description": "Fort Scott Munitions 8.6 Blackout 285 GR TUI Solid Copper, 20 Rounds 758381722393",
             "Brand": "Scott",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/279174154030"
         },
         {
+            "id": "24342704",
             "Retailer": "KIR Ammo",
             "Description": "Gorilla Ammunition 8.6 Blackout 210 Grain Barnes TSX SUPERSONIC lead-free - 20 Rounds (Box) GA86210TSXFREE SHIPPING OVER $199",
             "Brand": "Gorilla",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/246359022061"
         },
         {
+            "id": "30285828",
             "Retailer": "Midwest Gun Works",
             "Description": "Gorilla Ammunition 8.6 Blackout, 210gr Barnes TSX, 20 Round Box GA86210TSX",
             "Brand": "Gorilla",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/281433426625"
         },
         {
+            "id": "79256841",
             "Retailer": "MontanaAR15",
             "Description": "8.6 Blackout 285gr Tumble Upon Impact (TUI) Fort Scott Munitions 86BLK285SCV2SS - 20 Rounds 758381722393",
             "Brand": "Scott",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/307425884476"
         },
         {
+            "id": "26563515",
             "Retailer": "Impact Guns",
             "Description": "Fort Scott Munitions 8.6 Blackout, 285gr, Solid Copper Spun, 20rd Box 758381722393",
             "Brand": "Scott",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/263276027185"
         },
         {
+            "id": "24404734",
             "Retailer": "Gorilla Ammo",
             "Description": "Gorilla, 8.6 Blackout, 210gr Barnes TSX - 20 Round Box",
             "Brand": "Gorilla",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/203598995902"
         },
         {
+            "id": "10305955",
             "Retailer": "LG Outdoors",
             "Description": "Fort Scott Munitions Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun Ammo 20 Round Box(Price per unit for order of 10+ units)",
             "Brand": "Scott",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/283896451822"
         },
         {
+            "id": "58650633",
             "Retailer": "Ammo Sale",
             "Description": "Fort Scott Munitions Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun Ammo 20 Round Box(Price per unit for order of 10+ units)",
             "Brand": "Scott",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/283896093475"
         },
         {
+            "id": "18316440",
             "Retailer": "Wholesale Hunter",
             "Description": "Fort Scott Munitions Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun Ammo 20 Round Box Case of 200(price reflects 5% bulk discount)",
             "Brand": "Scott",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/284023010176"
         },
         {
+            "id": "20473019",
             "Retailer": "Tactical Shit",
             "Description": "Fort Scott 8.6 Blackout Sub-Munition SCS TUI 285gr 20rd Box 758381722393",
             "Brand": "Scott",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/242740238557"
         },
         {
+            "id": "10540441",
             "Retailer": "DB Firearms",
             "Description": "Fort Scott Munitions 86BLK285SCV2SS Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun 20 Per Box/ 10 Cs 758381722393",
             "Brand": "Scott",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/261786284956"
         },
         {
+            "id": "29719804",
             "Retailer": "USA Gun Store",
             "Description": "Fort Scott Munitions 86BLK285SCV2SS Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun 20 Per Box/ 10 Cs 758381722393",
             "Brand": "Scott",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/260744317723"
         },
         {
+            "id": "25308692",
             "Retailer": "Loftus Firearms",
             "Description": "Fort Scott Munitions 86BLK285SCV2SS Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun 20 Per Box/ 10 Case 758381722393",
             "Brand": "Scott",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/285009321886"
         },
         {
+            "id": "20944164",
             "Retailer": "Gman Sporting Arms",
             "Description": "FSM 86BLK-285-SCV2SS 8.6BO 285GR SCV TUI 20/25 758381722393(must submit email address to see this price in cart)",
             "Brand": "Scott",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/250109434288"
         },
         {
+            "id": "20823949",
             "Retailer": "MidwayUSA",
             "Description": "Fort Scott Munitions Subsonic TUI 8.6 Blackout Ammo 285 Grain Solid lead-free Box of 20 758381722393",
             "Brand": "Scott",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/294538105603"
         },
         {
+            "id": "68036535",
             "Retailer": "BattleHawk Armory",
             "Description": "FORT SCOTT MUNITION 8.6 BLACKOUT SUBSONIC 285GR SCV TUI 20rd BOX Ammunition 758381722393(add to cart to see this price)",
             "Brand": "Scott",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/257810519827"
         },
         {
+            "id": "49543211",
             "Retailer": "Wholesale Hunter",
             "Description": "Fort Scott Munitions Tumble Upon Impact (TUI) 8.6 Blackout 285 gr Solid Copper Spun Ammo 20 Round Box",
             "Brand": "Scott",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/284023010176"
         },
         {
+            "id": "12078483",
             "Retailer": "The Marksman",
             "Description": "FSM 86BLK-285-SCV2SS 8.6BO 285GR SCV TUI 20/25 758381722393(add to cart to see this price)",
             "Brand": "Scott",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/279184266727"
         },
         {
+            "id": "93353462",
             "Retailer": "LeadFeather Guns & Ammo",
             "Description": "FSM 86BLK-285-SCV2SS 8.6BO 285GR SCV TUI 20/25 758381722393",
             "Brand": "Scott",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/278896996138"
         },
         {
+            "id": "23150311",
             "Retailer": "Dance's Sporting Goods",
             "Description": "Fort Scott Munitions Tumble Upon Impact (TUI) 8.6 Blackout - 285 Grain Solid Copper Spun - 1050 FPS - 20 Rounds - 86BLK-285-SCV2SS 758381722393",
             "Brand": "Scott",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/289737442915"
         },
         {
+            "id": "25840667",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Fort Scott Munitions 8.6 BLACKOUT 2 758381722393",
             "Brand": "Scott",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/281572567798"
         },
         {
+            "id": "81555997",
             "Retailer": "Tactical Shit",
             "Description": "Kirgin Industries \"Mouse Fart\" 8.6 Blackout Sub-Munition SCS TUI 285gr 20rd Box",
             "Brand": "Scott",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/302367601513"
         },
         {
+            "id": "21375429",
             "Retailer": "Optics Planet",
             "Description": "Fort Scott Munitions 8.6 Blackout Subsonic 285 Grain CNC Machined Solid Copper Brass Cased Centerfire Rifle Ammo 20 Rounds 86BLKOUT-SCV2SS -FREE SHIPPING758381722393",
             "Brand": "Scott",

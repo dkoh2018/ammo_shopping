@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "21731271",
             "Retailer": "MidwayUSA",
             "Description": "Nosler Custom 8mm Remington Magnum Ammo 180 Grain Nosler Ballistic Tip Polymer Tip Box of 20 054041244107",
             "Brand": "Nosler",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/277848873631"
         },
         {
+            "id": "28978432",
             "Retailer": "MidwayUSA",
             "Description": "Nosler Custom 8mm Remington Magnum Ammo 200 Grain Nosler AccuBond Bonded Polymer Tip Box of 20 054041244008",
             "Brand": "Nosler",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/281208962710"
         },
         {
+            "id": "38463209",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Remington 8MM REM.20GR SWIFT 047700175706",
             "Brand": "Remington",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/281572574038"
         },
         {
+            "id": "17684068",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Remington 8MM REM 185R CO 1154",
             "Brand": "Remington",

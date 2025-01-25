@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "20810001",
             "Retailer": "MidwayUSA",
             "Description": "SBR 375 SOCOM Ammo 200 Grain Sierra Pro-Hunter Jacketed Flat Nose Box of 20 835902004739",
             "Brand": "SBR",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/274588827298"
         },
         {
+            "id": "68423628",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 200 Grain Sierra ProHunter Flat Point Box of 20 - brass case - MPN SL3751 ( UPC - 835902004739)",
             "Brand": "SBR",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/238984196610"
         },
         {
+            "id": "16336152",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 250 Grain Sierra Spitzer Boat Tail Box Box of 20 - brass case - MPN SL3753 ( UPC - 835902004791)",
             "Brand": "SBR",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/238985389944"
         },
         {
+            "id": "55361512",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 250 Grain Sierra Spitzer Boat Tail Box Case of 200 (10 Boxes of 20)- FREE SHIPPING- brass case - MPN SL3753 ( UPC - 835902004791)",
             "Brand": "SBR",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/238985389944"
         },
         {
+            "id": "12332131",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 375 SOCOM 200gr Sierra Pro Hunter SL3751 835902004739",
             "Brand": "SBR",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/281572579549"
         },
         {
+            "id": "31580920",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 375 SOCOM 250gr SBT SL3753 835902004791",
             "Brand": "SBR",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/281572579561"
         },
         {
+            "id": "20023831",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 250 Grain Barnes TTSX Box of 20 - brass case - MPN SL3752 ( UPC - 835902004746)",
             "Brand": "SBR",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/238984592886"
         },
         {
+            "id": "12174684",
             "Retailer": "Target Sports USA",
             "Description": "SBR Precision 375 SOCOM Ammo 250 Grain Full Metal Jacket Case of 200 (10 Boxes of 20)- FREE SHIPPING- brass case - MPN SL3759 ( UPC - 835902004784)",
             "Brand": "SBR",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/207867686406"
         },
         {
+            "id": "71233450",
             "Retailer": "Target Sports USA",
             "Description": "SBR Precision 375 SOCOM Ammo 250 Grain Full Metal Jacket Box of 20 - brass case - MPN SL3759 ( UPC - 835902004784)",
             "Brand": "SBR",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/207867686406"
         },
         {
+            "id": "28628870",
             "Retailer": "MidwayUSA",
             "Description": "SBR 375 SOCOM Ammo 250 Grain Barnes Tipped Triple-Shock X Polymer Tip lead-free Box of 20 835902004746",
             "Brand": "SBR",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/274590712672"
         },
         {
+            "id": "38096754",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 185 Grain Controlled Fracturing Box of 20 - brass case - MPN SL3757 ( UPC - 835902001608)",
             "Brand": "SBR",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/238985542023"
         },
         {
+            "id": "29495694",
             "Retailer": "Target Sports USA",
             "Description": "SBR 375 SOCOM Ammo 185 Grain Controlled Fracturing Case of 200 (10 Boxes of 20)- FREE SHIPPING- brass case - MPN SL3757 ( UPC - 835902001608)",
             "Brand": "SBR",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/238985542023"
         },
         {
+            "id": "23743226",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Wilson Combat 375 SOCOM 235GR HC 810025501990",
             "Brand": "Combat",

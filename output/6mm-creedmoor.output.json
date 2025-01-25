@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "30590755",
             "Retailer": "BattleHawk Armory",
             "Description": "BattleHawk Armory Munitions 6mm Creedmoor 87Gr V-Max 20rds 030600600870",
             "Brand": "Munitions",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/262443507157"
         },
         {
+            "id": "32208777",
             "Retailer": "Gman Sporting Arms",
             "Description": "NOS AMMO 6MMCREED 115GR MATCH RDF HPBT 20/10 054041601702",
             "Brand": "Nosler",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/235126483555"
         },
         {
+            "id": "21905000",
             "Retailer": "Fast Ammo",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/274692042718"
         },
         {
+            "id": "82423596",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/288124086745"
         },
         {
+            "id": "20158627",
             "Retailer": "Gman Sporting Arms",
             "Description": "Hornady 81396 Black 6mm Creedmoor 105 gr Boat Tail Hollow Point (BTHP) 20 Bx/ 10 Cs 090255813968",
             "Brand": "Hornady",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/235126482433"
         },
         {
+            "id": "12636977",
             "Retailer": "SGAmmo",
             "Description": "200 Round Case - 6mm Creedmoor 105 Grain BTHP Hornady Black Ammo - 81396- Free Shipping",
             "Brand": "Hornady",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/138562906893"
         },
         {
+            "id": "20041022",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/274689468568"
         },
         {
+            "id": "43724266",
             "Retailer": "Fast Ammo",
             "Description": "Hornady V-MATCH, 6MM Creedmoor, 80 Grain, ELD-VT, 20 Round Box 81397 090255813975",
             "Brand": "Hornady",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/274686898603"
         },
         {
+            "id": "14877127",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/288124058506"
         },
         {
+            "id": "32879212",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady V-MATCH, 6MM Creedmoor, 80 Grain, ELD-VT, 20 Round Box 81397 090255813975",
             "Brand": "Hornady",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/288124421482"
         },
         {
+            "id": "19839548",
             "Retailer": "Target Sports USA",
             "Description": "Hornady Superformance 6mm Creedmoor Ammo 90 Grain CX Polymer Tip lead-free Box of 20 - brass case - MPN 813944 ( UPC - 090255719949)",
             "Brand": "Hornady",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/240316027528"
         },
         {
+            "id": "25712231",
             "Retailer": "Target Sports USA",
             "Description": "Hornady Superformance 6mm Creedmoor Ammo 90 Grain CX Polymer Tip lead-free Case of 200 (10 Boxes of 20)- FREE SHIPPING- brass case - MPN 813944 ( UPC - 090255719949)",
             "Brand": "Hornady",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/240316027528"
         },
         {
+            "id": "19079547",
             "Retailer": "Gman Sporting Arms",
             "Description": "Hornady 81393 Varmint Express 6mm Creedmoor 87 gr V-Max 20 Bx/ 10 Cs 090255813937",
             "Brand": "Hornady",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/235126482427"
         },
         {
+            "id": "29025630",
             "Retailer": "Gman Sporting Arms",
             "Description": "Hornady 81397 V-Match 6mm Creedmoor 80 gr ELD-VT 20 Per Box 090255813975",
             "Brand": "Hornady",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/259494038494"
         },
         {
+            "id": "11168274",
             "Retailer": "GunMag Warehouse",
             "Description": "Hornady Black 6mm Creedmoor Ammo 105gr BTHP 20-Rounds 090255813968",
             "Brand": "Hornady",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/297426317455"
         },
         {
+            "id": "18917971",
             "Retailer": "BattleHawk Armory",
             "Description": "NOSLER AMMO 6MM CREEDMOOR 115GR MATCH RDF HPBT 20rd BOX 054041601702",
             "Brand": "Nosler",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/201550793827"
         },
         {
+            "id": "79575852",
             "Retailer": "Freedom Munitions",
             "Description": "Barnes Vor-TX 6.5 Creedmoor 120gr TSX BT (30815) (Clearance Sale!)",
             "Brand": "Barnes",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/202701319285"
         },
         {
+            "id": "24240941",
             "Retailer": "DACK Outdoors",
             "Description": "NOS AMMO 6MMCREED 115GR MATCH RDF HPBT 20/10 054041601702Some orders take up to 30 days to ship",
             "Brand": "Nosler",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/277100392657"
         },
         {
+            "id": "14664221",
             "Retailer": "Fast Ammo",
             "Description": "NOSLER MATCH 6MM CM 115GR REDUCED DRAG HPBT 20RD 10BX/CS 054041601702",
             "Brand": "Nosler",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/274704636685"
         },
         {
+            "id": "22990334",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/288124086730"
         },
         {
+            "id": "24285400",
             "Retailer": "Fast Ammo",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/274692042721"
         },
         {
+            "id": "19924055",
             "Retailer": "Miwall Corporation",
             "Description": "Hornady Black Ammunition - 6MM Creedmoor - 105 Grain Boat Tail Hollow Point - 20 Rounds - Brass Case 090255813968",
             "Brand": "Hornady",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/200923018633"
         },
         {
+            "id": "26678679",
             "Retailer": "USA Gun Store",
             "Description": "6mm Creedmoor 115gr RDF HPBT (20 ct.) Ammunition 054041601702",
             "Brand": "Nosler",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/257891169469"
         },
         {
+            "id": "27078000",
             "Retailer": "Fast Ammo",
             "Description": "Federal Premium, Sierra Match King, 6MM Creedmoor, 107Gr, Hollow Point, 20 Round Box GM6CRDM1 604544647792",
             "Brand": "Federal",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/274694038951"
         },
         {
+            "id": "25639136",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Premium, Sierra Match King, 6MM Creedmoor, 107Gr, Hollow Point, 20 Round Box GM6CRDM1 604544647792",
             "Brand": "Federal",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/288124513300"
         },
         {
+            "id": "30244253",
             "Retailer": "De Leon RX and Sporting Goods",
             "Description": "Nosler Match Grade Ammunition 6mm Creedmoor 115 Grain RDF Hollow Point Boat Tail Box of 20 054041601702",
             "Brand": "Nosler",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/202487541802"
         },
         {
+            "id": "17828661",
             "Retailer": "Skogen's Gun Supply",
             "Description": "NOS AMMO 6MMCREED 115GR MATCH RDF HPBT 20/10 054041601702FREE SHIPPING on orders over $300",
             "Brand": "Nosler",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/276569911876"
         },
         {
+            "id": "30415080",
             "Retailer": "J&G Sales",
             "Description": "6mm Creedmoor Federal Gold Medal 107gr Sierra MatchKing Ammo, 20rd Box, GM6CRDM1",
             "Brand": "Federal",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/266111258863"
         },
         {
+            "id": "11288344",
             "Retailer": "Fast Ammo",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/274694845420"
         },
         {
+            "id": "13784037",
             "Retailer": "Fast Ammo",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/274694845423"
         },
         {
+            "id": "17793502",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/288124136368"
         },
         {
+            "id": "14623034",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/288124136350"
         },
         {
+            "id": "14532272",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/274689468622"
         },
         {
+            "id": "99049436",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/288124058503"
         },
         {
+            "id": "11166870",
             "Retailer": "GrabAGun",
             "Description": "Nosler Match Grade Ammunition 6mm Creedmoor 115 Grain 20 Rounds - $12.99 Shipping on Unlimited Boxes - UPC: 054041601702",
             "Brand": "Nosler",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/175095066376"
         },
         {
+            "id": "81110494",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/288124086700"
         },
         {
+            "id": "95829862",
             "Retailer": "Fast Ammo",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/274692042724"
         },
         {
+            "id": "28674956",
             "Retailer": "Fast Ammo",
             "Description": "Barnes VOR-TX Long Range Rifle Ammo 6mm Creedmoor 95 gr. LRX Boat Tail 20 rd. 716876651290",
             "Brand": "Barnes",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/274692262375"
         },
         {
+            "id": "17279466",
             "Retailer": "Ammo ASAP",
             "Description": "Barnes VOR-TX Long Range Rifle Ammo 6mm Creedmoor 95 gr. LRX Boat Tail 20 rd. 716876651290",
             "Brand": "Barnes",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/288124510300"
         },
         {
+            "id": "56573950",
             "Retailer": "Gordy & Sons",
             "Description": "Hornady Black 6mm Creedmoor 105gr BTHP 8139658539 090255813968",
             "Brand": "Hornady",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/218477729058"
         },
         {
+            "id": "10550621",
             "Retailer": "Target Sports USA",
             "Description": "Hornady Black 6mm Creedmoor Ammo 105 Grain HPBT Box of 20 - brass case - MPN 81396 ( UPC - 090255813968)",
             "Brand": "Hornady",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/201734074171"
         },
         {
+            "id": "39136379",
             "Retailer": "Armed In Michigan",
             "Description": "6mm Creedmoor 115gr RDF HPBT (20 ct.) Ammunition 054041601702",
             "Brand": "Nosler",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/295256809546"
         },
         {
+            "id": "16102782",
             "Retailer": "Target Sports USA",
             "Description": "Hornady Black 6mm Creedmoor Ammo 105 Grain HPBT Case of 200 (10 boxes of 20)-- FREE SHIPPING- brass case - MPN 81396 ( UPC - 090255813968)",
             "Brand": "Hornady",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/201734074171"
         },
         {
+            "id": "29514189",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady V-MATCH, 6MM Creedmoor, 80 Grain, ELD-VT, 20 Round Box 81397 090255813975",
             "Brand": "Hornady",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/288124421470"
         },
         {
+            "id": "38809959",
             "Retailer": "Fast Ammo",
             "Description": "Hornady V-MATCH, 6MM Creedmoor, 80 Grain, ELD-VT, 20 Round Box 81397 090255813975",
             "Brand": "Hornady",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/274686898606"
         },
         {
+            "id": "42721971",
             "Retailer": "Gman Sporting Arms",
             "Description": "Nosler 60135 Match Grade RDF 6mm Creedmoor 105 gr Hollow Point Boat Tail (HPBT) 20 Bx/ 10 Cs 054041601351(must submit email address to see this price in cart)",
             "Brand": "Nosler",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/235126483495"
         },
         {
+            "id": "33493859",
             "Retailer": "BattleHawk Armory",
             "Description": "Hornady 81396 Black 6mm Creedmoor 105 gr Boat Tail Hollow Point (BTHP) 20 Bx/ 10 Cs 090255813968",
             "Brand": "Hornady",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/189635287211"
         },
         {
+            "id": "36327189",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/288124136326"
         },
         {
+            "id": "19029674",
             "Retailer": "Fast Ammo",
             "Description": "Nosler RDF HPBT, 6MM Creedmoor, 105 Grain, Rifle Ammunition, 20 Round Box 60135 054041601351",
             "Brand": "Nosler",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/274694845426"
         },
         {
+            "id": "13569517",
             "Retailer": "Fast Ammo",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/274704636649"
         },
         {
+            "id": "14764274",
             "Retailer": "Fast Ammo",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/274704636652"
         },
         {
+            "id": "91150655",
             "Retailer": "BattleHawk Armory",
             "Description": "Barnes Bullets 30232 VOR-TX LR Rifle 6mm Creedmoor 95 gr LRX Boat Tail 20 Bx/ 10 Cs 716876651290",
             "Brand": "Barnes",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/205832681308"
         },
         {
+            "id": "10935427",
             "Retailer": "Ammo ASAP",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/288124235221"
         },
         {
+            "id": "48460939",
             "Retailer": "Ammo ASAP",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/288124235215"
         },
         {
+            "id": "10926153",
             "Retailer": "Red River Reloading",
             "Description": "Nosler 6mm Creedmoor 105gr RDF HPBT /20 (Buy 2 $27.50 Each)",
             "Brand": "Nosler",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/218604944157"
         },
         {
+            "id": "12635686",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Match, 6mm Creedmoor, 108 Grain, ELD Match, 20 Round Box 81391 090255813913",
             "Brand": "Hornady",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/274686309148"
         },
         {
+            "id": "66550542",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Match, 6mm Creedmoor, 108 Grain, ELD Match, 20 Round Box 81391 090255813913",
             "Brand": "Hornady",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/288124053478"
         },
         {
+            "id": "23707622",
             "Retailer": "Firearms Depot",
             "Description": "Sig Sauer Elite Copper Hunting 6MM CREEDMOOR, 80gr, Ballistic Tip - 20 Rounds [MPN: E6MMCH120] 798681614073",
             "Brand": "Sauer",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/216327476775"
         },
         {
+            "id": "24733212",
             "Retailer": "Fast Ammo",
             "Description": "Barnes Bullets 30814 Precision Match 6mmCreedmoor 112gr Open Tip Match Boat Tail 20 Per Box/10 Case 716876651108",
             "Brand": "Barnes",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/274694845801"
         },
         {
+            "id": "28856890",
             "Retailer": "Ammo ASAP",
             "Description": "Barnes Bullets 30814 Precision Match 6mmCreedmoor 112gr Open Tip Match Boat Tail 20 Per Box/10 Case 716876651108",
             "Brand": "Barnes",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/288124528996"
         },
         {
+            "id": "11397131",
             "Retailer": "Fast Ammo",
             "Description": "Federal Premium, Sierra Match King, 6MM Creedmoor, 107Gr, Hollow Point, 20 Round Box GM6CRDM1 604544647792",
             "Brand": "Federal",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/274694038954"
         },
         {
+            "id": "28885710",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Premium, Sierra Match King, 6MM Creedmoor, 107Gr, Hollow Point, 20 Round Box GM6CRDM1 604544647792",
             "Brand": "Federal",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/288124513276"
         },
         {
+            "id": "16495907",
             "Retailer": "GrabAGun",
             "Description": "Sig Sauer Elite Copper Hunting 6mm Creedmoor 80gr 20-Rounds - $12.99 Shipping on Unlimited Boxes - UPC: 798681614073",
             "Brand": "Sauer",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/190931127082"
         },
         {
+            "id": "30008813",
             "Retailer": "SGAmmo",
             "Description": "20 Round Box - 6mm Creedmoor 105 Grain BTHP Hornady Black Ammo - 81396-Free shipping on $200+",
             "Brand": "Hornady",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/138562387020"
         },
         {
+            "id": "32291910",
             "Retailer": "Gunprime",
             "Description": "Hornady Black 6mm Creedmoor 105 Grain HPBT 20 Rounds Per Box - 81396 090255813968",
             "Brand": "Hornady",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/247991908270"
         },
         {
+            "id": "18741113",
             "Retailer": "Sportsman's Outdoor Superstore",
             "Description": "HORNADY 6mm Creedmoor 105 gr BTHP BLACK 20/Box 81396 090255813968",
             "Brand": "Hornady",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/282154665274"
         },
         {
+            "id": "17412289",
             "Retailer": "Two Birds Outdoors",
             "Description": "Hornady Black 6mm Creedmoor 105 Grain HPBT 20 Rounds Per Box - 81396 090255813968",
             "Brand": "Hornady",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/247991253469"
         },
         {
+            "id": "24660226",
             "Retailer": "Big Mike's Guns and Ammo",
             "Description": "NOS AMMO 6MMCREED 115GR MATCH RDF HPBT 20/10 054041601702",
             "Brand": "Nosler",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/285208210705"
         },
         {
+            "id": "86447430",
             "Retailer": "Apex Ordnance",
             "Description": "HORNADY BLACK 6MM CM 105GR BTHP 20RD 10BX/CS 090255813968",
             "Brand": "Hornady",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/298585943395"
         },
         {
+            "id": "66197217",
             "Retailer": "Gman Sporting Arms",
             "Description": "Hornady 81391 Match 6mm Creedmoor 108 gr Extremely Low Drag-Match 20 Bx/ 10 Cs 090255813913",
             "Brand": "Hornady",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/235126482412"
         },
         {
+            "id": "32325898",
             "Retailer": "Fast Ammo",
             "Description": "HSM Tipping Point Rifle Ammunition 6mm Creedmoor Sierra Gamechanger 90 gr. 20 rd. 810742026974",
             "Brand": "HSM",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/274694845672"
         },
         {
+            "id": "18688360",
             "Retailer": "Fast Ammo",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/274704636355"
         },
         {
+            "id": "81602743",
             "Retailer": "Ammo ASAP",
             "Description": "HSM Tipping Point Rifle Ammunition 6mm Creedmoor Sierra Gamechanger 90 gr. 20 rd. 810742026974",
             "Brand": "HSM",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/288124141066"
         },
         {
+            "id": "19977382",
             "Retailer": "Fast Ammo",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/274704636358"
         },
         {
+            "id": "31037284",
             "Retailer": "Fast Ammo",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/274704636361"
         },
         {
+            "id": "25770134",
             "Retailer": "Ammo ASAP",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/288124230763"
         },
         {
+            "id": "12505144",
             "Retailer": "Ammo ASAP",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/288124230748"
         },
         {
+            "id": "12121115",
             "Retailer": "Ammo ASAP",
             "Description": "HSM 6MM CM 95GR SST 20RD 25BX/CS 810742029142",
             "Brand": "HSM",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/288124230733"
         },
         {
+            "id": "11627131",
             "Retailer": "Fast Ammo",
             "Description": "Nosler Varmageddon, 6MM Creedmoor, 70 Grain, Flat Base Tipped, 20 Round Box 65170 054041651707",
             "Brand": "Nosler",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/274691460235"
         },
         {
+            "id": "16117006",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler Varmageddon, 6MM Creedmoor, 70 Grain, Flat Base Tipped, 20 Round Box 65170 054041651707",
             "Brand": "Nosler",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/288124076734"
         },
         {
+            "id": "47522103",
             "Retailer": "Shooting Surplus",
             "Description": "Nosler Match Grade Rifle Ammunition 6mm Creedmoor 115 gr. RDF HPBT 20 rd. 054041601702",
             "Brand": "Nosler",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/293798982358"
         },
         {
+            "id": "27540790",
             "Retailer": "Foundry Outdoors",
             "Description": "Barnes Bullets 0814 Precision Match Rifle 6mm Creedmoor 112 GR OTM Boat Tail 20 Bx/ 10 Cs 716876051106",
             "Brand": "Barnes",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/258408044650"
         },
         {
+            "id": "24022613",
             "Retailer": "DACK Outdoors",
             "Description": "Hornady 81396 Black 6mm Creedmoor 105 gr Boat Tail Hollow Point (BTHP) 20 Bx/ 10 Cs 090255813968Some orders take up to 30 days to ship",
             "Brand": "Hornady",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/277100388496"
         },
         {
+            "id": "10007431",
             "Retailer": "MCM Tactical",
             "Description": "BARNES VOR-TX 6MM LR 95GR 20/200 716876651290",
             "Brand": "Barnes",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/272882855296"
         },
         {
+            "id": "24766925",
             "Retailer": "Sentry Ammo",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/275871358957"
         },
         {
+            "id": "10259193",
             "Retailer": "BattleHawk Armory",
             "Description": "HSM VARMINT 6MM CREEDMOOR 70GR BLITZKING AMMUNITION 20rd BOX 810742027537",
             "Brand": "HSM",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/249942457063"
         },
         {
+            "id": "14549010",
             "Retailer": "Apex Ordnance",
             "Description": "AMMO 6MM CREEDMOOR LRX 100GR 20RD/BX 716876651290",
             "Brand": "Barnes",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/298585942924"
         },
         {
+            "id": "28849390",
             "Retailer": "BattleHawk Armory",
             "Description": "Hornady 81393 Varmint Express 6mm Creedmoor 87 gr V-Max 20 Bx/ 10 Cs 090255813937",
             "Brand": "Hornady",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/191902961971"
         },
         {
+            "id": "28776078",
             "Retailer": "Ammo ASAP",
             "Description": "NOSLER MATCH 6MM CM 115GR REDUCED DRAG HPBT 20RD 10BX/CS 054041601702",
             "Brand": "Nosler",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/288124235548"
         },
         {
+            "id": "66559386",
             "Retailer": "Gman Sporting Arms",
             "Description": "HSM 6CREEDMOOR3N Tipping Point 6mm Creedmoor 90 gr Sierra GameChanger 20 Bx/ 25 Cs 810742026974",
             "Brand": "HSM",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/235126488793"
         },
         {
+            "id": "15199366",
             "Retailer": "BattleHawk Armory",
             "Description": "HSM 6MM CREEDMOOR 95GR HORNADY SST AMMUNITIO 20RD BOX 810742029142",
             "Brand": "HSM",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/249942457066"
         },
         {
+            "id": "67963555",
             "Retailer": "Gman Sporting Arms",
             "Description": "Nosler 65172 Varmageddon 6mm Creedmoor 70 gr Flat Base Tipped (FBT) 20 Bx/ 10 Cs 054041651707(must submit email address to see this price in cart)",
             "Brand": "Nosler",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/272013968026"
         },
         {
+            "id": "30166364",
             "Retailer": "Ammo City Supply",
             "Description": "Hrndy Blk 6mm Crd 105gr Bthp 20 Rounds 090255813968",
             "Brand": "Hornady",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/225259060548"
         },
         {
+            "id": "20273800",
             "Retailer": "Sentry Ammo",
             "Description": "Hornady BLACK, 6MM Creedmoor, 105 Grain, Boat Tail Hollow Point, 20 Round Box 81396 090255813968",
             "Brand": "Hornady",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/275871358960"
         },
         {
+            "id": "34453532",
             "Retailer": "Fast Ammo",
             "Description": "Nosler Varmageddon, 6MM Creedmoor, 70 Grain, Flat Base Tipped, 20 Round Box 65170 054041651707",
             "Brand": "Nosler",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/274691460238"
         },
         {
+            "id": "11817470",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler Varmageddon, 6MM Creedmoor, 70 Grain, Flat Base Tipped, 20 Round Box 65170 054041651707",
             "Brand": "Nosler",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/288124076719"
         },
         {
+            "id": "91408740",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/274689468634"
         },
         {
+            "id": "28940712",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Varmint Express, 6mm Creedmoor, 87 Grain, V-Max, 20 Round Box 81393 090255813937",
             "Brand": "Hornady",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/288124058500"
         },
         {
+            "id": "22640127",
             "Retailer": "Fast Ammo",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/274704636655"
         },
         {
+            "id": "26402754",
             "Retailer": "Ammo ASAP",
             "Description": "Sig Sauer Elite Copper Hunting Rifle Ammo 6mm Creedmoor 80 gr. Solid Copper 20 rd. 798681614073",
             "Brand": "Sauer",

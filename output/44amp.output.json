@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "30555663",
             "Retailer": "MidwayUSA",
             "Description": "SBR 44 Automag (44 AMP) Ammo 240 Grain Full Metal Jacket Box of 50 835902004302",
             "Brand": "SBR",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/274590774409"
         },
         {
+            "id": "11506942",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 44 Automag 230 XTP 87975655",
             "Brand": "Load-X",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/281626315270"
         },
         {
+            "id": "22785704",
             "Retailer": "MidwayUSA",
             "Description": "SBR 44 Automag (44 AMP) Ammo 240 Grain Hornady XTP Jacketed Hollow Point Box of 20 835902001745",
             "Brand": "SBR",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/274588838710"
         },
         {
+            "id": "22460255",
             "Retailer": "Target Sports USA",
             "Description": "SBR 44 Auto Mag (AMP) Ammo 240 Grain Hornady XTP Case of 400 (20 Boxes of 20)- FREE SHIPPING- brass case - MPN SL44AM5A ( UPC - 835902001745)",
             "Brand": "SBR",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/207576959925"
         },
         {
+            "id": "62710704",
             "Retailer": "Target Sports USA",
             "Description": "SBR 44 Auto Mag (AMP) Ammo 240 Grain Hornady XTP Box of 20 - brass case - MPN SL44AM5A ( UPC - 835902001745)",
             "Brand": "SBR",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/207576959925"
         },
         {
+            "id": "32296083",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 44 AUTO MAG 240GR XTP 835902001745",
             "Brand": "SBR",

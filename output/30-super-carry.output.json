@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "33658386",
             "Retailer": "Fast Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/269424800341"
         },
         {
+            "id": "12837253",
             "Retailer": "Ammo ASAP",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/288124414465"
         },
         {
+            "id": "25451549",
             "Retailer": "Target Sports USA",
             "Description": "Remington UMC 30 Super Carry Ammo 100 Grain Full Metal Jacket Box of 50 - brass case - MPN R20015 ( UPC - 047700487205)",
             "Brand": "Remington",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/201734075284"
         },
         {
+            "id": "20866549",
             "Retailer": "Target Sports USA",
             "Description": "Remington UMC 30 Super Carry Ammo 100 Grain Full Metal Jacket Case of 1000 (20 Boxes of 50)- FREE SHIPPING- brass case - MPN R20015 ( UPC - 047700487205)",
             "Brand": "Remington",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/201734075284"
         },
         {
+            "id": "26250891",
             "Retailer": "Sportsman's Outdoor Superstore",
             "Description": "CCI AMMUNITION 30 Super Carry 115 gr FMJ Blazer Brass 50/Box 5205 604544670981",
             "Brand": "Blazer",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/282154607359"
         },
         {
+            "id": "15772400",
             "Retailer": "Outdoor Limited",
             "Description": "CCI 30 Super Carry Ammunition CCI5205 115 Grain Full Metal Jacket 50 RoundsFREE SHIPPING on orders $200+",
             "Brand": "CCI",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/202089014563"
         },
         {
+            "id": "70688098",
             "Retailer": "Ammo ASAP",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/288124414498"
         },
         {
+            "id": "23206414",
             "Retailer": "Fast Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/269424800344"
         },
         {
+            "id": "24306218",
             "Retailer": "Ammo ASAP",
             "Description": "Federal 30 super carry 604544678017",
             "Brand": "Eagle",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/288124407016"
         },
         {
+            "id": "21691413",
             "Retailer": "Sportsman's Outdoor Superstore",
             "Description": "FEDERAL AMMUNITION 30 Super Carry 100 Gr FMJ American Eagle 50/Box AE30SCA 604544678017",
             "Brand": "Eagle",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/282154629685"
         },
         {
+            "id": "86889970",
             "Retailer": "Gman Sporting Arms",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/235126467448"
         },
         {
+            "id": "30642639",
             "Retailer": "Gman Sporting Arms",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/235126467466"
         },
         {
+            "id": "39666055",
             "Retailer": "Ammo ASAP",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/288124414477"
         },
         {
+            "id": "10088987",
             "Retailer": "Fast Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/269424800347"
         },
         {
+            "id": "19013452",
             "Retailer": "Ammo ASAP",
             "Description": "Federal 30 super carry 604544678017",
             "Brand": "Eagle",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/288124407001"
         },
         {
+            "id": "18697987",
             "Retailer": "BattleHawk Armory",
             "Description": "CCI BLAZER 30 SUPER CARRY 115GR FMJ BRASS Pistol Ammunition 50rd BOX 604544670981",
             "Brand": "Blazer",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/202077896434"
         },
         {
+            "id": "32129058",
             "Retailer": "Georgia Guns & Ammo",
             "Description": "CCI Blazer Brass Handgun Ammunition .30 SC 115 gr FMJ 1150 fps 50/ct 604544670981",
             "Brand": "Blazer",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/313019921938"
         },
         {
+            "id": "13654474",
             "Retailer": "BattleHawk Armory",
             "Description": "Federal AE30SCA American Eagle 30 Super Carry Full Metal Jacket (FMJ) 50 Bx/ 20 Cs 604544678017",
             "Brand": "Eagle",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/199194675625"
         },
         {
+            "id": "28464088",
             "Retailer": "DACK Outdoors",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017Some orders take up to 30 days to ship",
             "Brand": "Eagle",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/277100384077"
         },
         {
+            "id": "13528277",
             "Retailer": "MCM Tactical",
             "Description": "BLAZER BRASS 30SC 115GR FMJ 50/1000 604544670981",
             "Brand": "Blazer",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/272882861854"
         },
         {
+            "id": "22684561",
             "Retailer": "Apex Ordnance",
             "Description": "FED BLZR 30SUP 115GR FMJ 50 604544670981",
             "Brand": "CCI",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/298585938802"
         },
         {
+            "id": "29257045",
             "Retailer": "USA Gun Store",
             "Description": "BLAZER BRASS 30SC 115GR FMJ 50/1000 604544670981",
             "Brand": "Blazer",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/259240985275"
         },
         {
+            "id": "82072519",
             "Retailer": "Sentry Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/269438374717"
         },
         {
+            "id": "27109208",
             "Retailer": "Sentry Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/269438374720"
         },
         {
+            "id": "15346496",
             "Retailer": "De Leon RX and Sporting Goods",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/276561127840"
         },
         {
+            "id": "27772942",
             "Retailer": "Skogen's Gun Supply",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017FREE SHIPPING on orders over $300",
             "Brand": "Eagle",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/276318274006"
         },
         {
+            "id": "22344859",
             "Retailer": "Sportsman Fulfillment",
             "Description": "CCI Blazer Brass 30 Super Carry Ammo 115 Grain FMJ Flat Nose 50 Rounds 604544670981",
             "Brand": "Blazer",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/214476432123"
         },
         {
+            "id": "29381233",
             "Retailer": "Firearms Depot",
             "Description": "Federal American Eagle .30 SUPER CARRY, 100gr, FMJ - 50 Rounds [MPN: AE30SCA] 604544678017",
             "Brand": "Eagle",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/202289153788"
         },
         {
+            "id": "21726092",
             "Retailer": "BattleHawk Armory",
             "Description": "REMINGTON 30 SUPER 100GR FMJ UMC CENTERFIRE PISTOL AMMUNITION 50rds/Bx 047700487205",
             "Brand": "Remington",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/202267002484"
         },
         {
+            "id": "30264416",
             "Retailer": "Global Ordnance",
             "Description": "AMMO 30 SUP CARRY 115GR FMJ BRASS 50/BX UPC: 604544670981",
             "Brand": "CCI",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/284343565861"
         },
         {
+            "id": "46048868",
             "Retailer": "DACK Outdoors",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205Some orders take up to 30 days to ship",
             "Brand": "Remington",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/277100384080"
         },
         {
+            "id": "14279250",
             "Retailer": "Liberty Shooting Sports",
             "Description": "Federal American Eagle 30 Super Carry, 100 gr Full Metal Jacket (FMJ) 50 Bx/ 20 Cs 604544678017",
             "Brand": "Eagle",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/200271774301"
         },
         {
+            "id": "28939832",
             "Retailer": "USA Gun Store",
             "Description": "FEDERAL AE 30 SUPER CARRY 604544678017",
             "Brand": "Eagle",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/257891179015"
         },
         {
+            "id": "35998731",
             "Retailer": "Ammo Hero",
             "Description": "Remington 30 super carry 047700487205FREE SHIPPING",
             "Brand": "Remington",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/269355910927"
         },
         {
+            "id": "71932959",
             "Retailer": "Black Basin",
             "Description": "Remington 30 super carry 047700487205FREE SHIPPING on orders over $500",
             "Brand": "Remington",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/310277379478"
         },
         {
+            "id": "30758170",
             "Retailer": "Texas Ammunition",
             "Description": ".30 SUPER CARRY / 115 GR BRASS FMJ FLAT NOSE / 50 RDS / BLAZER **NO LIMITS** ALL ORDERS SHIP FULLY-INSURED",
             "Brand": "Blazer",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/214468380420"
         },
         {
+            "id": "26373885",
             "Retailer": "MCM Tactical",
             "Description": "Remington UMC Handgun Ammunition .30 SC 100gr FMJ 1250 fps 50/ct 047700487205",
             "Brand": "Remington",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/272882860885"
         },
         {
+            "id": "11582914",
             "Retailer": "GrabAGun",
             "Description": "Federal American Eagle Brass .30 Super Carry 100-Grain 50-Rounds FMJ - $12.99 Shipping on Unlimited Boxes - UPC: 604544678017",
             "Brand": "Eagle",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/197761960372"
         },
         {
+            "id": "40429937",
             "Retailer": "De Leon RX and Sporting Goods",
             "Description": "Remington 30 SUPER 100GR FMJ UMC Box of 50 047700487205",
             "Brand": "Remington",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/277504863928"
         },
         {
+            "id": "12520780",
             "Retailer": "SST Firearms",
             "Description": "REMINGTON UMC 30 SUPER CARRY - 100GR FMJ 50RD 20BX/CS 047700487205",
             "Brand": "Remington",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/281568582382"
         },
         {
+            "id": "30313178",
             "Retailer": "Sportsman Fulfillment",
             "Description": "Remington UMC .30 Super Carry Ammunition 100 Grain FMJ Projectile 50 Rounds 047700487205",
             "Brand": "Remington",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/214476432147"
         },
         {
+            "id": "90423959",
             "Retailer": "Sentry Ammo",
             "Description": "Remington 30 super carry 047700487205",
             "Brand": "Remington",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/269438374714"
         },
         {
+            "id": "99223058",
             "Retailer": "Shooting Surplus",
             "Description": "Federal American Eagle Pistol Ammo 30 Super Carry 100 gr. FMJ 50 rd. 604544678017",
             "Brand": "Eagle",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/293798978182"
         },
         {
+            "id": "29310495",
             "Retailer": "LG Outdoors",
             "Description": "30 Super Carry 100 Grain FMJ 50 Rounds Federal Ammunition(Price per unit for order of 10+ units)604544678017",
             "Brand": "Eagle",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/203982488845"
         },
         {
+            "id": "16395614",
             "Retailer": "Ammo Sale",
             "Description": "30 Super Carry 100 Grain FMJ 50 Rounds Federal Ammunition(Price per unit for order of 10+ units)604544678017",
             "Brand": "Eagle",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/203982506341"
         },
         {
+            "id": "10094965",
             "Retailer": "Wholesale Hunter",
             "Description": "30 Super Carry 50 Rounds Ammunition Federal Cartridge 100 Grain FMJ Case of 500 604544678017(price reflects 5% bulk discount)",
             "Brand": "Eagle",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/204132583828"
         },
         {
+            "id": "23457358",
             "Retailer": "Southern Munitions",
             "Description": "Blazer Ammunition, Blazer Brass, 30 Super Carry, 115 Grain, Full Metal Jacket, 50 Round Box 604544670981",
             "Brand": "Blazer",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/201877915480"
         },
         {
+            "id": "21423343",
             "Retailer": "Texas Ammunition",
             "Description": ".30 SUPER CARRY / 100 GR FMJ UMC / 50 RDS / REMINGTON **NO LIMITS** ALL ORDERS SHIP FULLY-INSURED",
             "Brand": "Remington",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/214468380399"
         },
         {
+            "id": "19425176",
             "Retailer": "Texas Ammunition",
             "Description": ".30 SUPER CARRY / 100 GR AMERICAN EAGLE FMJ / 50 RDS / FEDERAL **NO LIMITS** ALL ORDERS SHIP FULLY-INSURED",
             "Brand": "Eagle",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/214468380405"
         },
         {
+            "id": "50875914",
             "Retailer": "Ammo Hero",
             "Description": "Remington 30 super carry 047700487205FREE SHIPPING on $250+",
             "Brand": "Remington",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/269355910924"
         },
         {
+            "id": "44229804",
             "Retailer": "Black Basin",
             "Description": "Remington 30 super carry 047700487205FREE SHIPPING on orders over $500",
             "Brand": "Remington",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/310277379460"
         },
         {
+            "id": "13884027",
             "Retailer": "DB Firearms",
             "Description": "BLAZER BRASS 30SC 115GR FMJ 50/1000 604544670981",
             "Brand": "Blazer",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/261733185682"
         },
         {
+            "id": "26417153",
             "Retailer": "76 Rounds",
             "Description": "FED AM EAGLE 30SC 100GR FMJ 50/1000 604544678017",
             "Brand": "Eagle",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/297967383379"
         },
         {
+            "id": "13396253",
             "Retailer": "76 Rounds",
             "Description": "Remington UMC Handgun Ammunition .30 SC 100gr FMJ 1250 fps 50/ct 047700487205",
             "Brand": "Remington",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/297967360039"
         },
         {
+            "id": "13665137",
             "Retailer": "GunMag Warehouse",
             "Description": "Federal American Eagle 30 Super Carry Ammo 100gr FMJ 50 Rounds 604544678017",
             "Brand": "Eagle",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/297426317329"
         },
         {
+            "id": "23274380",
             "Retailer": "SCHEELS",
             "Description": "Blazer Ammunition Blazer Brass FMJ 30 Super Carry Handgun Ammunition 50 Round Box 604544670981",
             "Brand": "Blazer",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/296069314138"
         },
         {
+            "id": "28756531",
             "Retailer": "Liberty Shooting Sports",
             "Description": "CCI Blazer Brass, 30 Super Carry, 115 Grain, Full Metal Jacket, 50 Round Box 604544670981",
             "Brand": "Blazer",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/202100036941"
         },
         {
+            "id": "84814773",
             "Retailer": "Powder & String Outfitters",
             "Description": "FEDERAL 30 SUPER CARRY 604544678017",
             "Brand": "Eagle",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/276395898961"
         },
         {
+            "id": "23981523",
             "Retailer": "Armed In Michigan",
             "Description": "FED AM EAGLE 30SC 100GR FMJ 50/1000 604544678017",
             "Brand": "Eagle",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/295256813683"
         },
         {
+            "id": "16337616",
             "Retailer": "Ordnance Outpost",
             "Description": "Fed Am Eagle 30sc 100gr Fmj 50/1000 RPLFEAE30SCA 604544678017",
             "Brand": "Eagle",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/315106369612"
         },
         {
+            "id": "20216295",
             "Retailer": "Big Mike's Guns and Ammo",
             "Description": "Federal AE30SCA American Eagle Handgun 30Super Carry 100gr Full Metal Jacket 50 Per Box/20 Case 604544678017",
             "Brand": "Eagle",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/285208213474"
         },
         {
+            "id": "29974952",
             "Retailer": "Paramount Defense LLC",
             "Description": "Remington UMC Handgun Ammunition .30 SC 100gr FMJ 1250 fps 50/ct 047700487205",
             "Brand": "Remington",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/311600508817"
         },
         {
+            "id": "26431083",
             "Retailer": "Armored Boar Gunworks",
             "Description": "Remington Ammunition R20015 UMC 30SuperCarry 100gr Full Metal Jacket 50 Per Box/20 Case 047700487205",
             "Brand": "Remington",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/298320447640"
         },
         {
+            "id": "68760676",
             "Retailer": "The Mag Shack",
             "Description": "Federal American Eagle .30 Super Carry 100gr FMJ Ammo - 1000-Round Case 604544678017",
             "Brand": "Eagle",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/230153373151"
         },
         {
+            "id": "26493711",
             "Retailer": "Drifters Gear",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/225768049512"
         },
         {
+            "id": "32810453",
             "Retailer": "Drifters Gear",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/225768049263"
         },
         {
+            "id": "94553024",
             "Retailer": "LG Outdoors",
             "Description": "CCI Blazer Brass Pistol Ammo 30 Super Carry 115 gr. FMJ 50 rd. Model: 5205(Price per unit for order of 10+ units)604544670981",
             "Brand": "Blazer",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/240241994869"
         },
         {
+            "id": "78776287",
             "Retailer": "Ammo Sale",
             "Description": "CCI Blazer Brass Pistol Ammo 30 Super Carry 115 gr. FMJ 50 rd. Model: 5205(Price per unit for order of 10+ units)604544670981",
             "Brand": "Blazer",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/240241219117"
         },
         {
+            "id": "23205328",
             "Retailer": "Wholesale Hunter",
             "Description": "30 Super Carry 50 Rounds Ammunition CCI 115 Grain FMJ Case of 500 604544670981(price reflects 5% bulk discount)",
             "Brand": "CCI",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/204243908809"
         },
         {
+            "id": "14671660",
             "Retailer": "Target Sports USA",
             "Description": "Federal Champion Training 30 Super Carry Ammo 90 Grain Full Metal Jacket Box of 50 - brass case - MPN C3090A ( UPC - 604544688252)",
             "Brand": "Federal",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/261178459051"
         },
         {
+            "id": "16269676",
             "Retailer": "Weston Arms",
             "Description": "Remington 30 SUPER CARRY 100 GR FMJ 1000RDS 047700487205 R20015 047700487205",
             "Brand": "Remington",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/228030153471"
         },
         {
+            "id": "30617484",
             "Retailer": "Target Sports USA",
             "Description": "Federal Champion Training 30 Super Carry Ammo 90 Grain Full Metal Jacket Case of 1000 (20 Boxes of 50)- FREE SHIPPING- brass case - MPN C3090A ( UPC - 604544688252)",
             "Brand": "Federal",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/261178459051"
         },
         {
+            "id": "84000044",
             "Retailer": "Powder & String Outfitters",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/276395899159"
         },
         {
+            "id": "25054202",
             "Retailer": "LG Outdoors",
             "Description": "Remington UMC Handgun Ammo 30 Super Carry 100 gr. FMJ 50 rd. Model: R20015(Price per unit for order of 10+ units)047700487205",
             "Brand": "Remington",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/240242011684"
         },
         {
+            "id": "19219475",
             "Retailer": "Ammo Sale",
             "Description": "Remington UMC Handgun Ammo 30 Super Carry 100 gr. FMJ 50 rd. Model: R20015(Price per unit for order of 10+ units)047700487205",
             "Brand": "Remington",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/240241267591"
         },
         {
+            "id": "19460152",
             "Retailer": "Wholesale Hunter",
             "Description": "Remington 30 Super Carry 100gr Full Metal Jacket 50/box Case of 500 047700487205(price reflects 5% bulk discount)",
             "Brand": "Remington",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/205460772424"
         },
         {
+            "id": "16020757",
             "Retailer": "Weston Arms",
             "Description": "Remington UMC 30 Super Carry Ammo 100 Grain Full Metal Jacket 50 Rounds R20015 047700487205",
             "Brand": "Remington",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/230940830188"
         },
         {
+            "id": "76175610",
             "Retailer": "Selway Armory",
             "Description": "CCI Blazer Brass .30 Super Carry 115 Gr. Full Metal Jacket- Box of 50 604544670981",
             "Brand": "Blazer",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/274487456590"
         },
         {
+            "id": "28163164",
             "Retailer": "Southern Munitions",
             "Description": "Federal, American Eagle, 30 Super Carry, 100 Grain, Full Metal Jacket, 50 Round Box 604544678017",
             "Brand": "Eagle",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/201501868105"
         },
         {
+            "id": "12497558",
             "Retailer": "GunMag Warehouse",
             "Description": "CCI Blazer Brass 30 Super Carry Ammo 115gr FMJ 50 Rounds 604544670981",
             "Brand": "Blazer",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/297426317332"
         },
         {
+            "id": "30952175",
             "Retailer": "Keen Dynamics",
             "Description": "Remington UMC Handgun 047700487205 30 Super Carry 100 Grains Full Metal Jacket",
             "Brand": "Remington",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/279196969639"
         },
         {
+            "id": "28371408",
             "Retailer": "Dance's Sporting Goods",
             "Description": "Remington UMC 30 Super Carry - 100 Grain FMJ - 845 FPS - 50 Rounds - L30SC 047700487205",
             "Brand": "Remington",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/240894749470"
         },
         {
+            "id": "17111002",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Federal 30 SUPER CARRY100GR FMJ 604544678017",
             "Brand": "Eagle",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/281572565644"
         },
         {
+            "id": "13836738",
             "Retailer": "Wholesale Hunter",
             "Description": "30 Super Carry 50 Rounds Ammunition Federal Cartridge 100 Grain FMJ 604544678017",
             "Brand": "Eagle",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/204132583828"
         },
         {
+            "id": "10959881",
             "Retailer": "Sentry Ammo",
             "Description": "Federal 30 super carry 604544678017",
             "Brand": "Eagle",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/269438374900"
         },
         {
+            "id": "15256336",
             "Retailer": "LG Outdoors",
             "Description": "Federal American Eagle Pistol Ammo 30 Super Carry 100 gr. FMJ 50 rd. Model: AE30SCA(Price per unit for order of 10+ units)604544678017",
             "Brand": "Eagle",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/240242001871"
         },
         {
+            "id": "12934354",
             "Retailer": "Ammo Sale",
             "Description": "Federal American Eagle Pistol Ammo 30 Super Carry 100 gr. FMJ 50 rd. Model: AE30SCA(Price per unit for order of 10+ units)604544678017",
             "Brand": "Eagle",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/240241230157"
         },
         {
+            "id": "78027760",
             "Retailer": "GrabAGun",
             "Description": "Remington UMC Brass .30 Super Carry 100-Grain 50-Rounds FMJ - $12.99 Shipping on Unlimited Boxes - UPC: 047700487205",
             "Brand": "Remington",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/201364288897"
         },
         {
+            "id": "26582062",
             "Retailer": "Ammunition1.Direct",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/294321015862"
         },
         {
+            "id": "23465147",
             "Retailer": "Ammunition1.Direct",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/294321015874"
         },
         {
+            "id": "49276094",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Remington 30 Super Carry Ammunition R20015 100 gr Full Metal Jacket 50 Rounds 047700487205",
             "Brand": "Remington",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/273305205361"
         },
         {
+            "id": "10724095",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Federal 30 Super Carry Ammunition AE30SCA 100 gr Full Metal Jacket 50 Rounds 604544678017",
             "Brand": "Eagle",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/273305196178"
         },
         {
+            "id": "69381971",
             "Retailer": "Shooting Surplus",
             "Description": "Remington UMC Handgun Ammo 30 Super Carry 100 gr. FMJ 50 rd. 047700487205",
             "Brand": "Remington",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/293798983948"
         },
         {
+            "id": "18309884",
             "Retailer": "All Alpha Armory",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/282375810772"
         },
         {
+            "id": "31657183",
             "Retailer": "All Alpha Armory",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/281428447006"
         },
         {
+            "id": "15351156",
             "Retailer": "Republic Ammunition",
             "Description": "Federal American Eagle .30 Super Carry 100gr FMJ 50CT - 50 RPLFEAE30SCA",
             "Brand": "Eagle",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/298118371195"
         },
         {
+            "id": "26959403",
             "Retailer": "Wholesale Hunter",
             "Description": "30 Super Carry 50 Rounds Ammunition CCI 115 Grain FMJ 604544670981",
             "Brand": "CCI",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/204243908809"
         },
         {
+            "id": "78175910",
             "Retailer": "Ammo City Supply",
             "Description": "Fed Am Eagle 30sc 100gr Fmj 50 Rounds",
             "Brand": "Eagle",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/225259058805"
         },
         {
+            "id": "33379459",
             "Retailer": "Ammo Lab",
             "Description": "REM 30SUP 100GR FMJ UMC 50/20 047700487205",
             "Brand": "Remington",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/218895201318"
         },
         {
+            "id": "47891816",
             "Retailer": "Ammo Lab",
             "Description": "FED 30SUP 100GR FMJ 50 604544678017",
             "Brand": "Eagle",

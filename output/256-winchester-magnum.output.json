@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "21865423",
             "Retailer": "Ventura Munitions",
             "Description": "Ventura Heritage 256 Winchester Magnum 60gr SP Ammo - 20 Rounds",
             "Brand": "Heritage",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/265020010837"
         },
         {
+            "id": "49163158",
             "Retailer": "DeadEye Precision",
             "Description": "256 Winchester Magnum 60 Grain Jacketed Flat Point 20 Rds Save $$ Save your brass! We can make this ammo for you!",
             "Brand": "DeadEye",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/297869066194"
         },
         {
+            "id": "21825478",
             "Retailer": "Collector Rifle and Ammo",
             "Description": "VINTAGE WESTERN SUPER X 256 WIN MAG 60gr OPEN POINT EXP - VINTAGE/SURPLUS - 50rd BOX",
             "Brand": "Winchester",

@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "10565400",
             "Retailer": "Fast Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/274694039554"
         },
         {
+            "id": "53110844",
             "Retailer": "Fast Ammo",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/274707460504"
         },
         {
+            "id": "14988342",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/289497749029"
         },
         {
+            "id": "11706410",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/288124124734"
         },
         {
+            "id": "19346880",
             "Retailer": "Gman Sporting Arms",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/253266650452"
         },
         {
+            "id": "22624354",
             "Retailer": "Fast Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/274694039557"
         },
         {
+            "id": "22616011",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/288124124725"
         },
         {
+            "id": "71330745",
             "Retailer": "Foundry Outdoors",
             "Description": "Nosler 40067 E-Tip Hunting 280 Ackley Improved 140 GR E-Tip 20 Bx/ 10 Cs 054041400671",
             "Brand": "Nosler",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/258408046132"
         },
         {
+            "id": "36061672",
             "Retailer": "Fast Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/274694039560"
         },
         {
+            "id": "10989189",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/288124124713"
         },
         {
+            "id": "24734716",
             "Retailer": "DACK Outdoors",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048Some orders take up to 30 days to ship",
             "Brand": "Nosler",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/277100385163"
         },
         {
+            "id": "20662903",
             "Retailer": "Republic Ammunition",
             "Description": "Nosler .280 Rem Ackley Imp 140gr Bt 20CT - 20 RPLNOS43504",
             "Brand": "Nosler",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/276633059920"
         },
         {
+            "id": "22265503",
             "Retailer": "Ammo City Supply",
             "Description": "Nosler 280ackly Imp 140gr Bt 20/200 054041435048",
             "Brand": "Nosler",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/270001581676"
         },
         {
+            "id": "16744348",
             "Retailer": "Rivertown Munitions",
             "Description": "Nosler Ballistic Tip .280 REM. Ackley Improved 140 grain BT 3200 FPS (20 rd box)",
             "Brand": "Nosler",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/253280947579"
         },
         {
+            "id": "95388139",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/284619207001"
         },
         {
+            "id": "21810685",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/288124342114"
         },
         {
+            "id": "33933948",
             "Retailer": "Sentry Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/275873138017"
         },
         {
+            "id": "11184880",
             "Retailer": "MidwayUSA",
             "Description": "Nosler BT 280 Remington Ackley Improved 40-Degree Shoulder Ammo 140 Grain Nosler Ballistic Tip Polymer Tip Box of 20 054041435048",
             "Brand": "Nosler",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/269107336600"
         },
         {
+            "id": "24556575",
             "Retailer": "Ammunition1.Direct",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/296817497473"
         },
         {
+            "id": "32520999",
             "Retailer": "Sentry Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/275873138053"
         },
         {
+            "id": "95257304",
             "Retailer": "Gman Sporting Arms",
             "Description": "Hornady 85586 Precision Hunter 280 Ackley Improved 162 gr Extremely Low Drag-eXpanding 20 Bx/ 10 Cs 090255855869",
             "Brand": "Hornady",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/243598939498"
         },
         {
+            "id": "79619051",
             "Retailer": "All Alpha Armory",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/281428449022"
         },
         {
+            "id": "12866567",
             "Retailer": "Minutemen Defense",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/270387979264"
         },
         {
+            "id": "12215068",
             "Retailer": "De Leon RX and Sporting Goods",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/277791079210"
         },
         {
+            "id": "27749319",
             "Retailer": "Sentry Ammo",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048",
             "Brand": "Nosler",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/275873138026"
         },
         {
+            "id": "29241279",
             "Retailer": "Red River Reloading",
             "Description": "Nosler Ballistic Tip Hunting 280 Ackley Improved 140gr Spitzer BT /20 (Buy 2 $41.57 Each)",
             "Brand": "Nosler",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/303413041207"
         },
         {
+            "id": "24053370",
             "Retailer": "Black Basin",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048FREE SHIPPING on orders over $500",
             "Brand": "Nosler",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/306717269542"
         },
         {
+            "id": "15779698",
             "Retailer": "Ammo Hero",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048FREE SHIPPING",
             "Brand": "Nosler",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/276142350898"
         },
         {
+            "id": "17513836",
             "Retailer": "GrabAGun",
             "Description": "Nosler Ballistic Tip Hunting Brass .280 AI 140-Grain 20-Rounds BT - $12.99 Shipping on Unlimited Boxes - UPC: 054041435048",
             "Brand": "Nosler",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/193215480958"
         },
         {
+            "id": "21483235",
             "Retailer": "Tactical Surplus USA",
             "Description": "Nosler 280ackly Imp 140gr Bt 20/200 54041435048FREE SHIPPING on $1000+",
             "Brand": "Nosler",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/257071252339"
         },
         {
+            "id": "22147431",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Nosler 43504 054041435048",
             "Brand": "Nosler",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/281572570099"
         },
         {
+            "id": "24143765",
             "Retailer": "Prepper Gun Shop",
             "Description": "Nosler 280 Ackley Improved 140Gr Ballistic Tip 20rd 054041435048",
             "Brand": "Nosler",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/299173956382"
         },
         {
+            "id": "22482648",
             "Retailer": "USA Gun Store",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/259246070470"
         },
         {
+            "id": "61387165",
             "Retailer": "Nautilus Ammunition",
             "Description": "Nosler 280ackly Imp 140gr Bt 20/200 - FAST FLAT RATE SHIPPING! 054041435048",
             "Brand": "Nosler",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/268919489842"
         },
         {
+            "id": "29477713",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/267497817613"
         },
         {
+            "id": "19858617",
             "Retailer": "Black Basin",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048FREE SHIPPING on orders over $500",
             "Brand": "Nosler",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/306717269539"
         },
         {
+            "id": "19652576",
             "Retailer": "Ammo Hero",
             "Description": "Nosler Ballistic Tip Hunting, 280 Ackley Improved, 140 Grain, Rifle Ammunition, 20 Round Box 43504 054041435048FREE SHIPPING on $250+",
             "Brand": "Nosler",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/276142350877"
         },
         {
+            "id": "18575562",
             "Retailer": "Firearms Depot",
             "Description": "Nosler Ballistic Tip Hunting .280 ACKLEY IMPROVED, 140gr, Spitzer BT - 20 Rounds [MPN: 43504] 054041435048",
             "Brand": "Nosler",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/253272700582"
         },
         {
+            "id": "18799755",
             "Retailer": "MCM Tactical",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/272882855212"
         },
         {
+            "id": "31111858",
             "Retailer": "Apex Ordnance",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/298585944154"
         },
         {
+            "id": "29818173",
             "Retailer": "Chesapeake Gunslingers",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/266198948551"
         },
         {
+            "id": "32487816",
             "Retailer": "Paramount Defense LLC",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/311600495584"
         },
         {
+            "id": "33956029",
             "Retailer": "Armored Boar Gunworks",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/298320404200"
         },
         {
+            "id": "24339569",
             "Retailer": "SST Firearms",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/281568580591"
         },
         {
+            "id": "12965484",
             "Retailer": "Liberty Shooting Sports",
             "Description": "Nosler Ballistic Tip 280 Ackley Improved 140 gr Spitzer Ballistic Tip 20 Per Box/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/254227390453"
         },
         {
+            "id": "15980313",
             "Retailer": "Georgia Guns & Ammo",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/313019893906"
         },
         {
+            "id": "25217580",
             "Retailer": "Gman Sporting Arms",
             "Description": "Nosler 40067 E-Tip 280 Ackley Improved 140 gr E-Tip Lead-Free 20 Bx/ 10 Cs 054041400671",
             "Brand": "Nosler",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/256627999306"
         },
         {
+            "id": "83037230",
             "Retailer": "Fast Ammo",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/274707460528"
         },
         {
+            "id": "20345918",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/289497749017"
         },
         {
+            "id": "64647243",
             "Retailer": "Fast Ammo",
             "Description": "Nosler 60043 Trophy Grade 280Ackley Improved 140gr Nosler AccuBond 20 Per Box/10 Case 054041600439",
             "Brand": "Nosler",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/274704638500"
         },
         {
+            "id": "31273494",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/288124342057"
         },
         {
+            "id": "33666656",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/284619207064"
         },
         {
+            "id": "11319693",
             "Retailer": "Drifters Gear",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/227870081427"
         },
         {
+            "id": "32259540",
             "Retailer": "LG Outdoors",
             "Description": "280 Rem Ackley Improved 140 Grain Ballistic Tip 20 Rounds Nosler Ammunition(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/141137192253"
         },
         {
+            "id": "28206930",
             "Retailer": "Ammo Sale",
             "Description": "280 Rem Ackley Improved 140 Grain Ballistic Tip 20 Rounds Nosler Ammunition(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/253520791648"
         },
         {
+            "id": "14889472",
             "Retailer": "Wholesale Hunter",
             "Description": "280 Rem Ackley Improved 20 Rounds Ammunition Nosler 140 Grain Ballistic Tip Case of 200 054041435048(price reflects 5% bulk discount)",
             "Brand": "Nosler",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/133994692319"
         },
         {
+            "id": "17816752",
             "Retailer": "AZ Ammo Depot",
             "Description": "Nosler Ballistic Tip 054041435048 280 Ackley Improved 140 Grains Ballistic Tip",
             "Brand": "Nosler",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/290258698723"
         },
         {
+            "id": "33073688",
             "Retailer": "Natchez Shooting & Outdoors",
             "Description": "Nosler Ballistic Tip Rifle Ammunition .280 Ackley Improved 140 gr BT 3200 fps 20/ct 054041435048",
             "Brand": "Nosler",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/223354897065"
         },
         {
+            "id": "14532128",
             "Retailer": "Ordnance Outpost",
             "Description": "Nosler 280ackly Imp 140gr Bt 20/200 RPLNOS43504 054041435048",
             "Brand": "Nosler",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/313959827284"
         },
         {
+            "id": "28116062",
             "Retailer": "Armed In Michigan",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/295256817403"
         },
         {
+            "id": "23060486",
             "Retailer": "Red River Reloading",
             "Description": "Nosler Ballistic Tip Hunting 280 Ackley Improved 140gr Spitzer BT /20",
             "Brand": "Nosler",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/225645706365"
         },
         {
+            "id": "12598721",
             "Retailer": "Shooting Surplus",
             "Description": "Nosler Ballistic Tip Rifle Ammunition 280 Ack Imp 140 gr. BT SP 20 rd. 054041435048",
             "Brand": "Nosler",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/293798982154"
         },
         {
+            "id": "10630618",
             "Retailer": "LG Outdoors",
             "Description": "280 Rem Ackley Improved 140 Grain Ballistic Tip 20 Rounds Nosler Ammunition(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/147336465694"
         },
         {
+            "id": "17840307",
             "Retailer": "Ammo Sale",
             "Description": "280 Rem Ackley Improved 140 Grain Ballistic Tip 20 Rounds Nosler Ammunition(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/222641466645"
         },
         {
+            "id": "22104837",
             "Retailer": "Ammo ASAP",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/288124342078"
         },
         {
+            "id": "14990000",
             "Retailer": "Fast Ammo",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/284619207043"
         },
         {
+            "id": "20221590",
             "Retailer": "Arm or Ally",
             "Description": "Nosler 280 Ackley Improved 140gr Ballistic Tip Hunting Ammunition (20ct)",
             "Brand": "Nosler",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/306467256823"
         },
         {
+            "id": "24451685",
             "Retailer": "American Ordnance",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20RD",
             "Brand": "Nosler",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/313090917361"
         },
         {
+            "id": "40219637",
             "Retailer": "Adventure Gear South",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/284831008123"
         },
         {
+            "id": "73418407",
             "Retailer": "DB Firearms",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/261733189006"
         },
         {
+            "id": "12986394",
             "Retailer": "Defensive Ballistics",
             "Description": "Nosler 43504 054041435048",
             "Brand": "Nosler",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/225735695121"
         },
         {
+            "id": "18276714",
             "Retailer": "Big Mike's Guns and Ammo",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/285208219378"
         },
         {
+            "id": "23329461",
             "Retailer": "Global Ordnance",
             "Description": "Nosler Ballistic Tip Hyper Velocity Centerfire Ammunition, 280 Ackley Improved, Spitzer Ballistic Tip, 140 Grain - 20 Cartridge Box ( 20 / 1 ) 054041435048",
             "Brand": "Nosler",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/276487216192"
         },
         {
+            "id": "10397530",
             "Retailer": "Fast Ammo",
             "Description": "Federal Premium Rifle Ammo 280 Ackley 155 gr. Terminal Ascent 20 rd. 604544659382",
             "Brand": "Federal",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/274692986236"
         },
         {
+            "id": "14543763",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Premium Rifle Ammo 280 Ackley 155 gr. Terminal Ascent 20 rd. 604544659382",
             "Brand": "Federal",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/288124513042"
         },
         {
+            "id": "13484156",
             "Retailer": "Powder & String Outfitters",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/276395908612"
         },
         {
+            "id": "24402098",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Nosler 280 Ackley Improved Ammunition 43504 140 gr Spitzer Ballistic Tip 20 Rounds 054041435048",
             "Brand": "Nosler",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/273284357176"
         },
         {
+            "id": "12220491",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/289497749005"
         },
         {
+            "id": "30643793",
             "Retailer": "LG Outdoors",
             "Description": "Nosler Ballistic Tip Rifle Ammunition 280 Ack Imp 140 gr. BT SP 20 rd. Model: 43504(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/256112543254"
         },
         {
+            "id": "16448990",
             "Retailer": "Ammo Sale",
             "Description": "Nosler Ballistic Tip Rifle Ammunition 280 Ack Imp 140 gr. BT SP 20 rd. Model: 43504(Price per unit for order of 10+ units)054041435048",
             "Brand": "Nosler",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/256111801993"
         },
         {
+            "id": "33981244",
             "Retailer": "Ammo ASAP",
             "Description": "Nosler 60043 Trophy Grade 280Ackley Improved 140gr Nosler AccuBond 20 Per Box/10 Case 054041600439",
             "Brand": "Nosler",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/288124258825"
         },
         {
+            "id": "11217091",
             "Retailer": "Foundry Outdoors",
             "Description": "Nosler Ammo Bt 280 Ackley Imp 054041435048",
             "Brand": "Nosler",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/258408045130"
         },
         {
+            "id": "21335875",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal P280A1TA1 Premium 280 Ackley Improved 155 gr Terminal Ascent 20 Bx/ 10 Cs 604544659382",
             "Brand": "Federal",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/261828180259"
         },
         {
+            "id": "90283663",
             "Retailer": "Fast Ammo",
             "Description": "Federal P280A1TC1 Premium 280Ackley Improved 140gr Trophy Copper 20 Per Box/10 Case 604544659528",
             "Brand": "Federal",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/274704636712"
         },
         {
+            "id": "14587050",
             "Retailer": "Ammo ASAP",
             "Description": "Federal P280A1TC1 Premium 280Ackley Improved 140gr Trophy Copper 20 Per Box/10 Case 604544659528",
             "Brand": "Federal",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/288124537276"
         },
         {
+            "id": "51350213",
             "Retailer": "L&M Guns and Gear",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/310091202694"
         },
         {
+            "id": "15702550",
             "Retailer": "76 Rounds",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/297967374262"
         },
         {
+            "id": "10465321",
             "Retailer": "Missouri River Munitions",
             "Description": "Nosler Ballistic Tip 054041435048 280 Ackley Improved 140 Grains Ballistic Tip",
             "Brand": "Nosler",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/307110720694"
         },
         {
+            "id": "15365434",
             "Retailer": "US Armory",
             "Description": "Nosler Ballistic Tip 054041435048 280 Ackley Improved 140 Grains Ballistic Tip",
             "Brand": "Nosler",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/279191743189"
         },
         {
+            "id": "25671158",
             "Retailer": "Keen Dynamics",
             "Description": "Nosler Ballistic Tip 054041435048 280 Ackley Improved 140 Grains Ballistic Tip",
             "Brand": "Nosler",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/279196926220"
         },
         {
+            "id": "24857716",
             "Retailer": "Loftus Firearms",
             "Description": "NOSLER 280ACKLY IMP 140GR BT 20/200 054041435048",
             "Brand": "Nosler",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/284693873809"
         },
         {
+            "id": "80958412",
             "Retailer": "Ammo Lab",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 gr Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/257646298807"
         },
         {
+            "id": "17861925",
             "Retailer": "Wholesale Hunter",
             "Description": "280 Rem Ackley Improved 20 Rounds Ammunition Nosler 140 Grain Ballistic Tip 054041435048",
             "Brand": "Nosler",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/133994692319"
         },
         {
+            "id": "12308235",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Nosler 43504 280 Ackley Improved Ammunition 140Gr Polymer Tipped 20 Rounds 054041435048",
             "Brand": "Nosler",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/275849580949"
         },
         {
+            "id": "17788552",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal P280A1TC1 Trophy Copper 280 Ackley Improved 140 gr Trophy Copper (TC) 20 Bx/ 10 Cs 604544659528",
             "Brand": "Federal",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/273731241226"
         },
         {
+            "id": "29433282",
             "Retailer": "Foundry Outdoors",
             "Description": "Nosler 43504 Ballistic Tip Hunting 280 Ackley Improved 140 GR Ballistic Tip 20 Bx/ 10 Cs 054041435048",
             "Brand": "Nosler",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/258408042436"
         },
         {
+            "id": "31816733",
             "Retailer": "Fast Ammo",
             "Description": "Nosler 40067 E-Tip 280Ackley Improved 140gr E Tip lead-free 20 Per Box/10 Case 054041400671",
             "Brand": "Nosler",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/274707460543"
         },
         {
+            "id": "33650943",
             "Retailer": "Fast Ammo",
             "Description": "Federal P280A1TC1 Premium 280Ackley Improved 140gr Trophy Copper 20 Per Box/10 Case 604544659528",
             "Brand": "Federal",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/274704636715"
         },
         {
+            "id": "71625018",
             "Retailer": "Ammo ASAP",
             "Description": "Federal P280A1TC1 Premium 280Ackley Improved 140gr Trophy Copper 20 Per Box/10 Case 604544659528",
             "Brand": "Federal",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/288124537258"
         },
         {
+            "id": "21362294",
             "Retailer": "Sentry Ammo",
             "Description": "Hornady Precision Hunter Rifle Ammo 280 Ackley Imp. 162 gr. ELD-X 20 rd. 090255855869",
             "Brand": "Hornady",

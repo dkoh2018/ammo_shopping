@@ -2,6 +2,39 @@ import json
 from bs4 import BeautifulSoup
 import os
 import re
+import uuid
+from pathlib import Path
+
+
+# ID Management System
+class IDManager:
+    def __init__(self, id_file="id_tracker.json"):
+        self.id_file = id_file
+        self.existing_ids = set()
+        self.load_existing_ids()
+
+    def load_existing_ids(self):
+        if Path(self.id_file).exists():
+            with open(self.id_file, "r") as f:
+                self.existing_ids = set(json.load(f).get("ids", []))
+        else:
+            self.existing_ids = set()
+
+    def save_ids(self):
+        with open(self.id_file, "w") as f:
+            json.dump({"ids": list(self.existing_ids)}, f)
+
+    def generate_unique_id(self):
+        while True:
+            new_id = str(uuid.uuid4().int)[:8]  # Generate 8-digit numeric ID
+            if new_id not in self.existing_ids:
+                self.existing_ids.add(new_id)
+                self.save_ids()
+                return new_id
+
+
+# Initialize ID manager
+id_manager = IDManager()
 
 
 def parse_ammoseek_html(html_content):
@@ -12,6 +45,9 @@ def parse_ammoseek_html(html_content):
     for card in result_cards:
         item_data = {}
         try:
+            # Generate unique ID for this item
+            item_data["id"] = id_manager.generate_unique_id()
+
             # --- Retailer (Corrected) ---
             retailer_element = card.find("li", class_="retailer-name")
             item_data["Retailer"] = (
@@ -108,14 +144,13 @@ def parse_ammoseek_html(html_content):
                     "span", class_=lambda x: x in ["remanufactured", "new"]
                 )
                 item_data["New?"] = status["class"][0] if status else "N/A"
+
             # --- $/round (Corrected parsing with 3 decimal rounding) ---
             cpr_element = card.find("span", class_="ga-cpr")
             item_data["$/round"] = None
             if cpr_element:
                 cpr_text = cpr_element.get_text(strip=True)
-                # Determine if the value is in dollars or cents
                 if cpr_text.startswith("$"):
-                    # Extract dollar amount and round to 3 decimals
                     cpr_value = re.search(r"[\d.]+", cpr_text)
                     if cpr_value:
                         try:
@@ -123,7 +158,6 @@ def parse_ammoseek_html(html_content):
                         except ValueError:
                             pass
                 else:
-                    # Extract cent amount, convert to dollars, and round to 3 decimals
                     cpr_value = re.search(r"[\d.]+", cpr_text)
                     if cpr_value:
                         try:

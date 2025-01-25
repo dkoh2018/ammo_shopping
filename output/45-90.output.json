@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "14283991",
             "Retailer": "Ventura Munitions",
             "Description": "Ventura Heritage 45-90 Winchester 305gr RNFP Ammo - 20 Rounds",
             "Brand": "Heritage",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/60946861708"
         },
         {
+            "id": "87825642",
             "Retailer": "Ventura Munitions",
             "Description": "Ventura Heritage 45-90 Winchester 400gr RNFP Ammo - 20 Rounds",
             "Brand": "Heritage",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/60946861711"
         },
         {
+            "id": "35873022",
             "Retailer": "Old South Ammo",
             "Description": "45-90 Sharps Black Powder Ammunition - New Production!",
             "Brand": "South Ammo",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/260613408019"
         },
         {
+            "id": "76155946",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 45-90 400GR RNFP 894903001017",
             "Brand": "Load-X",

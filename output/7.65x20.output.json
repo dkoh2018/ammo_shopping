@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "20112260",
             "Retailer": "Steinel Ammo",
             "Description": "7.65 French Long 110gr RN 50 count",
             "Brand": "Steinel",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/259264458064"
         },
         {
+            "id": "14496988",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Steinel 7.65 FRENCH 110GR CMJ 1106",
             "Brand": "Steinel",

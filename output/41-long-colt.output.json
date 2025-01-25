@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "21115533",
             "Retailer": "Ventura Munitions",
             "Description": "Ventura Heritage 41 Long Colt 200gr RNFP Ammo - 50 Rounds",
             "Brand": "Heritage",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/67208718016"
         },
         {
+            "id": "58497505",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 41 LONG COLT 200GR RNP 886666333000",
             "Brand": "Load-X",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/301383832873"
         },
         {
+            "id": "80930841",
             "Retailer": "Old South Ammo",
             "Description": "41 Long Colt BLACK POWDER Ammunition Thunderer - NEW Production!",
             "Brand": "South Ammo",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/304466373661"
         },
         {
+            "id": "12511798",
             "Retailer": "Old Arms of Idaho",
             "Description": "Scarce Winchester Repeating Arms Co. .41 Long Colt D.A. Ammunition - 5rds",
             "Brand": "Colt",

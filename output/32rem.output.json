@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "30178098",
             "Retailer": "Maryland Munitions",
             "Description": "Peters High Velocity Vintage .32 Remington 170gr INNER-Belted SP 20rd Box peters32FREE SHIPPING on orders over $250",
             "Brand": "Remington",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/304690370974"
         },
         {
+            "id": "14230175",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 32 Remington 170gr SP. N20 87600975",
             "Brand": "Load-X",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/281572569607"
         },
         {
+            "id": "21056603",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Precision Cartridge 32 Remington 170gr Rnfp 88131111",
             "Brand": "PCI",

@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "81369147",
             "Retailer": "Charlie Mike's Armory",
             "Description": ".22 Winchester Automatic 45 grain 50 round box",
             "Brand": "Winchester",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/314060914750"
         },
         {
+            "id": "35751355",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Old Western Scrounger 22 Winchester Automatic 45 grain 1510",
             "Brand": "Western Scrounger",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/299124099787"
         },
         {
+            "id": "19584998",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Aguila 22 Winchester Automatic 45gr (for model 1903 only) 640420001173",
             "Brand": "Aguila",

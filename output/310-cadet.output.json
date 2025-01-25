@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "16122223",
             "Retailer": "Old South Ammo",
             "Description": "310 Cadet Martini - Reloading Brass",
             "Brand": "South Ammo",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/271133662510"
         },
         {
+            "id": "13933981",
             "Retailer": "Old South Ammo",
             "Description": "310 Cadet Martini Black Powder - New Production Ammunition",
             "Brand": "South Ammo",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/260613407986"
         },
         {
+            "id": "33854105",
             "Retailer": "Old South Ammo",
             "Description": "310 Cadet Martini - New Production Smokeless Powder Ammunition",
             "Brand": "South Ammo",

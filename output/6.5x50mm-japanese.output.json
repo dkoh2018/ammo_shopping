@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "26843664",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 6.5X50 Jap 120gr. Soft Point 888777777999",
             "Brand": "Load-X",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/281626315306"
         },
         {
+            "id": "15308814",
             "Retailer": "Collector Rifle and Ammo",
             "Description": "OBSOLETE AMMO 6.5x50mm JAPANESE 140gr FMJ 20rd BOX",
             "Brand": "Obsolete",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/220424059722"
         },
         {
+            "id": "23031813",
             "Retailer": "Collector Rifle and Ammo",
             "Description": "OBSOLETE AMMO 6.5x50mm JAPANESE 140gr MATCH 20rd BOX",
             "Brand": "Obsolete",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/272457197986"
         },
         {
+            "id": "10581620",
             "Retailer": "Ventura Munitions",
             "Description": "Ventura Heritage 6.5x50 Japanese 120gr SP Ammo - 20 Rounds",
             "Brand": "Heritage",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/61738647421"
         },
         {
+            "id": "40976076",
             "Retailer": "Big K Ammo",
             "Description": "6.5 Jap Bannerman FMJ BT 139 Grain 20 round box No CC Fees Free Shipping over $250 690357713075",
             "Brand": "Bannerman",

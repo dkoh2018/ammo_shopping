@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "10456169",
             "Retailer": "Fast Ammo",
             "Description": "Federal Top Gun Shotgun Ammo 20 Gauge (20 ga.) 2 .75 in. 7/8 oz. 9 Shot 25 rd. 029465019389",
             "Brand": "Federal",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/269424802825"
         },
         {
+            "id": "25700289",
             "Retailer": "Fast Ammo",
             "Description": "Winchester AA Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892004443",
             "Brand": "Winchester",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/269424802888"
         },
         {
+            "id": "24958815",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition Super Target, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box TRGT208 020892016316",
             "Brand": "Winchester",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/310990208608"
         },
         {
+            "id": "18672066",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition Super Target, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box TRGT208 020892016316",
             "Brand": "Winchester",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/310990208614"
         },
         {
+            "id": "13683056",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammunition Super Target, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box TRGT208 020892016316",
             "Brand": "Winchester",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/310982016832"
         },
         {
+            "id": "28486666",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester AA Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892004443",
             "Brand": "Winchester",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/310607375932"
         },
         {
+            "id": "11879440",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun Shotgun Ammo 20 Gauge (20 ga.) 2 .75 in. 7/8 oz. 9 Shot 25 rd. 029465019389",
             "Brand": "Federal",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/310607377807"
         },
         {
+            "id": "17792414",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammunition Super Target, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box TRGT208 020892016316",
             "Brand": "Winchester",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/310982016829"
         },
         {
+            "id": "10353083",
             "Retailer": "D4Guns",
             "Description": "Winchester Super-Target 20 Gauge 2.75\" 8-Shot 100 Rounds 020892019652",
             "Brand": "Winchester",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/306077001295"
         },
         {
+            "id": "60992472",
             "Retailer": "Fast Ammo",
             "Description": "Federal Top Gun Shotgun Ammo 20 Gauge (20 ga.) 2 .75 in. 7/8 oz. 9 Shot 25 rd. 029465019389",
             "Brand": "Federal",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/269424802828"
         },
         {
+            "id": "21347567",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun Shotgun Ammo 20 Gauge (20 ga.) 2 .75 in. 7/8 oz. 9 Shot 25 rd. 029465019389",
             "Brand": "Federal",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/310607377804"
         },
         {
+            "id": "10148152",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #7.5, 7/8 oz, 25 Round Box SS2075 604544256574",
             "Brand": "Estate",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/310607370889"
         },
         {
+            "id": "18447571",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #7.5, 7/8 oz, 25 Round Box SS2075 604544256574",
             "Brand": "Estate",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/310607370895"
         },
         {
+            "id": "32919392",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #7.5, 7/8 oz, 25 Round Box SS2075 604544256574",
             "Brand": "Estate",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/310607370892"
         },
         {
+            "id": "76276153",
             "Retailer": "Gman Sporting Arms",
             "Description": "Estate SS2075 Super Sport 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 604544256574",
             "Brand": "Estate",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/264722732137"
         },
         {
+            "id": "21528637",
             "Retailer": "Palmetto State Armory",
             "Description": "Nobel Sport 20 Gauge 2.75\" #9 25rds - ANS209 837913000243",
             "Brand": "NobelSport",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/228517712280"
         },
         {
+            "id": "79692926",
             "Retailer": "Gman Sporting Arms",
             "Description": "Fiocchi 20SD8 Shooting Dynamics Target Load 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 762344710846",
             "Brand": "Fiocchi",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/235287568039"
         },
         {
+            "id": "14380230",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition Super Target, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box TRGT208 020892016316",
             "Brand": "Winchester",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/310990208611"
         },
         {
+            "id": "14190615",
             "Retailer": "Fast Ammo",
             "Description": "Fiocchi 20SD75 Shooting Dynamics Target 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 762344710839",
             "Brand": "Fiocchi",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/274694405050"
         },
         {
+            "id": "31774054",
             "Retailer": "Fast Ammo",
             "Description": "Fiocchi 20SD75 Shooting Dynamics Target 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 762344710839",
             "Brand": "Fiocchi",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/274694405062"
         },
         {
+            "id": "31456348",
             "Retailer": "Ammo ASAP",
             "Description": "Fiocchi 20SD75 Shooting Dynamics Target 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 762344710839",
             "Brand": "Fiocchi",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/296826336577"
         },
         {
+            "id": "28179134",
             "Retailer": "Gman Sporting Arms",
             "Description": "Fiocchi 20SD75 Shooting Dynamics Target Load 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 762344710839",
             "Brand": "Fiocchi",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/252109400059"
         },
         {
+            "id": "15664369",
             "Retailer": "South Georgia Outdoors",
             "Description": "WINCHESTER SUPER-X UPLAND & SMALL GAME 20 GAUGE 2 3/4'' 1210 FPS 7/8 OZ. #7 1/2 SHOT 250 ROUND CASE",
             "Brand": "Winchester",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/205819323391"
         },
         {
+            "id": "16075322",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/269424802861"
         },
         {
+            "id": "55159298",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/269424802864"
         },
         {
+            "id": "11596677",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/269424802867"
         },
         {
+            "id": "30417516",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/310607373040"
         },
         {
+            "id": "56132998",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/310607373037"
         },
         {
+            "id": "17068024",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/310607373034"
         },
         {
+            "id": "20878746",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo TRGT207 Super Target 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 020892016293",
             "Brand": "Winchester",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/249601470814"
         },
         {
+            "id": "60971109",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo TRGT208 Super Target 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 020892016316",
             "Brand": "Winchester",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/245453233510"
         },
         {
+            "id": "26413370",
             "Retailer": "Gman Sporting Arms",
             "Description": "NOBEL SPORT LOW RECOIL 20GA 2.75 3/4OZ #8 837913000373",
             "Brand": "NobelSport",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/285630086383"
         },
         {
+            "id": "27575431",
             "Retailer": "Fast Ammo",
             "Description": "Fiocchi Dove & Target Loads 20 ga. 2.75 in. 7/8 oz. 8 Shot 25 rd. 762344700908",
             "Brand": "Fiocchi",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/274692262177"
         },
         {
+            "id": "24733986",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/269424802879"
         },
         {
+            "id": "49226333",
             "Retailer": "Fast Ammo",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/274690677754"
         },
         {
+            "id": "32874742",
             "Retailer": "Fast Ammo",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box SS208 604544256482",
             "Brand": "Estate",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/274686703984"
         },
         {
+            "id": "24418791",
             "Retailer": "Fast Ammo",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/274690677772"
         },
         {
+            "id": "17661451",
             "Retailer": "Fast Ammo",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/274690677784"
         },
         {
+            "id": "69587746",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/269424802882"
         },
         {
+            "id": "32242009",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/288953453233"
         },
         {
+            "id": "89419931",
             "Retailer": "Fast Ammo",
             "Description": "Fiocchi Dove & Target Loads 20 ga. 2.75 in. 7/8 oz. 8 Shot 25 rd. 762344700908",
             "Brand": "Fiocchi",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/274692262180"
         },
         {
+            "id": "11059191",
             "Retailer": "Fast Ammo",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box SS208 604544256482",
             "Brand": "Estate",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/274686703987"
         },
         {
+            "id": "15054770",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammunition Super-X, 20 Gauge, 2.75\", Game Load, #7.5, 0.875oz, Shotshell, 25 Round Box XU207 020892013414",
             "Brand": "Winchester",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/310607375320"
         },
         {
+            "id": "24416475",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box SS208 604544256482",
             "Brand": "Estate",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/288124054180"
         },
         {
+            "id": "15768881",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/310607371507"
         },
         {
+            "id": "22984456",
             "Retailer": "Ammo ASAP",
             "Description": "Fiocchi Dove & Target Loads 20 ga. 2.75 in. 7/8 oz. 8 Shot 25 rd. 762344700908",
             "Brand": "Fiocchi",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/289782800458"
         },
         {
+            "id": "94216285",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/288124065433"
         },
         {
+            "id": "31990658",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/288124065418"
         },
         {
+            "id": "16053535",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition 20239 Gun Club 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 047700348407",
             "Brand": "Remington",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/288124065400"
         },
         {
+            "id": "17525739",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammunition Super-X, 20 Gauge, 2.75\", Game Load, #7.5, 0.875oz, Shotshell, 25 Round Box XU207 020892013414",
             "Brand": "Winchester",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/310607375326"
         },
         {
+            "id": "43808393",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/310607373280"
         },
         {
+            "id": "68133144",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/310607371513"
         },
         {
+            "id": "18519423",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Estate, Super Sport, 20 Gauge 2.75\", #8, 7/8 oz, 25 Round Box SS208 604544256482",
             "Brand": "Estate",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/288124054177"
         },
         {
+            "id": "12635448",
             "Retailer": "Gman Sporting Arms",
             "Description": "Remington Ammunition GC207 Gun Club 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 047700348407",
             "Brand": "Remington",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/235160963491"
         },
         {
+            "id": "27132999",
             "Retailer": "Gman Sporting Arms",
             "Description": "Fiocchi 20GT8 Game & Target 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 762344700908",
             "Brand": "Fiocchi",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/235126496812"
         },
         {
+            "id": "15887432",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo XU206 Super-X Game Load 20 Gauge 2.75\" 7/8 oz 6 Shot 25 Bx/ 10 Cs 020892013391",
             "Brand": "Winchester",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/279917828107"
         },
         {
+            "id": "28243946",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo XU207 Super-X Game Load 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 020892013414",
             "Brand": "Winchester",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/236613944703"
         },
         {
+            "id": "15934435",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo XU208 Super-X Game Load 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 020892013438",
             "Brand": "Winchester",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/235126496641"
         },
         {
+            "id": "23844429",
             "Retailer": "Gman Sporting Arms",
             "Description": "Estate SS208 Super Sport 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 604544256482",
             "Brand": "Estate",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/235126495717"
         },
         {
+            "id": "59392413",
             "Retailer": "Fast Ammo",
             "Description": "Fiocchi 20SD75 Shooting Dynamics Target 20Gauge 2.75\" 7/8oz 7.5Shot 25 Per Box/10 Case 762344710839",
             "Brand": "Fiocchi",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/274694405095"
         },
         {
+            "id": "28190374",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal TG209 Top Gun 20 Gauge 2.75\" 7/8 oz 9 Shot 25 Bx/ 10 Cs 029465019389",
             "Brand": "Federal",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/248963366992"
         },
         {
+            "id": "10430564",
             "Retailer": "Fast Ammo",
             "Description": "Rio Ammunition Wing & Target 24, 20 Gauge, 2-3/4\" 7/8-Oz, #8 Shot 8435101637237",
             "Brand": "Rio",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/274720745785"
         },
         {
+            "id": "82212191",
             "Retailer": "Fast Ammo",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/269424802906"
         },
         {
+            "id": "28668784",
             "Retailer": "Fast Ammo",
             "Description": "Federal Game-Shok Heavy Field Load 20 Gauge (20 ga.) 2.75 in. 1 oz. 8 Shot 25 rd. 029465006884",
             "Brand": "Federal",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/273302340349"
         },
         {
+            "id": "23202102",
             "Retailer": "Sentry Ammo",
             "Description": "Rio Ammunition Wing & Target 24, 20 Gauge, 2-3/4\" 7/8-Oz, #8 Shot 8435101637237",
             "Brand": "Rio",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/272357292445"
         },
         {
+            "id": "60009804",
             "Retailer": "Fast Ammo",
             "Description": "Rio Ammunition Wing & Target 24, 20 Gauge, 2-3/4\" 7/8-Oz, #8 Shot 8435101637237",
             "Brand": "Rio",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/274720745746"
         },
         {
+            "id": "19700091",
             "Retailer": "Fast Ammo",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/269424802909"
         },
         {
+            "id": "10576717",
             "Retailer": "Fast Ammo",
             "Description": "Rio Ammunition Wing & Target 24, 20 Gauge, 2-3/4\" 7/8-Oz, #8 Shot 8435101637237",
             "Brand": "Rio",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/274720745686"
         },
         {
+            "id": "18791718",
             "Retailer": "Fast Ammo",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/269424802912"
         },
         {
+            "id": "32682478",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/310607370574"
         },
         {
+            "id": "16991393",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Game-Shok Heavy Field Load 20 Gauge (20 ga.) 2.75 in. 1 oz. 8 Shot 25 rd. 029465006884",
             "Brand": "Federal",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/310607373940"
         },
         {
+            "id": "84018018",
             "Retailer": "Fast Ammo",
             "Description": "Federal Top Gun Sporting Shotgun Ammo 20 Gauge (20 ga.) 2.75 in. 1250 FPS 7/8 oz. 7.5 Shot 25 Rd. 604544646498",
             "Brand": "Federal",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/269424802813"
         },
         {
+            "id": "30681259",
             "Retailer": "Gunprime",
             "Description": "Rio Wing & Target 20 GA 2-3/4\" 7/8 oz #8 Shot Case of 250 Rounds WT208 8435101637234",
             "Brand": "Rio",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/188521853565"
         },
         {
+            "id": "16263594",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/310607370571"
         },
         {
+            "id": "18342539",
             "Retailer": "Fast Ammo",
             "Description": "Federal Top Gun Sporting Shotgun Ammo 20 Gauge (20 ga.) 2.75 in. 1250 FPS 7/8 oz. 7.5 Shot 25 Rd. 604544646498",
             "Brand": "Federal",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/270812760643"
         },
         {
+            "id": "27078888",
             "Retailer": "Gunprime",
             "Description": "Rio Top Target 20 GA Ammo 2-3/4\" 7/8 oz #8 Lead Shot Case of 250 Rounds 435101623282",
             "Brand": "Rio",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/194974089829"
         },
         {
+            "id": "10972135",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Game-Shok Upland Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 029465072889",
             "Brand": "Federal",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/310607370568"
         },
         {
+            "id": "18545185",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/310607373277"
         },
         {
+            "id": "12968137",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/288953453242"
         },
         {
+            "id": "23897089",
             "Retailer": "Gman Sporting Arms",
             "Description": "RIO AMMUNITION TT2075 Top Target 20 Gauge 2 3/4\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 18435101623305",
             "Brand": "Rio",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/235126497271"
         },
         {
+            "id": "22116523",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun, 20 Gauge 2.75\", #8, 7/8 oz., 25 Round Box TG208 029465025014",
             "Brand": "Federal",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/288124053208"
         },
         {
+            "id": "11069836",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun Sporting Shotgun Ammo 20 Gauge (20 ga.) 2.75 in. 1250 FPS 7/8 oz. 7.5 Shot 25 Rd. 604544646498",
             "Brand": "Federal",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/310607374645"
         },
         {
+            "id": "24917805",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal H2008 Game-Shok Upland 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 029465072889",
             "Brand": "Federal",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/243598951621"
         },
         {
+            "id": "22521870",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun Sporting Shotgun Ammo 20 Gauge (20 ga.) 2.75 in. 1250 FPS 7/8 oz. 7.5 Shot 25 Rd. 604544646498",
             "Brand": "Federal",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/310607374639"
         },
         {
+            "id": "12900000",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun, 20 Gauge 2.75\", #8, 7/8 oz., 25 Round Box TG208 029465025014",
             "Brand": "Federal",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/288124053205"
         },
         {
+            "id": "26616534",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Top Gun Sporting Shotgun Ammo 20 Gauge (20 ga.) 2.75 in. 1250 FPS 7/8 oz. 7.5 Shot 25 Rd. 604544646498",
             "Brand": "Federal",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/310607374642"
         },
         {
+            "id": "15772868",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal TG208 Top Gun 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 029465025014",
             "Brand": "Federal",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/235126496002"
         },
         {
+            "id": "20504018",
             "Retailer": "Gman Sporting Arms",
             "Description": "Federal TGS22475 Top Gun Sporting 20 Gauge 2.75\" 7/8 oz 7.5 Shot 25 Bx/ 10 Cs 604544646498",
             "Brand": "Federal",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/246251739619"
         },
         {
+            "id": "18393785",
             "Retailer": "Gman Sporting Arms",
             "Description": "Remington Ammunition GC208 Gun Club 20 Gauge 2.75\" 7/8 oz 8 Shot 25 Bx/ 10 Cs 047700323107",
             "Brand": "Remington",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/246881194375"
         },
         {
+            "id": "17410020",
             "Retailer": "Gman Sporting Arms",
             "Description": "Remington Ammunition GC209 Gun Club 20 Gauge 2.75\" 7/8 oz 9 Shot 25 Bx/ 10 Cs 047700307206",
             "Brand": "Remington",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/245806495078"
         },
         {
+            "id": "79708180",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/269424802885"
         },
         {
+            "id": "17922678",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Super-X Game Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 8 Shot 25 rd. 020892013438",
             "Brand": "Winchester",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/310607371510"
         },
         {
+            "id": "23733146",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/310607373274"
         },
         {
+            "id": "27714334",
             "Retailer": "Sentry Ammo",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/269438377012"
         },
         {
+            "id": "97995671",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammo XU206 Super X Game Load 20Gauge 2.75\" 7/8oz 6Shot 25 Per Box/10 Case 020892013391",
             "Brand": "Winchester",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/288953453218"
         },
         {
+            "id": "22096153",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo TRGT208VP Super Target 20 Gauge 2.75\" 7/8 oz 8 Shot 100 Bx/ 2 Cs (Value Pack) 020892019324",
             "Brand": "Winchester",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/310893151162"
         },
         {
+            "id": "54640520",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo WIN TRGT207VP Super Target Target 20 Gauge 2.75\" 7/8 oz 7.5 Shot 100 Bx/ 2 Cs Value Pk 020892026063",
             "Brand": "Winchester",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/312180116686"
         },
         {
+            "id": "79300683",
             "Retailer": "Sentry Ammo",
             "Description": "Winchester Super Target Load 20 Gauge (20 ga.) 2.75 in. 7/8 oz. 7.5 Shot 25 rd. 020892016293",
             "Brand": "Winchester",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/269438377015"
         },
         {
+            "id": "20716353",
             "Retailer": "Sentry Ammo",
             "Description": "Rio Ammunition Wing & Target 24, 20 Gauge, 2-3/4\" 7/8-Oz, #8 Shot 8435101637237",
             "Brand": "Rio",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/272357292433"
         },
         {
+            "id": "37326472",
             "Retailer": "AR15Discounts",
             "Description": "Winchester Ammo TRGT207 Super Target 20 Gauge 2.75\" 7/8 oz 7.5 Shotgun Ammo - 250 shells 020892016309",
             "Brand": "Winchester",

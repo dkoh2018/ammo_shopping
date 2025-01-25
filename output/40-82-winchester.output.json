@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "14694735",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Load-X 40-82 255gr RNFP 77654544",
             "Brand": "Load-X",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/309364941163"
         },
         {
+            "id": "12578338",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Precision Cartridge 40-82 Winchester 260gr LRN 87776577",
             "Brand": "PCI",

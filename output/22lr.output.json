@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "86015805",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Standard Subsonic Rimfire Ammo 22 LR. 40 gr. Solid 50 rd. 640420001098",
             "Brand": "Aguila",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/274685037526"
         },
         {
+            "id": "17612575",
             "Retailer": "D4Guns",
             "Description": "Aguila Super Extra .22 LR 40gr Subsonic Solid Point 50 Rounds 640420001098",
             "Brand": "Aguila",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/315173554561"
         },
         {
+            "id": "12692446",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Super Extra Standard Velocity, .22 LR, 40 Grain, Solid Point 640420001050",
             "Brand": "Aguila",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/269424800809"
         },
         {
+            "id": "30924398",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/269424800287"
         },
         {
+            "id": "13898841",
             "Retailer": "D4Guns",
             "Description": "Federal Champion .22 LR 40gr LRN 50 Rounds 510 029465056186",
             "Brand": "Federal",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/315372143770"
         },
         {
+            "id": "21427951",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Super Extra Standard Velocity .22 LR 40 Grain Solid Point 640420001050",
             "Brand": "Aguila",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/310607376799"
         },
         {
+            "id": "26293580",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/288124615609"
         },
         {
+            "id": "15733843",
             "Retailer": "Foundry Outdoors",
             "Description": "Aguila 1B220332 Super Extra Rimfire 22 LR 40 gr Lead Solid Point 50 Per Box/ 40 Cs 640420001050",
             "Brand": "Aguila",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/258408041905"
         },
         {
+            "id": "30337461",
             "Retailer": "Foundry Outdoors",
             "Description": "Aguila 1B220328 Super Extra High Velocity 22 LR 40 gr Copper-Plated Solid Point 50 Rounds 640420001012",
             "Brand": "Aguila",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/258408041908"
         },
         {
+            "id": "19318207",
             "Retailer": "Fast Ammo",
             "Description": "Federal Champion, 22LR, 40 Grain, Solid, 325 Round Brick AM22 029465057350",
             "Brand": "Federal",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/274687820107"
         },
         {
+            "id": "27518716",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/288124054423"
         },
         {
+            "id": "18242049",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/274686898411"
         },
         {
+            "id": "15157989",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/288124054420"
         },
         {
+            "id": "34026701",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/274686898414"
         },
         {
+            "id": "10030957",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/288124054417"
         },
         {
+            "id": "32571094",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/274686898417"
         },
         {
+            "id": "26515043",
             "Retailer": "Fast Ammo",
             "Description": "Remington Ammunition 21284 22 Target 22LR 40gr Round Nose 100 Per Box/50 Case 047700001203",
             "Brand": "Remington",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/274685273713"
         },
         {
+            "id": "19550703",
             "Retailer": "Fast Ammo",
             "Description": "CCI Blazer Rimfire Ammo 22 LR. 38 gr. RN 525 rd. 604544650839",
             "Brand": "Blazer",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/274686703684"
         },
         {
+            "id": "29857978",
             "Retailer": "D4Guns",
             "Description": "Federal .22LR 40gr Target Grade Performance 325 Rounds AM22 029465057350",
             "Brand": "Federal",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/313816181626"
         },
         {
+            "id": "22315191",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition R21271 Thunderbolt Bulk 22LR 40gr Lead Round Nose 525 Per Box/12 Case 047700212715",
             "Brand": "Remington",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/288124448341"
         },
         {
+            "id": "24817438",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition R21271 Thunderbolt Bulk 22LR 40gr Lead Round Nose 525 Per Box/12 Case 047700212715",
             "Brand": "Remington",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/288124448329"
         },
         {
+            "id": "28382681",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Ammunition R21271 Thunderbolt Bulk 22LR 40gr Lead Round Nose 525 Per Box/12 Case 047700212715",
             "Brand": "Remington",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/288124448314"
         },
         {
+            "id": "72832616",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Super Extra Standard Velocity .22 LR 40 Grain Solid Point 640420001050",
             "Brand": "Aguila",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/302669488330"
         },
         {
+            "id": "38564923",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Super Extra Standard Velocity .22 LR 40 Grain Solid Point 640420001050",
             "Brand": "Aguila",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/302331683596"
         },
         {
+            "id": "96764896",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/288124615582"
         },
         {
+            "id": "10412419",
             "Retailer": "Miwall Corporation",
             "Description": "CCI Blazer Ammunition - 22 Long Rifle - 38 Grain Lead Round Nose - 525 Rounds - FACTORY SECONDS 604544650839 10022-SECONDS",
             "Brand": "Blazer",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/284266864210"
         },
         {
+            "id": "30168183",
             "Retailer": "Sentry Ammo",
             "Description": "CCI Blazer Rimfire Ammo 22 LR. 38 gr. RN 525 rd. 604544650839",
             "Brand": "Blazer",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/275865653098"
         },
         {
+            "id": "14690087",
             "Retailer": "Gman Sporting Arms",
             "Description": "REMINGTON TBOLT 22LR 40GR HV RN 525 047700212715",
             "Brand": "Remington",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/254856587461"
         },
         {
+            "id": "30426774",
             "Retailer": "D4Guns",
             "Description": "Federal American Eagle .22LR 40gr Solid 50 Rounds AE5022 029465016913",
             "Brand": "Eagle",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/313803805315"
         },
         {
+            "id": "21489742",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/269424800290"
         },
         {
+            "id": "14610937",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Super Extra Standard Velocity .22 LR 40 Grain Solid Point 640420001050",
             "Brand": "Aguila",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/310607376802"
         },
         {
+            "id": "25598471",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Super Extra Standard Velocity, .22 LR, 40 Grain, Solid Point 640420001050",
             "Brand": "Aguila",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/269424800812"
         },
         {
+            "id": "21519760",
             "Retailer": "Fast Ammo",
             "Description": "Federal Lightning, 22LR, 40 Grain, Solid, 50 Round Box 510 029465056186",
             "Brand": "Federal",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/274685036800"
         },
         {
+            "id": "98537276",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition Rimfire, 22LR, 36 Grain, Hollow Point, 333 Round Brick 22LR333HP 020892102217",
             "Brand": "Winchester",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/274687820059"
         },
         {
+            "id": "29344955",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Standard Subsonic Rimfire Ammo 22 LR. 40 gr. Solid 50 rd. 640420001098",
             "Brand": "Aguila",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/274685037529"
         },
         {
+            "id": "10747476",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition USA, 22LR, 36 Grain, Copper Plated Hollow Point, 525 Round Brick 22LR525HP 020892102651",
             "Brand": "Winchester",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/274689972328"
         },
         {
+            "id": "19077950",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammunition Rimfire, 22LR, 36 Grain, Hollow Point, 555 Round Brick 22LR555HP 020892102477",
             "Brand": "Winchester",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/274686310783"
         },
         {
+            "id": "23454013",
             "Retailer": "Fast Ammo",
             "Description": "Federal 729B800 Champion Training Range Pack 22LR 40gr Lead Round Nose 800 Per Box/4 Case *Bulk 604544668933",
             "Brand": "Federal",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/274686898657"
         },
         {
+            "id": "33103569",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Lightning, 22LR, 40 Grain, Solid, 50 Round Box 510 029465056186",
             "Brand": "Federal",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/288124040602"
         },
         {
+            "id": "55100669",
             "Retailer": "Fast Ammo",
             "Description": "Federal Lead Hollow Point, 22 Long Rifle, 36 Grain, 325 Round Brick 749 604544690743",
             "Brand": "Federal",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/275776564543"
         },
         {
+            "id": "22319038",
             "Retailer": "Fast Ammo",
             "Description": "Federal 725 Champion Training Value Pack 22LR 36gr Copper Plated Hollow Point 325 Per Box/10 Case 029465057985",
             "Brand": "Federal",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/274689467578"
         },
         {
+            "id": "32053988",
             "Retailer": "Fast Ammo",
             "Description": "Federal Lead Hollow Point, 22 Long Rifle, 36 Grain, 525 Round Brick 747 604544690729",
             "Brand": "Federal",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/274738658170"
         },
         {
+            "id": "32169616",
             "Retailer": "Fast Ammo",
             "Description": "AGUILA HIGH-VEL 22LR 40GR LEAD-RN 2000RD CASE LOT 640420013282",
             "Brand": "Aguila",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/275261512087"
         },
         {
+            "id": "15207379",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/288124615561"
         },
         {
+            "id": "28547657",
             "Retailer": "Sentry Ammo",
             "Description": "Federal 725 Champion Training Value Pack 22LR 36gr Copper Plated Hollow Point 325 Per Box/10 Case 029465057985",
             "Brand": "Federal",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/275868703390"
         },
         {
+            "id": "12663563",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Lead Hollow Point, 22 Long Rifle, 36 Grain, 325 Round Brick 749 604544690743",
             "Brand": "Federal",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/291046062160"
         },
         {
+            "id": "12434919",
             "Retailer": "BH Ammo",
             "Description": "Federal AM22 Champion Training Auto Match 22LR 40 Gr Lead Round Nose 29465057350",
             "Brand": "Federal",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/262430678629"
         },
         {
+            "id": "28807009",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo 22LR333HP USA 22 LR 36 gr Copper Plated Hollow Point (CPHP) 333 Can/ 10 Cs 020892102217",
             "Brand": "Winchester",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/235126495429"
         },
         {
+            "id": "25756768",
             "Retailer": "Fast Ammo",
             "Description": "Armscor 22lr 40gr solid point standard velocity 4806015500124",
             "Brand": "Armscor",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/272301878119"
         },
         {
+            "id": "13148015",
             "Retailer": "Fast Ammo",
             "Description": "Armscor .22LR High Velocity Hollow Point 36gr 4806015500155",
             "Brand": "Armscor",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/269424800800"
         },
         {
+            "id": "24679291",
             "Retailer": "Gman Sporting Arms",
             "Description": "Winchester Ammo 22LR525HP USA 22 LR 36 gr Copper Plated Hollow Point (CPHP) 525 Can/ 10 Cs 020892102651",
             "Brand": "Winchester",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/235126495432"
         },
         {
+            "id": "27205366",
             "Retailer": "Ammo ASAP",
             "Description": "Federal Lead Hollow Point, 22 Long Rifle, 36 Grain, 525 Round Brick 747 604544690729",
             "Brand": "Federal",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/294164067526"
         },
         {
+            "id": "21709136",
             "Retailer": "Sentry Ammo",
             "Description": "Federal Lead Hollow Point, 22 Long Rifle, 36 Grain, 525 Round Brick 747 604544690729",
             "Brand": "Federal",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/275868703009"
         },
         {
+            "id": "27376111",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Ammunition Rimfire 22LR 40 Grain Solid Point Hi-Velocity 50 Round Box 1B220328 640420001012",
             "Brand": "Aguila",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/269424800293"
         },
         {
+            "id": "12389679",
             "Retailer": "Fast Ammo",
             "Description": "Aguila Super Extra Standard Velocity, .22 LR, 40 Grain, Solid Point 640420001050",
             "Brand": "Aguila",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/269424800815"
         },
         {
+            "id": "32381009",
             "Retailer": "Fast Ammo",
             "Description": "Federal Champion, 22LR, 36 Grain, Hollow Point, 525 Round Brick 745 029465057169",
             "Brand": "Federal",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/274686309457"
         },
         {
+            "id": "44265287",
             "Retailer": "Sportsman's Outdoor Superstore",
             "Description": "FEDERAL AMMUNITION 22LR 36 gr Copper Plated HP Target Value Pack 550/Box 795WM 604544688795",
             "Brand": "Federal",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/282154629475"
         },
         {
+            "id": "24146652",
             "Retailer": "D4Guns",
             "Description": "Winchester .22LR 36gr CPHP 555 Rounds 22LR555HP 020892102477",
             "Brand": "Winchester",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/306325144024"
         },
         {
+            "id": "10137889",
             "Retailer": "D4Guns",
             "Description": "Armscor Precision .22LR 36gr High Velocity HP 50 Rounds 4806015500155",
             "Brand": "Armscor",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/312275403046"
         },
         {
+            "id": "29665248",
             "Retailer": "Fast Ammo",
             "Description": "Remington Subsonic,22 LR, 40 Grain, Copper Plated Hollow Point, 50 Round Box 21135 047700000206",
             "Brand": "Remington",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/274685037589"
         },
         {
+            "id": "26397805",
             "Retailer": "Fast Ammo",
             "Description": "Remington High Velocity, 22LR, 40 Grain, Round Nose, 100 Round Box 21276 047700000503",
             "Brand": "Remington",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/274686898813"
         },
         {
+            "id": "12241700",
             "Retailer": "D4Guns",
             "Description": "Winchester .22LR 36gr CPHP 333 Rounds 22LR333HP 020892102217-MI",
             "Brand": "Winchester",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/306325144012"
         },
         {
+            "id": "31067194",
             "Retailer": "D4Guns",
             "Description": "Winchester .22LR 36gr CPHP 333 Rounds 22LR333HP 020892102217-NV",
             "Brand": "Winchester",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/313816181635"
         },
         {
+            "id": "49197704",
             "Retailer": "Fast Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/276364487917"
         },
         {
+            "id": "29526709",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/275865958606"
         },
         {
+            "id": "27496708",
             "Retailer": "Fast Ammo",
             "Description": "Winchester Ammo WW22LRB Wildcat 22LR 40gr Copper Plated DynaPoint 500 Per Box/10 Case *Bulk 020892104181",
             "Brand": "Winchester",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/274690680496"
         },
         {
+            "id": "19619712",
             "Retailer": "DACK Outdoors",
             "Description": "REMINGTON TBOLT 22LR 40GR HV RN 525 047700212715Some orders take up to 30 days to ship",
             "Brand": "Remington",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/277100406421"
         },
         {
+            "id": "63214461",
             "Retailer": "Fast Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/276364487914"
         },
         {
+            "id": "42994534",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/275865958609"
         },
         {
+            "id": "32282506",
             "Retailer": "Fast Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/276364487911"
         },
         {
+            "id": "23050814",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila Standard High Velocity Rimfire Ammo 22 LR. 40 gr. HV SP 500 rd. 640420013138",
             "Brand": "Aguila",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/275865958612"
         },
         {
+            "id": "15556843",
             "Retailer": "AR15Discounts",
             "Description": "Winchester 22LR Ammo 36 Grain Hollow Point Copper Plated Rimfire Ammo - 3330 round case",
             "Brand": "Winchester",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/310045178761"
         },
         {
+            "id": "33832125",
             "Retailer": "Red River Reloading",
             "Description": "Armscor Standard Velocity 22LR 40gr SP /50",
             "Brand": "Armscor",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/198233412406"
         },
         {
+            "id": "88107702",
             "Retailer": "Ammo ASAP",
             "Description": "Remington Subsonic,22 LR, 40 Grain, Copper Plated Hollow Point, 50 Round Box 21135 047700000206",
             "Brand": "Remington",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/288124029604"
         },
         {
+            "id": "34277944",
             "Retailer": "Fast Ammo",
             "Description": "Blazer Ammunition Blazer, 22LR, High Velocity, 40 Grain, Lead, 50 Round Box 21 076683000217",
             "Brand": "Blazer",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/274685036914"
         },
         {
+            "id": "20221402",
             "Retailer": "Sentry Ammo",
             "Description": "Remington High Velocity, 22LR, 40 Grain, Round Nose, 100 Round Box 21276 047700000503",
             "Brand": "Remington",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/275866516828"
         },
         {
+            "id": "16989165",
             "Retailer": "Ammo ASAP",
             "Description": "Remington High Velocity, 22LR, 40 Grain, Round Nose, 100 Round Box 21276 047700000503",
             "Brand": "Remington",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/288124054804"
         },
         {
+            "id": "10572571",
             "Retailer": "Sentry Ammo",
             "Description": "Winchester Ammunition Rimfire, 22LR, 36 Grain, Hollow Point, 333 Round Brick 22LR333HP 020892102217",
             "Brand": "Winchester",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/275867025403"
         },
         {
+            "id": "14131271",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/276364407766"
         },
         {
+            "id": "12462708",
             "Retailer": "Ammo ASAP",
             "Description": "Winchester Ammo WW22LRB Wildcat 22LR 40gr Copper Plated DynaPoint 500 Per Box/10 Case *Bulk 020892104181",
             "Brand": "Winchester",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/288124069576"
         },
         {
+            "id": "22132129",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/288124339357"
         },
         {
+            "id": "31357351",
             "Retailer": "BattleHawk Armory",
             "Description": "Aguila 1B221115 Standard High Velocity 22 LR 40 gr Copper-Plated Solid Point Rimfire Ammunition 500rd Box 640420013138",
             "Brand": "Aguila",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/200369113810"
         },
         {
+            "id": "91323323",
             "Retailer": "Sentry Ammo",
             "Description": "Winchester Ammunition USA, 22LR, 36 Grain, Copper Plated Hollow Point, 525 Round Brick 22LR525HP 020892102651",
             "Brand": "Winchester",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/275869298563"
         },
         {
+            "id": "29466664",
             "Retailer": "Ammunition1.Direct",
             "Description": "REMINGTON TBOLT 22LR 40GR HV RN 525 047700212715",
             "Brand": "Remington",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/294321024544"
         },
         {
+            "id": "91987085",
             "Retailer": "D4Guns",
             "Description": "Federal Champion .22LR 36gr Copper Plated HP 525 Rounds 745 029465057169",
             "Brand": "Federal",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/310068926764"
         },
         {
+            "id": "12563885",
             "Retailer": "US Armory",
             "Description": "Remington Thunderbolt 047700212715 22 Long Rifle 40 Grains Lead Round Nose",
             "Brand": "Remington",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/279191791261"
         },
         {
+            "id": "62834141",
             "Retailer": "Sentry Ammo",
             "Description": "Winchester Ammunition Rimfire, 22LR, 36 Grain, Hollow Point, 555 Round Brick 22LR555HP 020892102477",
             "Brand": "Winchester",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/275865650863"
         },
         {
+            "id": "76245802",
             "Retailer": "Fast Ammo",
             "Description": "Blazer Ammunition Blazer, 22LR, High Velocity, 40 Grain, Lead, 50 Round Box 21 076683000217",
             "Brand": "Blazer",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/274685036926"
         },
         {
+            "id": "10810518",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/276364407763"
         },
         {
+            "id": "17711196",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/288124339339"
         },
         {
+            "id": "56046172",
             "Retailer": "Sentry Ammo",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/276364407760"
         },
         {
+            "id": "27295364",
             "Retailer": "Fast Ammo",
             "Description": "AGUILA HIGH-VEL 22LR 38GR HP 2000RD CASE LOT 640420013305",
             "Brand": "Aguila",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/274704634873"
         },
         {
+            "id": "22920559",
             "Retailer": "Ammo ASAP",
             "Description": "Aguila High Velocity .22 LR 38 Grain CPHP Value Pack 640420013145",
             "Brand": "Aguila",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/288124339324"
         },
         {
+            "id": "19880407",
             "Retailer": "Fast Ammo",
             "Description": "Blazer Ammunition Blazer, 22LR, High Velocity, 40 Grain, Lead, 50 Round Box 21 076683000217",
             "Brand": "Blazer",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/274685036959"
         },
         {
+            "id": "20225965",
             "Retailer": "Fast Ammo",
             "Description": "CCI 0051 Pistol Match Competition 22LR 40gr Lead Round Nose 50 Per Box/100 Case 076683000514",
             "Brand": "CCI",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/274688296747"
         },
         {
+            "id": "27043801",
             "Retailer": "Fast Ammo",
             "Description": "CCI Ammunition Hunting, 22LR, 40 Grain, Game Point, 50 Round Box 960 076683009609",
             "Brand": "CCI",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/274689071797"
         },
         {
+            "id": "11870649",
             "Retailer": "Fast Ammo",
             "Description": "CCI Ammunition Standard Velocity, 22LR, 40 Grain, Lead Round Nose, 50 Round Box 35 076683000354",
             "Brand": "CCI",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/274684684663"
         },
         {
+            "id": "28871467",
             "Retailer": "Ammo ASAP",
             "Description": "Blazer Ammunition Blazer, 22LR, High Velocity, 40 Grain, Lead, 50 Round Box 21 076683000217",
             "Brand": "Blazer",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/288124040953"
         },
         {
+            "id": "34883131",
             "Retailer": "Red River Reloading",
             "Description": "Aguila Super Extra .22 LR Hi-Velocity 40gr CP SP /50",
             "Brand": "Aguila",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/263359462816"
         },
         {
+            "id": "77607762",
             "Retailer": "Fast Ammo",
             "Description": "CCI Ammunition Standard Velocity, 22LR, 40 Grain, Lead Round Nose, 100 Round Box 32 076683000323",
             "Brand": "CCI",

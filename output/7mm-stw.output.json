@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "10330412",
             "Retailer": "Alamo Ammo",
             "Description": "7mm STW Nosler Trophy Grade 175 gr. Spitzer AccuBond Long Range 200 rnds 2950 fps (10 boxes) Brass M-ID: 60104 UPC: 054041601047",
             "Brand": "Nosler",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/312062081407"
         },
         {
+            "id": "29871341",
             "Retailer": "Alamo Ammo",
             "Description": "7mm STW Nosler Trophy Grade 175 gr. Spitzer AccuBond Long Range 20 rnds 2950 fps Brass M-ID: 60104 UPC: 054041601047",
             "Brand": "Nosler",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/312062081410"
         },
         {
+            "id": "29832401",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Nosler 7mm STW Ammunition 60104 175 gr Nosler Spitzer AccuBond Long Range 20 Rounds 054041601047",
             "Brand": "Nosler",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/313081680736"
         },
         {
+            "id": "90797178",
             "Retailer": "MidwayUSA",
             "Description": "Nosler Trophy Grade 7mm STW Ammo 160 Grain Nosler AccuBond Bonded Polymer Tip Box of 20 054041600477",
             "Brand": "Nosler",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/311788204918"
         },
         {
+            "id": "10943079",
             "Retailer": "MidwayUSA",
             "Description": "Nosler Trophy Grade 7mm STW Ammo 175 Grain Nosler AccuBond Long Range Bonded Polymer Tip Box of 20 054041601047",
             "Brand": "Nosler",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/309136149538"
         },
         {
+            "id": "24925039",
             "Retailer": "GunMag Warehouse",
             "Description": "Nosler Trophy Grade 7 STW Ammo 160gr Accubond 20 Rounds 054041600477",
             "Brand": "Nosler",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/311804246404"
         },
         {
+            "id": "33326455",
             "Retailer": "DeadEye Precision",
             "Description": "7mm STW 160 Grain Speer Hot-Cor BLEMS 20rds Save $ Send us your brass! We can make this ammo for you!",
             "Brand": "DeadEye",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/304411325002"
         },
         {
+            "id": "16330981",
             "Retailer": "DeadEye Precision",
             "Description": "7mm STW 160 Grain Speer Hot-Cor 20rds Save $ Send us your brass! We can make this ammo for you!",
             "Brand": "DeadEye",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/304411325005"
         },
         {
+            "id": "25025972",
             "Retailer": "Big K Ammo",
             "Description": "7mm STW Remington Core-lokt 140 Gr 20 rounds Ultra desirable 698581628175",
             "Brand": "Remington",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/272933136700"
         },
         {
+            "id": "16309751",
             "Retailer": "Big K Ammo",
             "Description": "7mm STW Speer Nitrex Grand Slam 145 Grain 15 rounds/box 245101299138",
             "Brand": "Speer",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/313281996700"
         },
         {
+            "id": "69988570",
             "Retailer": "Big K Ammo",
             "Description": "7mm STW Winchester Fail Safe 160 Grain 20 rounds/box 477526199370",
             "Brand": "Winchester",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/313279985032"
         },
         {
+            "id": "71454994",
             "Retailer": "Alamo Ammo",
             "Description": "7mm STW Federal Premium 150 gr. Trophy Bonded Bear Claw 20 rnds 3250 fps Brass ** NEW BOX ** M-ID: P7STWT1 UPC: 029465092153",
             "Brand": "Federal",

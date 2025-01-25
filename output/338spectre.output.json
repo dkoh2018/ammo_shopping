@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "29049737",
             "Retailer": "MidwayUSA",
             "Description": "SBR 338 Spectre Ammo 225 Grain Hornady Interlock Jacketed Soft Point Box of 20 835902002124",
             "Brand": "SBR",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/274588747543"
         },
         {
+            "id": "33887336",
             "Retailer": "MidwayUSA",
             "Description": "SBR 338 Spectre Ammo 200 Grain Nosler AccuBond Bonded Polymer Tip Box of 20 835902001592",
             "Brand": "SBR",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/287114585524"
         },
         {
+            "id": "26209832",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 338 SPECTRE 200GR ACCUBOND 835902001592",
             "Brand": "SBR",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/282343896361"
         },
         {
+            "id": "13591697",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 338 spectre 225gr JSP 835902003794",
             "Brand": "SBR",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/282343896376"
         },
         {
+            "id": "22165890",
             "Retailer": "Shadowsmith Ammo",
             "Description": "SBR 338 SPECTRE 180GR ACCUBOND 835902003770",
             "Brand": "SBR",

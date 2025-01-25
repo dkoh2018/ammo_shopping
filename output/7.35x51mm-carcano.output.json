@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "32483813",
             "Retailer": "Charlie Mike's Armory",
             "Description": "Bannerman 7.35x51 Carcano Ammunition BCCA735X51 128 Grain Soft Point 20 Rounds",
             "Brand": "Bannerman",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/314060915314"
         },
         {
+            "id": "15405287",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Bannerman 7.35X51 CARCANO 128GR SP 850049725033",
             "Brand": "Bannerman",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/281572564171"
         },
         {
+            "id": "24649079",
             "Retailer": "Steinel Ammo",
             "Description": "7.35 x 51mm Carcano 150gr. RNFP 20rds",
             "Brand": "Steinel",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/260563611568"
         },
         {
+            "id": "12166412",
             "Retailer": "Outdoor Limited",
             "Description": "Bannerman 7.35x51 Carcano Ammunition BCCA735X51 128 Grain Soft Point 20 Rounds 850049725033FREE SHIPPING on orders $200+",
             "Brand": "Bannerman",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/249364038088"
         },
         {
+            "id": "11044649",
             "Retailer": "War Pig Armory",
             "Description": "1939 Enbloc Clips Italian Military Surplus 7.35x51mm 128 Grain 18 Rounds (NO TAX OUTSIDE OH)FREE SHIPPING ON $199+",
             "Brand": "surplus",

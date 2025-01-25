@@ -1,6 +1,7 @@
 {
     "results": [
         {
+            "id": "30056000",
             "Retailer": "Collector Rifle and Ammo",
             "Description": "REMINGTON 7mm WEATHERBY MAG 140gr PSP 20rd BOX",
             "Brand": "Remington",
@@ -16,6 +17,7 @@
             "Link": "https://ammoseek.com/share/a/271691103295"
         },
         {
+            "id": "17797919",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -31,6 +33,7 @@
             "Link": "https://ammoseek.com/share/a/288124196395"
         },
         {
+            "id": "27046298",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -46,6 +49,7 @@
             "Link": "https://ammoseek.com/share/a/289825627573"
         },
         {
+            "id": "19792844",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -61,6 +65,7 @@
             "Link": "https://ammoseek.com/share/a/274704635425"
         },
         {
+            "id": "32819200",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -76,6 +81,7 @@
             "Link": "https://ammoseek.com/share/a/274704635428"
         },
         {
+            "id": "60275407",
             "Retailer": "Gman Sporting Arms",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -91,6 +97,7 @@
             "Link": "https://ammoseek.com/share/a/235126489423"
         },
         {
+            "id": "99917660",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -106,6 +113,7 @@
             "Link": "https://ammoseek.com/share/a/274704635431"
         },
         {
+            "id": "12480770",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -121,6 +129,7 @@
             "Link": "https://ammoseek.com/share/a/289825627558"
         },
         {
+            "id": "28848159",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Weatherby 7MM WBY MAGNUM 154GR SPIRE POINT 747115010325",
             "Brand": "Weatherby",
@@ -136,6 +145,7 @@
             "Link": "https://ammoseek.com/share/a/290895619891"
         },
         {
+            "id": "23137172",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Weatherby 7MM WBY MAG 154GR INTERLOCK 747115443307",
             "Brand": "Weatherby",
@@ -151,6 +161,7 @@
             "Link": "https://ammoseek.com/share/a/281572584241"
         },
         {
+            "id": "29137191",
             "Retailer": "DACK Outdoors",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396Some orders take up to 30 days to ship",
             "Brand": "Weatherby",
@@ -166,6 +177,7 @@
             "Link": "https://ammoseek.com/share/a/277100384875"
         },
         {
+            "id": "30128099",
             "Retailer": "BattleHawk Armory",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -181,6 +193,7 @@
             "Link": "https://ammoseek.com/share/a/276918410740"
         },
         {
+            "id": "17057452",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -196,6 +209,7 @@
             "Link": "https://ammoseek.com/share/a/275876935912"
         },
         {
+            "id": "33146710",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -211,6 +225,7 @@
             "Link": "https://ammoseek.com/share/a/275876935918"
         },
         {
+            "id": "30887301",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -226,6 +241,7 @@
             "Link": "https://ammoseek.com/share/a/275876935915"
         },
         {
+            "id": "24975591",
             "Retailer": "USA Gun Store",
             "Description": "WEATHERBY 7MM WBY MAGNUM 140GR 747115425396",
             "Brand": "Weatherby",
@@ -241,6 +257,7 @@
             "Link": "https://ammoseek.com/share/a/257891169844"
         },
         {
+            "id": "19798938",
             "Retailer": "US Armory",
             "Description": "Weatherby Select Plus 747115425396 7 mm Weatherby Magnum 140 Grains lead-free",
             "Brand": "Weatherby",
@@ -256,6 +273,7 @@
             "Link": "https://ammoseek.com/share/a/279191787385"
         },
         {
+            "id": "25037429",
             "Retailer": "Ammunition1.Direct",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -271,6 +289,7 @@
             "Link": "https://ammoseek.com/share/a/294321016726"
         },
         {
+            "id": "20994704",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Weatherby 7mm Wthby Mag Ammunition B7MM140TTSX 140 gr Barnes Tipped TSX lead-free 20 Rounds 747115425396",
             "Brand": "Weatherby",
@@ -286,6 +305,7 @@
             "Link": "https://ammoseek.com/share/a/273284361670"
         },
         {
+            "id": "13530388",
             "Retailer": "All Alpha Armory",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -301,6 +321,7 @@
             "Link": "https://ammoseek.com/share/a/282226060564"
         },
         {
+            "id": "77545052",
             "Retailer": "Missouri River Munitions",
             "Description": "Weatherby Select Plus 747115425396 7 mm Weatherby Magnum 140 Grains lead-free",
             "Brand": "Weatherby",
@@ -316,6 +337,7 @@
             "Link": "https://ammoseek.com/share/a/307110748507"
         },
         {
+            "id": "14730071",
             "Retailer": "Foundry Outdoors",
             "Description": "Weatherby B7MM140TTSX Barnes 7mm Weatherby Magnum 140 GR Barnes Tipped TSX 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -331,6 +353,7 @@
             "Link": "https://ammoseek.com/share/a/258408045157"
         },
         {
+            "id": "33261143",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING",
             "Brand": "Weatherby",
@@ -346,6 +369,7 @@
             "Link": "https://ammoseek.com/share/a/276142391032"
         },
         {
+            "id": "67218755",
             "Retailer": "Ammo Lab",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -361,6 +385,7 @@
             "Link": "https://ammoseek.com/share/a/218895204438"
         },
         {
+            "id": "10918409",
             "Retailer": "De Leon RX and Sporting Goods",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -376,6 +401,7 @@
             "Link": "https://ammoseek.com/share/a/202487541058"
         },
         {
+            "id": "21630201",
             "Retailer": "Skogen's Gun Supply",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396FREE SHIPPING on orders over $300",
             "Brand": "Weatherby",
@@ -391,6 +417,7 @@
             "Link": "https://ammoseek.com/share/a/207821382072"
         },
         {
+            "id": "25565321",
             "Retailer": "AmmoJoy",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr 3250 fps Barnes Tipped TSX lead-free 20 Bx/10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -406,6 +433,7 @@
             "Link": "https://ammoseek.com/share/a/228006137127"
         },
         {
+            "id": "33539149",
             "Retailer": "Armed In Michigan",
             "Description": "WEATHERBY AMMO 7MM WBY MAGNUM - 140GR TTSX 20RD 10BX/CS 747115425396",
             "Brand": "Weatherby",
@@ -421,6 +449,7 @@
             "Link": "https://ammoseek.com/share/a/295256817706"
         },
         {
+            "id": "30404348",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING on $250+",
             "Brand": "Weatherby",
@@ -436,6 +465,7 @@
             "Link": "https://ammoseek.com/share/a/276142391008"
         },
         {
+            "id": "12667845",
             "Retailer": "Apex Ordnance",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -451,6 +481,7 @@
             "Link": "https://ammoseek.com/share/a/298585944898"
         },
         {
+            "id": "31640685",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715FREE SHIPPING",
             "Brand": "Weatherby",
@@ -466,6 +497,7 @@
             "Link": "https://ammoseek.com/share/a/276142399447"
         },
         {
+            "id": "18386750",
             "Retailer": "Palmetto State Armory",
             "Description": "Weatherby Select Plus 7mm Weatherby Mag 140 grain Barnes TTSX Rifle Ammo, 20/Box - B7MM140TTSX 747115425396",
             "Brand": "Weatherby",
@@ -481,6 +513,7 @@
             "Link": "https://ammoseek.com/share/a/183485264314"
         },
         {
+            "id": "12311016",
             "Retailer": "Green Top",
             "Description": "Weatherby Select Pus 7mm Weatherby Mag 140gr TSX 20rd - FREE SHIPPING Over $100 Under 50Lbs 747115425396",
             "Brand": "Weatherby",
@@ -496,6 +529,7 @@
             "Link": "https://ammoseek.com/share/a/280805792101"
         },
         {
+            "id": "16900609",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -511,6 +545,7 @@
             "Link": "https://ammoseek.com/share/a/288124291432"
         },
         {
+            "id": "90918942",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -526,6 +561,7 @@
             "Link": "https://ammoseek.com/share/a/288124291420"
         },
         {
+            "id": "12546265",
             "Retailer": "Ammo ASAP",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -541,6 +577,7 @@
             "Link": "https://ammoseek.com/share/a/288124291411"
         },
         {
+            "id": "20670098",
             "Retailer": "Firearms Depot",
             "Description": "Weatherby 7MM WTHBY MAGNUM, 140gr, TTSX - 20 Rounds [MPN: B7MM140TTSX] (747115425396) 747115425396",
             "Brand": "Weatherby",
@@ -556,6 +593,7 @@
             "Link": "https://ammoseek.com/share/a/205075224049"
         },
         {
+            "id": "30066880",
             "Retailer": "Firearms Depot",
             "Description": "Weatherby 7MM WTHBY MAGNUM, 140gr, TTSX - 20 Rounds [MPN: B7MM140TTSX]",
             "Brand": "Weatherby",
@@ -571,6 +609,7 @@
             "Link": "https://ammoseek.com/share/a/249702850399"
         },
         {
+            "id": "13949257",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -586,6 +625,7 @@
             "Link": "https://ammoseek.com/share/a/274708391341"
         },
         {
+            "id": "72044316",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -601,6 +641,7 @@
             "Link": "https://ammoseek.com/share/a/274708391347"
         },
         {
+            "id": "13997309",
             "Retailer": "Fast Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -616,6 +657,7 @@
             "Link": "https://ammoseek.com/share/a/274708391353"
         },
         {
+            "id": "19724121",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -631,6 +673,7 @@
             "Link": "https://ammoseek.com/share/a/275879936185"
         },
         {
+            "id": "95635833",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -646,6 +689,7 @@
             "Link": "https://ammoseek.com/share/a/275879936188"
         },
         {
+            "id": "10235571",
             "Retailer": "Sentry Ammo",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715",
             "Brand": "Weatherby",
@@ -661,6 +705,7 @@
             "Link": "https://ammoseek.com/share/a/275879936191"
         },
         {
+            "id": "45625270",
             "Retailer": "Ammunition Depot",
             "Description": "Weatherby Select 7mm Weatherby Mag 154 Grain Interlock (Box) 747115443307 H7MM154IL-BOXFREE SHIPPING on orders over $149",
             "Brand": "Weatherby",
@@ -676,6 +721,7 @@
             "Link": "https://ammoseek.com/share/a/231858911362"
         },
         {
+            "id": "27396995",
             "Retailer": "2Ammo",
             "Description": "Weatherby Select 7mm Weatherby Mag 154 Grain Interlock (Box) 747115443307 H7MM154IL-BOX",
             "Brand": "Weatherby",
@@ -691,6 +737,7 @@
             "Link": "https://ammoseek.com/share/a/259822879840"
         },
         {
+            "id": "33913842",
             "Retailer": "Armored Boar Gunworks",
             "Description": "WEATHERBY AMMO 7MM WBY MAGNUM - 140GR TTSX 20RD 10BX/CS 747115425396",
             "Brand": "Weatherby",
@@ -706,6 +753,7 @@
             "Link": "https://ammoseek.com/share/a/298320389854"
         },
         {
+            "id": "77686896",
             "Retailer": "Big Mike's Guns and Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Per Box/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -721,6 +769,7 @@
             "Link": "https://ammoseek.com/share/a/285208218862"
         },
         {
+            "id": "26574140",
             "Retailer": "Foundry Outdoors",
             "Description": "Wby Ammo 7mm Weatherby Magnum 140gr. Barnes Ttsx 20-Pack 747115415809",
             "Brand": "Weatherby",
@@ -736,6 +785,7 @@
             "Link": "https://ammoseek.com/share/a/274692834169"
         },
         {
+            "id": "15107944",
             "Retailer": "Vizards Guns and Ammo",
             "Description": "Weatherby B7MM140TTSX 7Mm Weatherby Magnum Ammunition 140Gr Polymer Tipped 20 Rounds 747115425396",
             "Brand": "Weatherby",
@@ -751,6 +801,7 @@
             "Link": "https://ammoseek.com/share/a/275849585344"
         },
         {
+            "id": "13116944",
             "Retailer": "GrabAGun",
             "Description": "Weatherby Select Plus Brass 7mm WBY 150 Grain 20-Rounds Scirocco - $12.99 Shipping on Unlimited Boxes - UPC: 747115451715",
             "Brand": "Weatherby",
@@ -766,6 +817,7 @@
             "Link": "https://ammoseek.com/share/a/266786390104"
         },
         {
+            "id": "33653678",
             "Retailer": "Georgia Guns & Ammo",
             "Description": "WBY AMMO 7MMWBY 140GR TTSX 20/10 747115425396",
             "Brand": "Weatherby",
@@ -781,6 +833,7 @@
             "Link": "https://ammoseek.com/share/a/313019887723"
         },
         {
+            "id": "78226950",
             "Retailer": "MCM Tactical",
             "Description": "WEATHERBY 7MM WBY MAGNUM 140GR 747115425396",
             "Brand": "Weatherby",
@@ -796,6 +849,7 @@
             "Link": "https://ammoseek.com/share/a/272905083358"
         },
         {
+            "id": "15180185",
             "Retailer": "Global Ordnance",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Per Box 10 Case UPC: 747115425396",
             "Brand": "Weatherby",
@@ -811,6 +865,7 @@
             "Link": "https://ammoseek.com/share/a/276487218784"
         },
         {
+            "id": "33739752",
             "Retailer": "Adventure Gear South",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -826,6 +881,7 @@
             "Link": "https://ammoseek.com/share/a/284830974232"
         },
         {
+            "id": "11117723",
             "Retailer": "Chesapeake Gunslingers",
             "Description": "WEATHERBY 7MM WBY MAGNUM 140GR 747115425396",
             "Brand": "Weatherby",
@@ -841,6 +897,7 @@
             "Link": "https://ammoseek.com/share/a/266198945431"
         },
         {
+            "id": "36717845",
             "Retailer": "Drifters Gear",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -856,6 +913,7 @@
             "Link": "https://ammoseek.com/share/a/225768053220"
         },
         {
+            "id": "21525183",
             "Retailer": "SST Firearms",
             "Description": "WEATHERBY AMMO 7MM WBY MAGNUM - 140GR TTSX 20RD 10BX/CS 747115425396",
             "Brand": "Weatherby",
@@ -871,6 +929,7 @@
             "Link": "https://ammoseek.com/share/a/281568579193"
         },
         {
+            "id": "28131651",
             "Retailer": "Nautilus Ammunition",
             "Description": "Weatherby Select Plus, Wthby B7mm140ttsx 7mmwby 140 Ttsx 20/10 - FAST FLAT RATE SHIPPING! 747115425396",
             "Brand": "Weatherby",
@@ -886,6 +945,7 @@
             "Link": "https://ammoseek.com/share/a/276071323129"
         },
         {
+            "id": "30169082",
             "Retailer": "Ordnance Outpost",
             "Description": "Wby Ammo 7mmwby 160gr Nos Prt 20/200 RPLWYN7MM160PT 747115020362",
             "Brand": "Weatherby",
@@ -901,6 +961,7 @@
             "Link": "https://ammoseek.com/share/a/315106379953"
         },
         {
+            "id": "18985807",
             "Retailer": "DB Firearms",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr 3250 fps Barnes Tipped TSX lead-free 20 Bx/10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -916,6 +977,7 @@
             "Link": "https://ammoseek.com/share/a/261733188136"
         },
         {
+            "id": "25822716",
             "Retailer": "Wholesale Hunter",
             "Description": "Weatherby Select Plus Rifle Ammunition 7mm Wby Mag 150 Gr Scirocco 3225 Fps 20/ct 747115451715",
             "Brand": "Weatherby",
@@ -931,6 +993,7 @@
             "Link": "https://ammoseek.com/share/a/259688136421"
         },
         {
+            "id": "24696985",
             "Retailer": "Ammo Sale",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. Model: F7MM150SCO 747115451715",
             "Brand": "Weatherby",
@@ -946,6 +1009,7 @@
             "Link": "https://ammoseek.com/share/a/263439153091"
         },
         {
+            "id": "38757433",
             "Retailer": "LG Outdoors",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. Model: F7MM150SCO 747115451715",
             "Brand": "Weatherby",
@@ -961,6 +1025,7 @@
             "Link": "https://ammoseek.com/share/a/263439336712"
         },
         {
+            "id": "42578567",
             "Retailer": "LG Outdoors",
             "Description": "7mm Weatherby Mag 140 Grain Tipped TSX 20 Rounds Ammunition Magnum 747115425396",
             "Brand": "Weatherby",
@@ -976,6 +1041,7 @@
             "Link": "https://ammoseek.com/share/a/135649065995"
         },
         {
+            "id": "24920048",
             "Retailer": "Wholesale Hunter",
             "Description": "7mm Weatherby Magnum 20 Rounds Ammunition 140 Grain Tipped TSX 747115425396",
             "Brand": "Weatherby",
@@ -991,6 +1057,7 @@
             "Link": "https://ammoseek.com/share/a/135723403757"
         },
         {
+            "id": "16445324",
             "Retailer": "Ammo Sale",
             "Description": "7mm Weatherby Mag 140 Grain Tipped TSX 20 Rounds Ammunition Magnum 747115425396",
             "Brand": "Weatherby",
@@ -1006,6 +1073,7 @@
             "Link": "https://ammoseek.com/share/a/199835028472"
         },
         {
+            "id": "29512003",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715FREE SHIPPING on $250+",
             "Brand": "Weatherby",
@@ -1021,6 +1089,7 @@
             "Link": "https://ammoseek.com/share/a/276142399432"
         },
         {
+            "id": "11061371",
             "Retailer": "Shooting Surplus",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Rounds 747115425396",
             "Brand": "Weatherby",
@@ -1036,6 +1105,7 @@
             "Link": "https://ammoseek.com/share/a/293798985007"
         },
         {
+            "id": "26895631",
             "Retailer": "L&M Guns and Gear",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396",
             "Brand": "Weatherby",
@@ -1051,6 +1121,7 @@
             "Link": "https://ammoseek.com/share/a/310091201539"
         },
         {
+            "id": "11099644",
             "Retailer": "Able's",
             "Description": "Weatherby Select Rifle Ammunition B7MM140TTSX, 7mm Weatherby Mag, Barnes Tipped TSX, 140 GR, 3250 fps, 20 Rd/Bx 747115425396",
             "Brand": "Weatherby",
@@ -1066,6 +1137,7 @@
             "Link": "https://ammoseek.com/share/a/257672193184"
         },
         {
+            "id": "21909126",
             "Retailer": "Tactical Surplus USA",
             "Description": "Weatherby 7mm Wby Magnum 140gr - Barnes Ttsx 20rd 10bx/cs 747115425396FREE SHIPPING on $1000+",
             "Brand": "Weatherby",
@@ -1081,6 +1153,7 @@
             "Link": "https://ammoseek.com/share/a/254914255324"
         },
         {
+            "id": "27237253",
             "Retailer": "Impact Guns",
             "Description": "Weatherby Select Plus, 7MM Weatherby Magnum, 140Gr, Tipped Triple Shock X, 20rd Box, CA Certified lead-free Ammunition 747115425396",
             "Brand": "Weatherby",
@@ -1096,6 +1169,7 @@
             "Link": "https://ammoseek.com/share/a/157487559320"
         },
         {
+            "id": "23201766",
             "Retailer": "Guns.com",
             "Description": "WEATHERBY SELECT PLUS 747115425396",
             "Brand": "Weatherby",
@@ -1111,6 +1185,7 @@
             "Link": "https://ammoseek.com/share/a/294523060705"
         },
         {
+            "id": "36205192",
             "Retailer": "Loftus Firearms",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Per Box/ 10 Case 747115425396",
             "Brand": "Weatherby",
@@ -1126,6 +1201,7 @@
             "Link": "https://ammoseek.com/share/a/284693853010"
         },
         {
+            "id": "10269506",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING on $250+",
             "Brand": "Weatherby",
@@ -1141,6 +1217,7 @@
             "Link": "https://ammoseek.com/share/a/276142390987"
         },
         {
+            "id": "18147863",
             "Retailer": "Black Basin",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING on orders over $500",
             "Brand": "Weatherby",
@@ -1156,6 +1233,7 @@
             "Link": "https://ammoseek.com/share/a/306717271432"
         },
         {
+            "id": "30410505",
             "Retailer": "Keen Dynamics",
             "Description": "Weatherby Select Plus 747115425396 7 mm Weatherby Magnum 140 Grains lead-free",
             "Brand": "Weatherby",
@@ -1171,6 +1249,7 @@
             "Link": "https://ammoseek.com/share/a/279196960294"
         },
         {
+            "id": "24234048",
             "Retailer": "Black Basin",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING on orders over $500",
             "Brand": "Weatherby",
@@ -1186,6 +1265,7 @@
             "Link": "https://ammoseek.com/share/a/306717271429"
         },
         {
+            "id": "41441249",
             "Retailer": "Black Basin",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mmWthbyMag 140gr Barnes Tipped TSX lead-free 20 Per Box/10 Case 747115425396FREE SHIPPING on orders over $500",
             "Brand": "Weatherby",
@@ -1201,6 +1281,7 @@
             "Link": "https://ammoseek.com/share/a/306717271426"
         },
         {
+            "id": "23860509",
             "Retailer": "CME Firearms",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -1216,6 +1297,7 @@
             "Link": "https://ammoseek.com/share/a/303763552555"
         },
         {
+            "id": "15108740",
             "Retailer": "Lightning Strike Arms",
             "Description": "Weatherby Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140... 747115425396",
             "Brand": "Weatherby",
@@ -1231,6 +1313,7 @@
             "Link": "https://ammoseek.com/share/a/271767028774"
         },
         {
+            "id": "32245210",
             "Retailer": "Ammo Sale",
             "Description": "7mm Weatherby Mag 140 Grain A-Max 20 Rounds Ammunition Magnum 747115425396",
             "Brand": "Weatherby",
@@ -1246,6 +1329,7 @@
             "Link": "https://ammoseek.com/share/a/200135825479"
         },
         {
+            "id": "21081428",
             "Retailer": "LG Outdoors",
             "Description": "7mm Weatherby Mag 140 Grain A-Max 20 Rounds Ammunition Magnum 747115425396",
             "Brand": "Weatherby",
@@ -1261,6 +1345,7 @@
             "Link": "https://ammoseek.com/share/a/200136104245"
         },
         {
+            "id": "22666799",
             "Retailer": "Netti Ammo",
             "Description": "WEATHERBY 7MM WBY MAGNUM 140GR 747115425396",
             "Brand": "Weatherby",
@@ -1276,6 +1361,7 @@
             "Link": "https://ammoseek.com/share/a/268208081071"
         },
         {
+            "id": "17946128",
             "Retailer": "Ammo Hero",
             "Description": "Weatherby Rifle Ammo 7mm WBY 150 gr. Scirocco 20 rd. 747115451715FREE SHIPPING on $250+",
             "Brand": "Weatherby",
@@ -1291,6 +1377,7 @@
             "Link": "https://ammoseek.com/share/a/276142399393"
         },
         {
+            "id": "22204731",
             "Retailer": "Midsouth Shooters Supply",
             "Description": "Weatherby 7mm Weatherby Magnum 140 Grain Barnes Triple Shock 20 Rounds",
             "Brand": "Weatherby",
@@ -1306,6 +1393,7 @@
             "Link": "https://ammoseek.com/share/a/207395912919"
         },
         {
+            "id": "18156889",
             "Retailer": "Natchez Shooting & Outdoors",
             "Description": "Weatherby Select Plus Rifle Ammunition 7mm Wby Mag 150 gr Scirocco 3225 fps 20/ct 747115451715",
             "Brand": "Weatherby",
@@ -1321,6 +1409,7 @@
             "Link": "https://ammoseek.com/share/a/277959520177"
         },
         {
+            "id": "74212155",
             "Retailer": "LeadFeather Guns & Ammo",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Bx/ 10 Cs 747115425396",
             "Brand": "Weatherby",
@@ -1336,6 +1425,7 @@
             "Link": "https://ammoseek.com/share/a/278896993405"
         },
         {
+            "id": "83948362",
             "Retailer": "Cape Gun Works",
             "Description": "Weatherby B7MM140TTSX Select Plus 7mm Wthby Mag 140 gr Barnes Tipped TSX lead-free 20 Round Box 747115425396",
             "Brand": "Weatherby",
@@ -1351,6 +1441,7 @@
             "Link": "https://ammoseek.com/share/a/258167844946"
         },
         {
+            "id": "25177692",
             "Retailer": "MidwayUSA",
             "Description": "Weatherby Select Plus 7mm Weatherby Magnum Ammo 140 Grain Barnes Triple-Shock X Solid Hollow Point lead-free Box of 20 747115425396",
             "Brand": "Weatherby",
@@ -1366,6 +1457,7 @@
             "Link": "https://ammoseek.com/share/a/269107164343"
         },
         {
+            "id": "20802575",
             "Retailer": "MidwayUSA",
             "Description": "Weatherby Select Plus 7mm Weatherby Magnum Ammo 146 Grain Solid Hollow Point lead-free Box of 20 747115450190",
             "Brand": "Weatherby",
@@ -1381,6 +1473,7 @@
             "Link": "https://ammoseek.com/share/a/269107145878"
         },
         {
+            "id": "15536523",
             "Retailer": "Weatherby",
             "Description": "Weatherby 7MM WBY MAG - 140gr. Barnes TTSX - 20ct.",
             "Brand": "Weatherby",
@@ -1396,6 +1489,7 @@
             "Link": "https://ammoseek.com/share/a/244142273623"
         },
         {
+            "id": "28423888",
             "Retailer": "Weatherby",
             "Description": "Weatherby 7MM WBY MAG - 146gr. Hammer Custom Bullet - 20ct.",
             "Brand": "Weatherby",
@@ -1411,6 +1505,7 @@
             "Link": "https://ammoseek.com/share/a/244142273623"
         },
         {
+            "id": "10069055",
             "Retailer": "Weatherby",
             "Description": "Weatherby 7MM WBY MAG - 150gr. Swift Scirocco - 20ct.",
             "Brand": "Weatherby",
@@ -1426,6 +1521,7 @@
             "Link": "https://ammoseek.com/share/a/244142273623"
         },
         {
+            "id": "24073778",
             "Retailer": "SCHEELS",
             "Description": "Weatherby Select Plus Barnes TTSX 7mm Weatherby Magnum Rifle Ammunition 20 Round Box 747115425396",
             "Brand": "Weatherby",
@@ -1441,6 +1537,7 @@
             "Link": "https://ammoseek.com/share/a/296069324590"
         },
         {
+            "id": "12354689",
             "Retailer": "Shadowsmith Ammo",
             "Description": "Weatherby 7MM WBY MAG 140GR TTSX 747115425396",
             "Brand": "Weatherby",
@@ -1456,6 +1553,7 @@
             "Link": "https://ammoseek.com/share/a/281572584073"
         },
         {
+            "id": "15361651",
             "Retailer": "Native Outdoors Ammunition",
             "Description": "Weatherby Select Plus 7mm WBY MAG 140Gr Barnes Tipped TSX - 20 Rounds B7MM140TTSX 747115425396",
             "Brand": "Weatherby",
@@ -1471,6 +1569,7 @@
             "Link": "https://ammoseek.com/share/a/196579427356"
         },
         {
+            "id": "13776098",
             "Retailer": "Ammunition Depot",
             "Description": "Weatherby Select Plus 7mm Weatherby Mag 140 Grain TTSX (Box) 747115425396 B7MM140TTSX-BOXFREE SHIPPING on orders over $149",
             "Brand": "Weatherby",
@@ -1486,6 +1585,7 @@
             "Link": "https://ammoseek.com/share/a/214627229247"
         },
         {
+            "id": "50967225",
             "Retailer": "2Ammo",
             "Description": "Weatherby Select Plus 7mm Weatherby Mag 140 Grain TTSX (Box) 747115425396 B7MM140TTSX-BOX",
             "Brand": "Weatherby",
