@@ -17,7 +17,7 @@ def load_and_preprocess_data():
 
 
 def main():
-    st.title("🎯 Find Your Ammo!")
+    st.title("Find Your Ammo! 🎯")
     st.markdown("### Your one-stop shop for the best ammo prices")
 
     df = load_and_preprocess_data()
