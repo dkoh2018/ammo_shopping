@@ -22,53 +22,58 @@ def main():
 
     df = load_and_preprocess_data()
 
-    col1, col2 = st.columns(2)
-    with col1:
-        unique_brands = sorted(df["Brand"].unique().tolist())
-        selected_brand = st.selectbox("Select Brand:", ["All Brands"] + unique_brands)
-
-    with col2:
-        # Add a dropdown for filtering by description
-        unique_descriptions = sorted(df["Description"].unique().tolist())
-        selected_description = st.selectbox(
-            "Select Description:", ["All Descriptions"] + unique_descriptions
-        )
-
-    col1, col2 = st.columns(2)
-    with col1:
-        if selected_brand == "All Brands":
-            price_min, price_max = int(df["Price"].min()), int(df["Price"].max())
-            round_price_min, round_price_max = df["$/round"].min(), df["$/round"].max()
-        else:
-            brand_df = df[df["Brand"] == selected_brand]
-            price_min, price_max = int(brand_df["Price"].min()), int(
-                brand_df["Price"].max()
-            )
-            round_price_min, round_price_max = (
-                brand_df["$/round"].min(),
-                brand_df["$/round"].max(),
+    with st.expander("Filter Options", expanded=True):
+        col1, col2 = st.columns(2)
+        with col1:
+            unique_brands = sorted(df["Brand"].unique().tolist())
+            selected_brand = st.selectbox(
+                "Select Brand:", ["All Brands"] + unique_brands
             )
 
-        if price_min == price_max:
-            price_max = price_min + 1
-        if round_price_min == round_price_max:
-            round_price_max = round_price_min + 0.001
+        with col2:
+            unique_descriptions = sorted(df["Description"].unique().tolist())
+            selected_description = st.selectbox(
+                "Select Description:", ["All Descriptions"] + unique_descriptions
+            )
 
-        price_range = st.slider(
-            "Price ($):",
-            min_value=price_min,
-            max_value=price_max,
-            value=(price_min, price_max),
-        )
+        col1, col2 = st.columns(2)
+        with col1:
+            if selected_brand == "All Brands":
+                price_min, price_max = int(df["Price"].min()), int(df["Price"].max())
+                round_price_min, round_price_max = (
+                    df["$/round"].min(),
+                    df["$/round"].max(),
+                )
+            else:
+                brand_df = df[df["Brand"] == selected_brand]
+                price_min, price_max = int(brand_df["Price"].min()), int(
+                    brand_df["Price"].max()
+                )
+                round_price_min, round_price_max = (
+                    brand_df["$/round"].min(),
+                    brand_df["$/round"].max(),
+                )
 
-    with col2:
-        round_price_range = st.slider(
-            "Price per Round ($/rd):",
-            min_value=round_price_min,
-            max_value=round_price_max,
-            value=(round_price_min, round_price_max),
-            format="%.3f",
-        )
+            if price_min == price_max:
+                price_max = price_min + 1
+            if round_price_min == round_price_max:
+                round_price_max = round_price_min + 0.001
+
+            price_range = st.slider(
+                "Price ($):",
+                min_value=price_min,
+                max_value=price_max,
+                value=(price_min, price_max),
+            )
+
+        with col2:
+            round_price_range = st.slider(
+                "Price per Round ($/rd):",
+                min_value=round_price_min,
+                max_value=round_price_max,
+                value=(round_price_min, round_price_max),
+                format="%.3f",
+            )
 
     # Apply filters
     filtered_df = df[
@@ -86,7 +91,7 @@ def main():
     if selected_description != "All Descriptions":
         filtered_df = filtered_df[filtered_df["Description"] == selected_description]
 
-    col1, col2, col3, col4, col5, col6 = st.columns(6)  # 6 columns now
+    col1, col2, col3, col4, col5, col6 = st.columns(6)
     with col1:
         st.metric("🎯 Ammo Listings Found", len(filtered_df))
     with col2:
