@@ -99,7 +99,7 @@ def main():
             filtered_df["Brand"].mode()[0] if not filtered_df.empty else "N/A",
         )
     with col5:
-        st.metric("🎁 Rounds per Box", f'{filtered_df["Rounds"].median():.0f}')
+        st.metric("🎁 Average Rounds per Box", f'{filtered_df["Rounds"].median():.0f}')
     with col6:
         st.metric("✨ Brass %", f'{(filtered_df["Casing"]=="brass").mean()*100:.1f}%')
 
