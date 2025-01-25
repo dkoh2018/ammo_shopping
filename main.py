@@ -9,18 +9,18 @@ import plotly.express as px
 def load_and_preprocess_data():
     with open("all_calibers.json", "r") as f:
         data = json.load(f)
-    df = pd.DataFrame(data["results"])
+        df = pd.DataFrame(data["results"])
 
     # Clean up and convert numerical columns
     df["Price"] = pd.to_numeric(df["Price"], errors="coerce")
     df["Rounds"] = pd.to_numeric(df["Rounds"], errors="coerce")
     df["$/round"] = pd.to_numeric(df["$/round"], errors="coerce")
-
     return df
 
 
 # Main Streamlit app
 def main():
+    st.set_page_config(page_title="Find Your Ammo!", page_icon="🎯")
     st.title("🎯 Find Your Ammo!")
     st.markdown("### Your one-stop shop for the best ammo prices")
 
