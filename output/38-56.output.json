@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "38-56 Winchester Black Powder Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": ".38-56",
+            "Grains": null,
+            "Price": 109.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/260613408016"
+        }
+    ]
+}

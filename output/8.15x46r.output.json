@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "8.15x46R Reloading Brass",
+            "Brand": "South Ammo",
+            "Caliber": "8.15x46R",
+            "Grains": 147,
+            "Price": 69.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "remanufactured",
+            "$/round": 3.5,
+            "Link": "https://ammoseek.com/share/a/299231424214"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "8.15x46R Rimmed New Production SMOKELESS Powder Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": "8.15x46R",
+            "Grains": null,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/279681039673"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "8.15x46R Rimmed New Production Black Powder Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": "8.15x46R",
+            "Grains": null,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/265875506779"
+        }
+    ]
+}

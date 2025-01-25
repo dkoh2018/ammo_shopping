@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "Reduced Load Non-paper-patched .468\" 577-450 Martini-Henry Ammo 577/450",
+            "Brand": "South Ammo",
+            "Caliber": "Martini-Henry",
+            "Grains": 525,
+            "Price": 54.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.86,
+            "Link": "https://ammoseek.com/share/a/281761289794"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "Non-paper-patched .468\" 577-450 Martini-Henry Ammo 577/450 - New Production",
+            "Brand": "South Ammo",
+            "Caliber": "Martini-Henry",
+            "Grains": 525,
+            "Price": 54.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.86,
+            "Link": "https://ammoseek.com/share/a/281761289800"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "577-450 Martini-Henry Ammo 577/450 - New Production",
+            "Brand": "South Ammo",
+            "Caliber": "Martini-Henry",
+            "Grains": 480,
+            "Price": 59.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.57,
+            "Link": "https://ammoseek.com/share/a/260613409396"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "Reduced Load 577-450 Martini-Henry Ammo 577/450",
+            "Brand": "South Ammo",
+            "Caliber": "Martini-Henry",
+            "Grains": 480,
+            "Price": 59.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.57,
+            "Link": "https://ammoseek.com/share/a/266132830543"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 577- 450 MARTINI-HENRY 480gr PP BULLET Limited Edition 5rd BOX",
+            "Brand": "Henry",
+            "Caliber": "Martini-Henry",
+            "Grains": 480,
+            "Price": 79.98,
+            "Rounds": 5,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 16.0,
+            "Link": "https://ammoseek.com/share/a/313568166523"
+        }
+    ]
+}

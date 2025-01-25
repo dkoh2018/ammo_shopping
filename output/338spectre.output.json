@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "SBR 338 Spectre Ammo 225 Grain Hornady Interlock Jacketed Soft Point Box of 20 835902002124",
+            "Brand": "SBR",
+            "Caliber": "Spectre",
+            "Grains": 225,
+            "Price": 37.59,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.88,
+            "Link": "https://ammoseek.com/share/a/274588747543"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "SBR 338 Spectre Ammo 200 Grain Nosler AccuBond Bonded Polymer Tip Box of 20 835902001592",
+            "Brand": "SBR",
+            "Caliber": "Spectre",
+            "Grains": 200,
+            "Price": 42.54,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.13,
+            "Link": "https://ammoseek.com/share/a/287114585524"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "SBR 338 SPECTRE 200GR ACCUBOND 835902001592",
+            "Brand": "SBR",
+            "Caliber": "Spectre",
+            "Grains": 200,
+            "Price": 45.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.25,
+            "Link": "https://ammoseek.com/share/a/282343896361"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "SBR 338 spectre 225gr JSP 835902003794",
+            "Brand": "SBR",
+            "Caliber": "Spectre",
+            "Grains": 225,
+            "Price": 45.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.25,
+            "Link": "https://ammoseek.com/share/a/282343896376"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "SBR 338 SPECTRE 180GR ACCUBOND 835902003770",
+            "Brand": "SBR",
+            "Caliber": "Spectre",
+            "Grains": 180,
+            "Price": 60.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/282343896373"
+        }
+    ]
+}

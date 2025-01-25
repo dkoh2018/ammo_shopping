@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Selway Armory",
+            "Description": "Underwood .338 Razorback 300 Gr. Hollow Point Boat Tail- Subsonic- Box of 20 816874023942",
+            "Brand": "Underwood",
+            "Caliber": "Razorback",
+            "Grains": 300,
+            "Price": 32.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.65,
+            "Link": "https://ammoseek.com/share/a/279921567787"
+        },
+        {
+            "Retailer": "Ammo Lab",
+            "Description": "UNDERWOOD 338 RAZORBACK 300GR. CUSTOM COMPETITION HOLLOW POINT BOAT TAIL 20 Rds Per Box 816874023942",
+            "Brand": "Underwood",
+            "Caliber": "Razorback",
+            "Grains": 300,
+            "Price": 32.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.65,
+            "Link": "https://ammoseek.com/share/a/274314999850"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Underwood 338 Razorback Ammo 300 Grain Hollow Point Boat Tail Box of 20 816874023942",
+            "Brand": "Underwood",
+            "Caliber": "Razorback",
+            "Grains": 300,
+            "Price": 41.39,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.07,
+            "Link": "https://ammoseek.com/share/a/271992422092"
+        }
+    ]
+}

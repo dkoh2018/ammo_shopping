@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 44-77 Sharps 400gr RNFP 88798000",
+            "Brand": "Load-X",
+            "Caliber": "Sharps",
+            "Grains": 400,
+            "Price": 150.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.5,
+            "Link": "https://ammoseek.com/share/a/281626315291"
+        }
+    ]
+}

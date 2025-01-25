@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "8x50R Austrian Mannlicher Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Mannlicher",
+            "Grains": 170,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/260613409123"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "8x50R Austrian Mannlicher Ammunition - Spitzer",
+            "Brand": "South Ammo",
+            "Caliber": "Mannlicher",
+            "Grains": 170,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/266741843419"
+        }
+    ]
+}

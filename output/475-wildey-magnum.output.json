@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "New Old Stock Wildey Brand .475 Wildey 265gr JHP 50rd Box .475wildeyjhpFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Wildey Magnum",
+            "Grains": 265,
+            "Price": 145.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 2.9,
+            "Link": "https://ammoseek.com/share/a/306283362235"
+        },
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "New Old Stock Wildey Brand .475 Wildey 265gr JSP 50rd Box 475wildjspFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Wildey Magnum",
+            "Grains": 265,
+            "Price": 145.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 2.9,
+            "Link": "https://ammoseek.com/share/a/306283362238"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE 475 WILDEY MAGNUM 350gr JSP 30rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Wildey Magnum",
+            "Grains": 350,
+            "Price": 89.98,
+            "Rounds": 30,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/276662560099"
+        }
+    ]
+}

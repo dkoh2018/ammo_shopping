@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Precision Cartridge Inc. 8x60S 174gr PSP 20rd box New Old Stock 5950109FREE SHIPPING on orders over $250",
+            "Brand": "PCI",
+            "Caliber": "S",
+            "Grains": 174,
+            "Price": 75.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.75,
+            "Link": "https://ammoseek.com/share/a/304730082862"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Precision Cartridge 8x60s 175gr PSP 87980999",
+            "Brand": "PCI",
+            "Caliber": "S",
+            "Grains": 175,
+            "Price": 89.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.45,
+            "Link": "https://ammoseek.com/share/a/281572573873"
+        }
+    ]
+}

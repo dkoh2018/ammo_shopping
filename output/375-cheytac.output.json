@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 375 CHEYTAC 390GR ATIP 4508191",
+            "Brand": "Load-X",
+            "Caliber": "CheyTac",
+            "Grains": 390,
+            "Price": 140.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.0,
+            "Link": "https://ammoseek.com/share/a/305346643681"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Gunwerks 375 CheyTac Ammo 377 Grain Cutting Edge MTAC Solid lead-free Box of 10 850056810197",
+            "Brand": "Gunwerks",
+            "Caliber": "CheyTac",
+            "Grains": 377,
+            "Price": 155.0,
+            "Rounds": 10,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 15.5,
+            "Link": "https://ammoseek.com/share/a/269107341412"
+        }
+    ]
+}

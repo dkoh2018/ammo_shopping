@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "New Old Stock Military Surplus 9x23 Steyr 42rd Partial BoxFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Steyr",
+            "Grains": null,
+            "Price": 42.0,
+            "Rounds": 42,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 1.0,
+            "Link": "https://ammoseek.com/share/a/313303586296"
+        },
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Vintage 1935 Production Sinoxid 9x23mm Steyr Brass Cased 50Rd Box 124gr FMJ 9mmsteyr1935FREE SHIPPING on orders over $250",
+            "Brand": "Steyr",
+            "Caliber": "Steyr",
+            "Grains": 124,
+            "Price": 94.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 1.9,
+            "Link": "https://ammoseek.com/share/a/306268205191"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Vintage 9x23 STEYR 115GR FMJ 09011966",
+            "Brand": "Steyr",
+            "Caliber": "Steyr",
+            "Grains": 115,
+            "Price": 95.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 1.9,
+            "Link": "https://ammoseek.com/share/a/305120696539"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "9x23 Steyr (9mm Steyr) - New Production Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": "Steyr",
+            "Grains": 115,
+            "Price": 69.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.5,
+            "Link": "https://ammoseek.com/share/a/306934672231"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Buffalo Arms 43 EGYPTIAN 1460",
+            "Brand": "Bore",
+            "Caliber": "Egyptian",
+            "Grains": null,
+            "Price": 200.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 10.0,
+            "Link": "https://ammoseek.com/share/a/281626309783"
+        }
+    ]
+}

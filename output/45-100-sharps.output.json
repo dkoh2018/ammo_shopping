@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Precision Cartridge 45-100 405gr RNFP 88877777",
+            "Brand": "PCI",
+            "Caliber": "Sharps",
+            "Grains": 405,
+            "Price": 140.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.0,
+            "Link": "https://ammoseek.com/share/a/281626316851"
+        }
+    ]
+}

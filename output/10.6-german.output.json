@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "10.6 German Ordnance Black Powder Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "German Ordnance",
+            "Grains": null,
+            "Price": 74.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.75,
+            "Link": "https://ammoseek.com/share/a/260613409090"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "GAD 10.6X25R 11MM REICHS REVOLVER 89977000",
+            "Brand": "GAD",
+            "Caliber": "German Ordnance",
+            "Grains": null,
+            "Price": 200.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/309364938382"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 6.5X50 Jap 120gr. Soft Point 888777777999",
+            "Brand": "Load-X",
+            "Caliber": "Japanese",
+            "Grains": 120,
+            "Price": 46.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.3,
+            "Link": "https://ammoseek.com/share/a/281626315306"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 6.5x50mm JAPANESE 140gr FMJ 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Japanese",
+            "Grains": 140,
+            "Price": 59.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/220424059722"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 6.5x50mm JAPANESE 140gr MATCH 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Japanese",
+            "Grains": 140,
+            "Price": 62.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.15,
+            "Link": "https://ammoseek.com/share/a/272457197986"
+        },
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 6.5x50 Japanese 120gr SP Ammo - 20 Rounds",
+            "Brand": "Heritage",
+            "Caliber": "Japanese",
+            "Grains": 120,
+            "Price": 74.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.75,
+            "Link": "https://ammoseek.com/share/a/61738647421"
+        },
+        {
+            "Retailer": "Big K Ammo",
+            "Description": "6.5 Jap Bannerman FMJ BT 139 Grain 20 round box No CC Fees Free Shipping over $250 690357713075",
+            "Brand": "Bannerman",
+            "Caliber": "Japanese",
+            "Grains": 139,
+            "Price": 79.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/269009164030"
+        }
+    ]
+}

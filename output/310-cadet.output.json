@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "310 Cadet Martini - Reloading Brass",
+            "Brand": "South Ammo",
+            "Caliber": "Cadet",
+            "Grains": 125,
+            "Price": 49.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "remanufactured",
+            "$/round": 2.5,
+            "Link": "https://ammoseek.com/share/a/271133662510"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "310 Cadet Martini Black Powder - New Production Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": "Cadet",
+            "Grains": 125,
+            "Price": 79.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/260613407986"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "310 Cadet Martini - New Production Smokeless Powder Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": "Cadet",
+            "Grains": 125,
+            "Price": 79.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/260613408022"
+        }
+    ]
+}

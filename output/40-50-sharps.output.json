@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "40-50 Sharps Bottleneck Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Sharps",
+            "Grains": null,
+            "Price": 109.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/260613409096"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "40-50 Sharps Straight Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Sharps",
+            "Grains": null,
+            "Price": 129.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.5,
+            "Link": "https://ammoseek.com/share/a/260613409105"
+        }
+    ]
+}

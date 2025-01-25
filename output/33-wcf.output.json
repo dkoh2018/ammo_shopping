@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 33 WINCHESTER (33 WCF) 200gr FLAT NOSE 20rd BOX",
+            "Brand": "Winchester",
+            "Caliber": "WCF",
+            "Grains": 200,
+            "Price": 109.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/274949759521"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "33 Winchester Centerfire (.33 WCF) Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "WCF",
+            "Grains": 250,
+            "Price": 114.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.75,
+            "Link": "https://ammoseek.com/share/a/260613409057"
+        }
+    ]
+}

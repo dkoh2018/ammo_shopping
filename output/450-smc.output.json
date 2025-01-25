@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Double Tap 450 SMC 230gr JHP 091037282903",
+            "Brand": "DoubleTap",
+            "Caliber": "SMC",
+            "Grains": 230,
+            "Price": 40.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.0,
+            "Link": "https://ammoseek.com/share/a/281626310371"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Double Tap 450 SMC 185gr JHP 091037683540",
+            "Brand": "DoubleTap",
+            "Caliber": "SMC",
+            "Grains": 185,
+            "Price": 40.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.0,
+            "Link": "https://ammoseek.com/share/a/281626310380"
+        }
+    ]
+}

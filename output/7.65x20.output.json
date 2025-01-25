@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Steinel Ammo",
+            "Description": "7.65 French Long 110gr RN 50 count",
+            "Brand": "Steinel",
+            "Caliber": "Longue",
+            "Grains": 110,
+            "Price": 43.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.88,
+            "Link": "https://ammoseek.com/share/a/259264458064"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Steinel 7.65 FRENCH 110GR CMJ 1106",
+            "Brand": "Steinel",
+            "Caliber": "Longue",
+            "Grains": 110,
+            "Price": 51.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.02,
+            "Link": "https://ammoseek.com/share/a/281572583458"
+        }
+    ]
+}

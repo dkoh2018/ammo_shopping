@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Fiocchi 5.75 Velo Dog 19739401",
+            "Brand": "Fiocchi",
+            "Caliber": "Velo-Dog",
+            "Grains": null,
+            "Price": 250.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/291104599087"
+        }
+    ]
+}

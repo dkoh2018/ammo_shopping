@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Norma 9.3X57 232GR ORYX 7393923193090",
+            "Brand": "Norma",
+            "Caliber": "9.3x57mm",
+            "Grains": 232,
+            "Price": 100.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/281572569928"
+        }
+    ]
+}

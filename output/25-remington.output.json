@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 25 Remington 117gr SP 32398878",
+            "Brand": "Load-X",
+            "Caliber": "Remington",
+            "Grains": 117,
+            "Price": 70.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.5,
+            "Link": "https://ammoseek.com/share/a/283295876476"
+        }
+    ]
+}

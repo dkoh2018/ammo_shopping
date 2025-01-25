@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Mead Industries",
+            "Description": "MADE IN THE USA!! .223 WSSM Hornady 50gr V-Max!! Free Ammo Box!!",
+            "Brand": "Mead",
+            "Caliber": "WSSM",
+            "Grains": 50,
+            "Price": 79.95,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "2",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/272358282331"
+        },
+        {
+            "Retailer": "Big K Ammo",
+            "Description": "223 WSSM .223 Winchester Super Short Mag HSM 50 Grain V-MAX 20 Rounds 857898957277",
+            "Brand": "HSM",
+            "Caliber": "WSSM",
+            "Grains": 50,
+            "Price": 95.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.75,
+            "Link": "https://ammoseek.com/share/a/267125918020"
+        }
+    ]
+}

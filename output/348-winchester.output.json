@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "HSM 348 WIN 200GR FLAT POINT 20RD BOX 810742021429FREE SHIPPING on orders over $250",
+            "Brand": "HSM",
+            "Caliber": "Win",
+            "Grains": 200,
+            "Price": 99.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/314666495965"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 348 WIN 220gr. Soft Point 20700587",
+            "Brand": "Load-X",
+            "Caliber": "Win",
+            "Grains": 220,
+            "Price": 120.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/313805225707"
+        },
+        {
+            "Retailer": "Velocity Ammo Sales",
+            "Description": "348 Win - HSM 200 Grain Lead Flat Point - 20 Rounds 810742021429 - FREE SHIPPING on orders $200+",
+            "Brand": "HSM",
+            "Caliber": "Win",
+            "Grains": 200,
+            "Price": 120.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/312465431485"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 348 WIN 200gr SP 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Win",
+            "Grains": 200,
+            "Price": 129.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.5,
+            "Link": "https://ammoseek.com/share/a/268184126212"
+        },
+        {
+            "Retailer": "Big K Ammo",
+            "Description": "HORNADY 348 WIN 20 rounds FTX lever revolution RARE 638433846522",
+            "Brand": "Hornady",
+            "Caliber": "Win",
+            "Grains": null,
+            "Price": 199.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 10.0,
+            "Link": "https://ammoseek.com/share/a/264128495329"
+        }
+    ]
+}

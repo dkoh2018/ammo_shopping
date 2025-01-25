@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Wilson Combat 7.62x40 110gr. HP 874218007553",
+            "Brand": "Combat",
+            "Caliber": "Wilson Tactical",
+            "Grains": 110,
+            "Price": 40.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.0,
+            "Link": "https://ammoseek.com/share/a/281572584892"
+        }
+    ]
+}

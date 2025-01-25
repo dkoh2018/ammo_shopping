@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 45-90 Winchester 305gr RNFP Ammo - 20 Rounds",
+            "Brand": "Heritage",
+            "Caliber": ".45-90",
+            "Grains": 305,
+            "Price": 72.5,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.62,
+            "Link": "https://ammoseek.com/share/a/60946861708"
+        },
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 45-90 Winchester 400gr RNFP Ammo - 20 Rounds",
+            "Brand": "Heritage",
+            "Caliber": ".45-90",
+            "Grains": 400,
+            "Price": 73.95,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.7,
+            "Link": "https://ammoseek.com/share/a/60946861711"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "45-90 Sharps Black Powder Ammunition - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": ".45-90",
+            "Grains": null,
+            "Price": 109.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/260613408019"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 45-90 400GR RNFP 894903001017",
+            "Brand": "Load-X",
+            "Caliber": ".45-90",
+            "Grains": 400,
+            "Price": 110.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/310014751111"
+        }
+    ]
+}

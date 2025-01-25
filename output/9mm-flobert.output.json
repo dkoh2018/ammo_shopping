@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "Optics Planet",
+            "Description": "Fiocchi Rimfire 9mm Flobert 9 Grain Shotshell Brass Ammo 50 Rounds 9FLS9 -FREE SHIPPING762344000824",
+            "Brand": "Fiocchi",
+            "Caliber": "Flobert",
+            "Grains": 9,
+            "Price": 52.79,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "F",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.06,
+            "Link": "https://ammoseek.com/share/a/267505534207"
+        },
+        {
+            "Retailer": "Optics Planet",
+            "Description": "Fiocchi Rinfire 9mm Flobert 7 1/2 Grain Shotshells Brass Ammo 50 Rounds 9FLS75 -FREE SHIPPING762344000800",
+            "Brand": "Fiocchi",
+            "Caliber": "Flobert",
+            "Grains": 7,
+            "Price": 53.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "F",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.08,
+            "Link": "https://ammoseek.com/share/a/259526788069"
+        },
+        {
+            "Retailer": "Sportsman's Guide",
+            "Description": "Fiocchi Fiocchi Specialty, 9mm Flobert, Rimfire Shotshells, 50 Rounds (only $52.24 for club members)",
+            "Brand": "Fiocchi",
+            "Caliber": "Flobert",
+            "Grains": null,
+            "Price": 54.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "7",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.1,
+            "Link": "https://ammoseek.com/share/a/270674704231"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Fiocchi 9mm Rimfire (Flobert) Ammo #7-1/2 Lead Shot Box of 50 762344000800",
+            "Brand": "Fiocchi",
+            "Caliber": "Flobert",
+            "Grains": null,
+            "Price": 59.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.2,
+            "Link": "https://ammoseek.com/share/a/307115247859"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Fiocchi 9mm Rimfire (Flobert) Ammo #9 Lead Shot Box of 50 762344000824",
+            "Brand": "Fiocchi",
+            "Caliber": "Flobert",
+            "Grains": null,
+            "Price": 59.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.2,
+            "Link": "https://ammoseek.com/share/a/269107210921"
+        }
+    ]
+}

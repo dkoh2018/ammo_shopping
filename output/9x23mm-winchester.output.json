@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Buffalo Bore 9x23mm Winchester Ammo 115 Grain Jacketed Hollow Point Box of 20 651815923017",
+            "Brand": "Bore",
+            "Caliber": "Win",
+            "Grains": 115,
+            "Price": 34.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.75,
+            "Link": "https://ammoseek.com/share/a/269107196023"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Buffalo Bore 9x23mm Winchester Ammo 124 Grain Jacketed Hollow Point Box of 20 651815923024",
+            "Brand": "Bore",
+            "Caliber": "Win",
+            "Grains": 124,
+            "Price": 34.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.75,
+            "Link": "https://ammoseek.com/share/a/269107272241"
+        }
+    ]
+}

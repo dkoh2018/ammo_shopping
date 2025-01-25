@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "9mm Japanese Revolver Ammunition 9x22 Type 26 Nambu - Thick Rim Mod .059\"",
+            "Brand": "South Ammo",
+            "Caliber": "9x22R",
+            "Grains": null,
+            "Price": 69.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.5,
+            "Link": "https://ammoseek.com/share/a/305428829191"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "9mm Japanese Revolver Ammunition 9x22 Type 26 Nambu - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "9x22R",
+            "Grains": null,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/260613409069"
+        }
+    ]
+}

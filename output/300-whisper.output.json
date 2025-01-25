@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Target Sports USA",
+            "Description": "Black Hills 300 Whisper Ammo 125 Grain Sierra Tipped MatchKing Box of 20 - brass case - MPN D300WHISPERN3 ( UPC - 612710131976)",
+            "Brand": "Hills",
+            "Caliber": "Whisper",
+            "Grains": 125,
+            "Price": 31.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.55,
+            "Link": "https://ammoseek.com/share/a/264308893183"
+        },
+        {
+            "Retailer": "Target Sports USA",
+            "Description": "Black Hills 300 Whisper Ammo 125 Grain Sierra Tipped MatchKing Case of 500 (25 Boxes of 20) -- FREE SHIPPING- brass case - MPN D300WHISPERN3 ( UPC - 612710131976)",
+            "Brand": "Hills",
+            "Caliber": "Whisper",
+            "Grains": 125,
+            "Price": 775.0,
+            "Rounds": 500,
+            "Casing": "brass",
+            "S/H": "F",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.55,
+            "Link": "https://ammoseek.com/share/a/264308893183"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 30-221 220gr BTHP 887112321233",
+            "Brand": "Load-X",
+            "Caliber": "Whisper",
+            "Grains": 220,
+            "Price": 55.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.75,
+            "Link": "https://ammoseek.com/share/a/281572569625"
+        }
+    ]
+}

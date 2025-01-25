@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Steinel Ammo",
+            "Description": "41 Special 215gr SWC Cowboy Load",
+            "Brand": "Steinel",
+            "Caliber": "Special",
+            "Grains": 215,
+            "Price": 44.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.9,
+            "Link": "https://ammoseek.com/share/a/278877222046"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Precision Cartridge 41 Special 225gr RNFP 87666777",
+            "Brand": "PCI",
+            "Caliber": "Special",
+            "Grains": 225,
+            "Price": 65.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.3,
+            "Link": "https://ammoseek.com/share/a/281572573318"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 43 SPANISH 370gr LEAD 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Spanish",
+            "Grains": 370,
+            "Price": 119.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/222828632682"
+        },
+        {
+            "Retailer": "Old Arms of Idaho",
+            "Description": "Vintage 11.15x58R (.43 Spanish Remington) Ammunition - 9 Cartridges",
+            "Brand": "Remington",
+            "Caliber": "Spanish",
+            "Grains": 375,
+            "Price": 99.0,
+            "Rounds": 9,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 11.0,
+            "Link": "https://ammoseek.com/share/a/310061108581"
+        }
+    ]
+}

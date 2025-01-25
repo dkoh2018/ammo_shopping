@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Winchester Repeating Arms 307 Winchester 150gr Power Point 020892200883",
+            "Brand": "Winchester",
+            "Caliber": "Win",
+            "Grains": 150,
+            "Price": 100.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/281626319245"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Winchester Repeating Arms 307 winchester 180gr Power-Point x3076 020892200890",
+            "Brand": "Winchester",
+            "Caliber": "Win",
+            "Grains": 180,
+            "Price": 100.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/281626319248"
+        }
+    ]
+}

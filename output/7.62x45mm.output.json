@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "CZECH Czech 7.62x45 15rnds 1421",
+            "Brand": "USA",
+            "Caliber": "7.62x45mm",
+            "Grains": null,
+            "Price": 25.0,
+            "Rounds": 15,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.67,
+            "Link": "https://ammoseek.com/share/a/281572565113"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "7.62x45 VZ-52 Reloading Brass",
+            "Brand": "South Ammo",
+            "Caliber": "7.62x45mm",
+            "Grains": 147,
+            "Price": 69.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "remanufactured",
+            "$/round": 3.5,
+            "Link": "https://ammoseek.com/share/a/289567915477"
+        }
+    ]
+}

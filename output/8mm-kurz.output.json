@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "SGAmmo",
+            "Description": "500 Round Case - 7.92x33 Kurz Ammo for Sale - 124 Grain FMJ - Made by Prvi Partizan - PP7K- Free Shipping",
+            "Brand": "Partizan",
+            "Caliber": "Kurz",
+            "Grains": 124,
+            "Price": 599.75,
+            "Rounds": 500,
+            "Casing": "brass",
+            "S/H": "F",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.2,
+            "Link": "https://ammoseek.com/share/a/100312527620"
+        },
+        {
+            "Retailer": "SGAmmo",
+            "Description": "20 Round Box - 7.92x33 Kurz Ammo For Sale - 124 Grain FMJ - Made by Prvi Partizan - PP7K-Free shipping on $200+",
+            "Brand": "Partizan",
+            "Caliber": "Kurz",
+            "Grains": 124,
+            "Price": 26.95,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.35,
+            "Link": "https://ammoseek.com/share/a/77855"
+        },
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Military Surplus 8mm Kurz Post-War Steel Cased Corrosive 125gr 15rd BoxFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Kurz",
+            "Grains": 125,
+            "Price": 30.0,
+            "Rounds": 15,
+            "Casing": "steel",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 2.0,
+            "Link": "https://ammoseek.com/share/a/313285606363"
+        },
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Military Surplus 8mm Kurz Post-War Corrosive Steel Cased 125gr 5rd Stripper ClipsFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Kurz",
+            "Grains": 125,
+            "Price": 11.0,
+            "Rounds": 5,
+            "Casing": "steel",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 2.2,
+            "Link": "https://ammoseek.com/share/a/313285606366"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "EAST GERMAN MILITARY SURPLUS 7.92x33mm KURZ 125gr FMJ STEEL CASE 15rd BOX",
+            "Brand": "surplus",
+            "Caliber": "Kurz",
+            "Grains": 125,
+            "Price": 42.98,
+            "Rounds": 15,
+            "Casing": "steel",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 2.87,
+            "Link": "https://ammoseek.com/share/a/274967545708"
+        }
+    ]
+}

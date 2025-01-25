@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "LG Outdoors",
+            "Description": "Ammo Inc 7.62x54r 170 Grain Full Metal Jacket M30 Ball 150 Rounds Can(Price per unit for order of 10+ units)818778024889",
+            "Brand": "Inc",
+            "Caliber": "7.62x53R",
+            "Grains": 170,
+            "Price": 145.87,
+            "Rounds": 150,
+            "Casing": "brass",
+            "S/H": "5",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.972,
+            "Link": "https://ammoseek.com/share/a/258974731666"
+        },
+        {
+            "Retailer": "Ammo Sale",
+            "Description": "Ammo Inc 7.62x54r 170 Grain Full Metal Jacket M30 Ball 150 Rounds Can(Price per unit for order of 10+ units)818778024889",
+            "Brand": "Inc",
+            "Caliber": "7.62x53R",
+            "Grains": 170,
+            "Price": 145.87,
+            "Rounds": 150,
+            "Casing": "brass",
+            "S/H": "5",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.972,
+            "Link": "https://ammoseek.com/share/a/258973948159"
+        }
+    ]
+}

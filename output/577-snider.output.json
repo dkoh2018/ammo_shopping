@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 577 SNIDER 500gr LEAD LTD ED 5rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Snider",
+            "Grains": 500,
+            "Price": 34.98,
+            "Rounds": 5,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.0,
+            "Link": "https://ammoseek.com/share/a/313578974596"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "577 Snider Enfield Ammo - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Snider",
+            "Grains": 480,
+            "Price": 59.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.57,
+            "Link": "https://ammoseek.com/share/a/260613409390"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "Reduced Load 577 Snider Enfield Ammo - New Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Snider",
+            "Grains": 480,
+            "Price": 59.99,
+            "Rounds": 7,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.57,
+            "Link": "https://ammoseek.com/share/a/289567915480"
+        }
+    ]
+}

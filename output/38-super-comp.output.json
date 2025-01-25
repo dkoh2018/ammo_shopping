@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Ammo ASAP",
+            "Description": "DoubleTap Ammunition 38SU124CT Doubletap Defense 38Super+P 124gr Jacket Hollow Point 20 Per Box/10 Case 091037282651",
+            "Brand": "DoubleTap",
+            "Caliber": "Super Comp",
+            "Grains": 124,
+            "Price": 20.34,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "3",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.02,
+            "Link": "https://ammoseek.com/share/a/313940041573"
+        },
+        {
+            "Retailer": "Ammo ASAP",
+            "Description": "DoubleTap Ammunition 38SU124CT Doubletap Defense 38Super+P 124gr Jacket Hollow Point 20 Per Box/10 Case 091037282651",
+            "Brand": "DoubleTap",
+            "Caliber": "Super Comp",
+            "Grains": 124,
+            "Price": 519.33,
+            "Rounds": 500,
+            "Casing": "brass",
+            "S/H": "3",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.04,
+            "Link": "https://ammoseek.com/share/a/313940041585"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Vintage Partial Box of Peters 6.5 Rem Magnum 19rd Box 120gr PSP peters6.5rmFREE SHIPPING on orders over $250",
+            "Brand": "surplus",
+            "Caliber": "Rem Mag",
+            "Grains": 120,
+            "Price": 74.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 3.75,
+            "Link": "https://ammoseek.com/share/a/307164646678"
+        },
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "Vintage Partial Box of Remington 6.5 Rem Mag 120gr PTD-SP Core-Lokt 19Rd BoxFREE SHIPPING on orders over $250",
+            "Brand": "Remington",
+            "Caliber": "Rem Mag",
+            "Grains": 120,
+            "Price": 114.0,
+            "Rounds": 19,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/313319292532"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 6.5 REMINGTON MAGNUM 120GR SP 87666666",
+            "Brand": "Load-X",
+            "Caliber": "Rem Mag",
+            "Grains": 120,
+            "Price": 150.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 7.5,
+            "Link": "https://ammoseek.com/share/a/310008754921"
+        }
+    ]
+}

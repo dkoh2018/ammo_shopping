@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "Retailer": "DeadEye Precision",
+            "Description": "25 WSSM 100 Grain Speer SPBT 17 Rds Save $ Send us your brass! We can make this ammo for you!",
+            "Brand": "DeadEye",
+            "Caliber": "WSSM",
+            "Grains": 100,
+            "Price": 72.0,
+            "Rounds": 17,
+            "Casing": "brass",
+            "S/H": "7",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.24,
+            "Link": "https://ammoseek.com/share/a/310440492562"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 25 WSSM 117gr BTSP X00470Q091",
+            "Brand": "Load-X",
+            "Caliber": "WSSM",
+            "Grains": 117,
+            "Price": 89.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.45,
+            "Link": "https://ammoseek.com/share/a/298131440275"
+        },
+        {
+            "Retailer": "DeadEye Precision",
+            "Description": "25 WSSM 100 Grain Speer SPBT 20 Rds Save $ Send us your brass! We can make this ammo for you!",
+            "Brand": "DeadEye",
+            "Caliber": "WSSM",
+            "Grains": 100,
+            "Price": 90.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "7",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/304414497109"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 25 WSSM 117gr BALLISTIC TIP 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "WSSM",
+            "Grains": 117,
+            "Price": 99.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.0,
+            "Link": "https://ammoseek.com/share/a/272243777962"
+        }
+    ]
+}

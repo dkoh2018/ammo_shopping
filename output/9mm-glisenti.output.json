@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Steinel Ammo",
+            "Description": "9mm Italian Glisenti 125gr Conical Nose",
+            "Brand": "Steinel",
+            "Caliber": "Glisenti",
+            "Grains": 125,
+            "Price": 35.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.72,
+            "Link": "https://ammoseek.com/share/a/257905083754"
+        }
+    ]
+}

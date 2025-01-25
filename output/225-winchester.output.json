@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 225 WIN 50GR V-MAX 1272",
+            "Brand": "Load-X",
+            "Caliber": "Win",
+            "Grains": 50,
+            "Price": 75.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.75,
+            "Link": "https://ammoseek.com/share/a/291104589694"
+        },
+        {
+            "Retailer": "Big K Ammo",
+            "Description": "225 Winchester .225 WIN 55 grain pointed soft point PSP 20 Rds no CC Fees 182495630762",
+            "Brand": "Winchester",
+            "Caliber": "Win",
+            "Grains": 55,
+            "Price": 119.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/267228652804"
+        }
+    ]
+}

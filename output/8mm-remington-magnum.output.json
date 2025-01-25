@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Nosler Custom 8mm Remington Magnum Ammo 180 Grain Nosler Ballistic Tip Polymer Tip Box of 20 054041244107",
+            "Brand": "Nosler",
+            "Caliber": "Rem Mag",
+            "Grains": 180,
+            "Price": 97.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.9,
+            "Link": "https://ammoseek.com/share/a/277848873631"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Nosler Custom 8mm Remington Magnum Ammo 200 Grain Nosler AccuBond Bonded Polymer Tip Box of 20 054041244008",
+            "Brand": "Nosler",
+            "Caliber": "Rem Mag",
+            "Grains": 200,
+            "Price": 97.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.9,
+            "Link": "https://ammoseek.com/share/a/281208962710"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Remington 8MM REM.20GR SWIFT 047700175706",
+            "Brand": "Remington",
+            "Caliber": "Rem Mag",
+            "Grains": 20,
+            "Price": 110.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/281572574038"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Remington 8MM REM 185R CO 1154",
+            "Brand": "Remington",
+            "Caliber": "Rem Mag",
+            "Grains": null,
+            "Price": 110.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 5.5,
+            "Link": "https://ammoseek.com/share/a/281572574083"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 40-82 255gr RNFP 77654544",
+            "Brand": "Load-X",
+            "Caliber": "Win",
+            "Grains": 255,
+            "Price": 175.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.75,
+            "Link": "https://ammoseek.com/share/a/309364941163"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Precision Cartridge 40-82 Winchester 260gr LRN 87776577",
+            "Brand": "PCI",
+            "Caliber": "Win",
+            "Grains": 260,
+            "Price": 175.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.75,
+            "Link": "https://ammoseek.com/share/a/286712546758"
+        }
+    ]
+}

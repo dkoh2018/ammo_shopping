@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "M1873 45-70-405 Gov Black Powder Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": ".45-70-405",
+            "Grains": 405,
+            "Price": 89.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.5,
+            "Link": "https://ammoseek.com/share/a/260613408964"
+        }
+    ]
+}

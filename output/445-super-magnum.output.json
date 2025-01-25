@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "DeadEye Precision",
+            "Description": "445 Super Magnum Sierra 250 Grain FPJ 29rds Save your brass! We can make this ammo for you!",
+            "Brand": "DeadEye",
+            "Caliber": "SuperMag",
+            "Grains": 250,
+            "Price": 80.0,
+            "Rounds": 29,
+            "Casing": "brass",
+            "S/H": "7",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.76,
+            "Link": "https://ammoseek.com/share/a/297579814201"
+        },
+        {
+            "Retailer": "MidwayUSA",
+            "Description": "Buffalo Bore 445 Super Magnum Ammo 240 Grain Jacketed Hollow Point Box of 20 651815445021",
+            "Brand": "Bore",
+            "Caliber": "SuperMag",
+            "Grains": 240,
+            "Price": 57.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.9,
+            "Link": "https://ammoseek.com/share/a/269107323178"
+        }
+    ]
+}

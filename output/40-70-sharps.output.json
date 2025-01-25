@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 40-70 Sharps straight 260gr RNFP 87922265",
+            "Brand": "Load-X",
+            "Caliber": "Sharps",
+            "Grains": 260,
+            "Price": 120.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/291104599126"
+        }
+    ]
+}

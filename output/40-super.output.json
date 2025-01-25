@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "Retailer": "Outdoor Limited",
+            "Description": "DoubleTap 40 Super Ammunition 40S200FP 200 Grain Hardcast Solid Flat Point 20 Rounds 753387048904FREE SHIPPING on orders $200+",
+            "Brand": "DoubleTap",
+            "Caliber": "Super",
+            "Grains": 200,
+            "Price": 27.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "7CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.4,
+            "Link": "https://ammoseek.com/share/a/307267290316"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Double Tap 40 Super 135gr JHP 091037282675",
+            "Brand": "DoubleTap",
+            "Caliber": "Super",
+            "Grains": 135,
+            "Price": 35.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.75,
+            "Link": "https://ammoseek.com/share/a/281572565122"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Double Tap 40 Super 180gr JHP 091037282682",
+            "Brand": "DoubleTap",
+            "Caliber": "Super",
+            "Grains": 180,
+            "Price": 35.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.75,
+            "Link": "https://ammoseek.com/share/a/281572565125"
+        },
+        {
+            "Retailer": "We Kick Brass",
+            "Description": "Underwood Ammo 40 Super 140gr. Xtreme Penetrator(r) Solid Monolithic Hunting & Self Defense Ammo 816874021979 -$15.95 flat rate shipping / FREE SHIPPING over $300",
+            "Brand": "Underwood",
+            "Caliber": "Super",
+            "Grains": 140,
+            "Price": 44.39,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.22,
+            "Link": "https://ammoseek.com/share/a/313571401423"
+        },
+        {
+            "Retailer": "Outdoor Limited",
+            "Description": "Underwood 40 Super Ammunition UW633 140 Grain Xtreme Penetrator 20 Rounds 816874021979FREE SHIPPING on orders $200+",
+            "Brand": "Underwood",
+            "Caliber": "Super",
+            "Grains": 140,
+            "Price": 44.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "7CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.25,
+            "Link": "https://ammoseek.com/share/a/200949104893"
+        }
+    ]
+}

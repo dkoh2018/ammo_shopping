@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 41 Long Colt 200gr RNFP Ammo - 50 Rounds",
+            "Brand": "Heritage",
+            "Caliber": "Long Colt",
+            "Grains": 200,
+            "Price": 97.85,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.96,
+            "Link": "https://ammoseek.com/share/a/67208718016"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 41 LONG COLT 200GR RNP 886666333000",
+            "Brand": "Load-X",
+            "Caliber": "Long Colt",
+            "Grains": 200,
+            "Price": 150.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/301383832873"
+        },
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "41 Long Colt BLACK POWDER Ammunition Thunderer - NEW Production!",
+            "Brand": "South Ammo",
+            "Caliber": "Long Colt",
+            "Grains": 200,
+            "Price": 79.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/304466373661"
+        },
+        {
+            "Retailer": "Old Arms of Idaho",
+            "Description": "Scarce Winchester Repeating Arms Co. .41 Long Colt D.A. Ammunition - 5rds",
+            "Brand": "Colt",
+            "Caliber": "Long Colt",
+            "Grains": 200,
+            "Price": 42.0,
+            "Rounds": 5,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.4,
+            "Link": "https://ammoseek.com/share/a/301388257600"
+        }
+    ]
+}

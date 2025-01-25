@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "We Kick Brass",
+            "Description": "Underwood Ammo 500 S&W Magnum 350gr. eXtreme Terminal Performance (XTP(r)) Jacketed Hollow Point Hunting Ammo 816874021078 -$15.95 flat rate shipping / FREE SHIPPING over $300",
+            "Brand": "Underwood",
+            "Caliber": "S&W Special",
+            "Grains": 350,
+            "Price": 48.74,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.44,
+            "Link": "https://ammoseek.com/share/a/313577160118"
+        },
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "HSM 500 S&W 300gr Copper Plated HP Ammo - 20 Rounds 837306006371",
+            "Brand": "HSM",
+            "Caliber": "S&W Special",
+            "Grains": 300,
+            "Price": 48.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.45,
+            "Link": "https://ammoseek.com/share/a/271765140598"
+        },
+        {
+            "Retailer": "Botach",
+            "Description": "Armscor 500SW 300gr JHP Ammunition 20-Rounds 812285022024",
+            "Brand": "Armscor",
+            "Caliber": "S&W Special",
+            "Grains": 300,
+            "Price": 54.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.75,
+            "Link": "https://ammoseek.com/share/a/248717925589"
+        }
+    ]
+}

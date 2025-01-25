@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Maryland Munitions",
+            "Description": "New Old Stock .41x22/ 41 Action Express Samson IMI 200gr FMJ-FN 50Rd Box 41aesamsonFREE SHIPPING on orders over $250",
+            "Brand": "IMI",
+            "Caliber": "Action Express",
+            "Grains": 200,
+            "Price": 100.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.0,
+            "Link": "https://ammoseek.com/share/a/306249873943"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Samson 41X22 (41 ACTION EXPRESS) 200GR FMJ 19739338",
+            "Brand": "Samson",
+            "Caliber": "Action Express",
+            "Grains": 200,
+            "Price": 150.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/304496906464"
+        }
+    ]
+}

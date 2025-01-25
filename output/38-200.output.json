@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Old South Ammo",
+            "Description": "38 S&W (.38/200 , 38 Short) Black Powder Ammunition",
+            "Brand": "South Ammo",
+            "Caliber": ".38/200",
+            "Grains": 145,
+            "Price": 59.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/260613407983"
+        }
+    ]
+}

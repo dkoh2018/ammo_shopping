@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Rivertown Munitions",
+            "Description": "HSM 284 Win 160 grain SIERRA GAMEKING Soft Point (20 rd box)",
+            "Brand": "HSM",
+            "Caliber": "Win",
+            "Grains": 160,
+            "Price": 79.95,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/195496023757"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Load-X 284 Winchester 139gr BTSP 94638796",
+            "Brand": "Load-X",
+            "Caliber": "Win",
+            "Grains": 139,
+            "Price": 85.0,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 4.25,
+            "Link": "https://ammoseek.com/share/a/281626315315"
+        }
+    ]
+}

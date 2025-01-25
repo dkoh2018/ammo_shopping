@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Charlie Mike's Armory",
+            "Description": ".22 Winchester Automatic 45 grain 50 round box",
+            "Brand": "Winchester",
+            "Caliber": "Win Auto",
+            "Grains": 45,
+            "Price": 44.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "8",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.9,
+            "Link": "https://ammoseek.com/share/a/314060914750"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Old Western Scrounger 22 Winchester Automatic 45 grain 1510",
+            "Brand": "Western Scrounger",
+            "Caliber": "Win Auto",
+            "Grains": 45,
+            "Price": 45.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.9,
+            "Link": "https://ammoseek.com/share/a/299124099787"
+        },
+        {
+            "Retailer": "Shadowsmith Ammo",
+            "Description": "Aguila 22 Winchester Automatic 45gr (for model 1903 only) 640420001173",
+            "Brand": "Aguila",
+            "Caliber": "Win Auto",
+            "Grains": 45,
+            "Price": 65.0,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.3,
+            "Link": "https://ammoseek.com/share/a/288317881147"
+        }
+    ]
+}

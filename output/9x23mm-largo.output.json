@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Steinel Ammo",
+            "Description": "9mm Largo 124gr. FMJ 50 Count",
+            "Brand": "Steinel",
+            "Caliber": "Largo",
+            "Grains": 124,
+            "Price": 45.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 0.92,
+            "Link": "https://ammoseek.com/share/a/258059126278"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "SANTA BARBARA 9x23mm LARGO 128gr FMJ 50rd BAG",
+            "Brand": "Barbara",
+            "Caliber": "Largo",
+            "Grains": 128,
+            "Price": 49.98,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.0,
+            "Link": "https://ammoseek.com/share/a/219253093767"
+        },
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 9mm Largo 124gr TMJ Ammo - 50 Rounds",
+            "Brand": "Heritage",
+            "Caliber": "Largo",
+            "Grains": 124,
+            "Price": 58.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.18,
+            "Link": "https://ammoseek.com/share/a/3584560004"
+        }
+    ]
+}

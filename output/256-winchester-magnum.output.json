@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "Retailer": "Ventura Munitions",
+            "Description": "Ventura Heritage 256 Winchester Magnum 60gr SP Ammo - 20 Rounds",
+            "Brand": "Heritage",
+            "Caliber": "Win Mag",
+            "Grains": 60,
+            "Price": 54.22,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 2.71,
+            "Link": "https://ammoseek.com/share/a/265020010837"
+        },
+        {
+            "Retailer": "DeadEye Precision",
+            "Description": "256 Winchester Magnum 60 Grain Jacketed Flat Point 20 Rds Save $$ Save your brass! We can make this ammo for you!",
+            "Brand": "DeadEye",
+            "Caliber": "Win Mag",
+            "Grains": 60,
+            "Price": 59.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "7",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 3.0,
+            "Link": "https://ammoseek.com/share/a/297869066194"
+        },
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "VINTAGE WESTERN SUPER X 256 WIN MAG 60gr OPEN POINT EXP - VINTAGE/SURPLUS - 50rd BOX",
+            "Brand": "Winchester",
+            "Caliber": "Win Mag",
+            "Grains": 60,
+            "Price": 199.98,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "N/A",
+            "$/round": 4.0,
+            "Link": "https://ammoseek.com/share/a/272338566523"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "Retailer": "Steinel Ammo",
+            "Description": "8X22mm Nambu 83gr. FMJ 50 Count",
+            "Brand": "Steinel",
+            "Caliber": "Nambu",
+            "Grains": 83,
+            "Price": 74.99,
+            "Rounds": 50,
+            "Casing": "brass",
+            "S/H": "9",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 1.5,
+            "Link": "https://ammoseek.com/share/a/257905083739"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "Retailer": "Collector Rifle and Ammo",
+            "Description": "OBSOLETE AMMO 350 REM MAG 225gr BARNES TSX FB 20rd BOX",
+            "Brand": "Obsolete",
+            "Caliber": "Rem Mag",
+            "Grains": 225,
+            "Price": 119.98,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "6",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 6.0,
+            "Link": "https://ammoseek.com/share/a/315359866867"
+        },
+        {
+            "Retailer": "Big K Ammo",
+            "Description": "350 Remington Magnum HSM 200 Gr. Hornady Interlock 350 rem mag Box of 20 Free Shipping over $250 667368848584",
+            "Brand": "HSM",
+            "Caliber": "Rem Mag",
+            "Grains": 200,
+            "Price": 159.99,
+            "Rounds": 20,
+            "Casing": "brass",
+            "S/H": "8CF",
+            "Limits": "N/A",
+            "New?": "new",
+            "$/round": 8.0,
+            "Link": "https://ammoseek.com/share/a/305852070247"
+        }
+    ]
+}
