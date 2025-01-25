@@ -30,14 +30,14 @@ def main():
     # Display key metrics in two rows with fun emojis
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.metric("🏷️ Total Deals Available", len(df))
-        st.metric("🎯 Different Calibers", df["Caliber"].nunique())
+        st.metric("🎯 Ammo Listings Found", len(df))
+        st.metric("💥 Caliber Varieties", df["Caliber"].nunique())
     with col2:
-        st.metric("💰 Average Cost per Round", f'${df["$/round"].mean():.3f}')
-        st.metric("⭐ Most Popular Brand", df["Brand"].mode()[0])
+        st.metric("💸 Average Cost Per Shot", f'${df["$/round"].mean():.3f}')
+        st.metric("🏆 Ammo King Brand", df["Brand"].mode()[0])
     with col3:
-        st.metric("📦 Typical Box Size", f'{df["Rounds"].median():.0f}')
-        st.metric("🔫 Brass Cases", f'{(df["Casing"]=="brass").mean()*100:.1f}%')
+        st.metric("🎁 Rounds per Box", f'{df["Rounds"].median():.0f}')
+        st.metric("✨ Premium Brass %", f'{(df["Casing"]=="brass").mean()*100:.1f}%')
 
     # Add price distribution chart
     st.subheader("💰 Price Check by Caliber")
