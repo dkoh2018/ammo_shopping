@@ -33,7 +33,7 @@ def main():
         st.metric("🏆 Ammo King Brand", df["Brand"].mode()[0])
     with col3:
         st.metric("🎁 Rounds per Box", f'{df["Rounds"].median():.0f}')
-        st.metric("✨ Premium Brass %", f'{(df["Casing"]=="brass").mean()*100:.1f}%')
+        st.metric("✨ Brass %", f'{(df["Casing"]=="brass").mean()*100:.1f}%')
 
     st.subheader("💰 Price Check by Caliber")
     fig = px.box(
